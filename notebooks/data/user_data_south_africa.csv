@@ -1,0 +1,2001 @@
+id,current_age,retirement_age,birth_year,birth_month,gender,address,per_capita_income,yearly_income,total_debt,credit_score,num_credit_cards
+825,53,66,1966,11,Female,"126 Main Road, Durban",527004,1074528,2297034,787,5
+1746,53,68,1966,12,Female,"254 Van der Merwe Avenue, Cape Town",682038,1390572,3444282,701,5
+1718,81,67,1938,11,Female,"856 King George Street, Pietermaritzburg",408258,602694,3528,698,5
+708,63,63,1957,1,Female,"565 Pretoria Street, Durban",2936610,4498650,3641904,722,4
+1164,43,70,1976,9,Male,"269 Swart Street, Pretoria",968346,1974366,3309390,675,1
+68,42,70,1977,10,Male,"121 Church Street, Gqeberha",370782,755946,0,704,3
+1075,36,67,1983,12,Female,"466 King George Street, Cape Town",454644,927000,1841148,672,3
+1711,26,67,1993,12,Male,"227 Durban Road, Durban",482220,983214,2064798,728,1
+1116,81,66,1938,7,Female,"116 Queen Street, Pietermaritzburg",472914,765162,52110,755,5
+1752,34,60,1986,1,Female,"215 Johannesburg Road, Durban",337140,687420,1462716,810,1
+192,27,66,1992,6,Male,"586 Johannesburg Road, Pietermaritzburg",495864,1010952,274032,761,2
+640,29,63,1990,9,Female,"709 Swart Street, East London",403686,823086,1692288,629,1
+1679,18,67,2002,1,Female,"801 Jan Smuts Avenue, Pietermaritzburg",610452,1244682,1605852,776,1
+1094,34,62,1985,10,Male,"997 Cape Road, Gqeberha",365850,745956,1418994,712,3
+1590,48,62,1971,5,Female,"78 Queen Street, Cape Town",181062,369234,585162,599,1
+1660,41,68,1978,4,Female,"400 Swart Street, Johannesburg",204156,416214,91422,723,6
+1747,54,71,1966,1,Male,"67 Nelson Mandela Drive, Cape Town",322164,656946,689994,719,6
+153,76,71,1943,8,Female,"318 Van der Merwe Avenue, Johannesburg",395100,494712,302454,660,4
+429,22,68,1997,11,Male,"54 Jan Smuts Avenue, East London",476658,971910,1603008,683,3
+511,66,68,1953,10,Male,"179 Victoria Road, Pietermaritzburg",314280,640836,996642,661,5
+309,28,57,1991,8,Male,"442 Victoria Road, Durban",221778,452196,777690,819,3
+777,18,65,2002,1,Male,"896 Church Street, Pietermaritzburg",1913490,3901320,0,700,2
+1946,76,66,1943,6,Male,"510 Jan Smuts Avenue, Bloemfontein",351432,739962,386748,698,2
+1674,70,64,1949,4,Male,"156 Jan Smuts Avenue, East London",255096,483444,202410,712,2
+482,45,65,1975,1,Male,"515 Jan Smuts Avenue, Cape Town",308358,628722,1149282,714,1
+877,36,63,1983,8,Female,"38 Market Street, Durban",302922,617706,1112868,610,3
+128,40,66,1979,4,Female,"994 Voortrekker Road, East London",277002,564786,1073070,722,2
+775,37,58,1982,9,Male,"306 Van der Merwe Avenue, Durban",385236,785484,1872936,627,1
+1536,41,67,1978,11,Male,"314 Queen Street, Pietermaritzburg",287190,585558,688680,766,2
+140,37,72,1983,2,Female,"687 King George Street, Cape Town",371826,758160,1310418,739,4
+1884,18,64,2001,5,Male,"571 Johannesburg Road, East London",505656,1031058,1604052,850,1
+1874,49,66,1970,9,Male,"446 Main Road, Cape Town",338904,691020,1582614,783,4
+1310,33,69,1986,9,Female,"318 Voortrekker Road, Pietermaritzburg",314964,642060,1047276,751,2
+1689,21,66,1998,9,Female,"782 Queen Street, Cape Town",545058,1111428,2786706,637,2
+379,47,65,1972,11,Female,"87 Voortrekker Road, East London",383958,782928,2062134,765,3
+34,41,55,1978,8,Male,"517 Queen Street, Durban",457758,933372,1298916,737,2
+822,51,68,1968,4,Female,"32 Voortrekker Road, Pretoria",304956,621720,407538,793,5
+1499,46,62,1973,11,Male,"676 Durban Road, East London",364464,743166,1586718,662,1
+1780,46,70,1973,10,Male,"572 Main Road, Pietermaritzburg",335934,684972,1139274,666,1
+1806,59,62,1961,2,Female,"808 King George Street, Gqeberha",709524,1446678,1952982,822,1
+811,91,68,1929,2,Female,"183 King George Street, East London",929556,1524492,38682,741,7
+1844,79,72,1941,2,Male,"882 Market Street, East London",424944,675054,256896,706,5
+1852,57,75,1962,12,Male,"963 Main Road, Pretoria",577008,1176426,393192,685,4
+1231,26,52,1994,1,Female,"503 Voortrekker Road, Gqeberha",194742,397188,701406,842,1
+970,42,66,1977,11,Male,"503 Johannesburg Road, Gqeberha",394488,804258,756198,770,3
+381,26,69,1994,2,Male,"980 Johannesburg Road, Johannesburg",452934,923508,1227564,675,1
+1134,18,59,2002,2,Female,"321 Durban Road, East London",228186,465246,834822,568,1
+1296,60,64,1959,11,Female,"289 Durban Road, Gqeberha",412128,840294,1676268,788,5
+1880,61,66,1958,11,Male,"376 Victoria Road, Gqeberha",278766,568422,943542,771,3
+322,47,65,1972,10,Male,"19 Durban Road, Pietermaritzburg",247662,504990,224550,829,3
+461,42,68,1977,12,Female,"241 Voortrekker Road, Durban",577404,1177254,1441026,784,4
+1165,55,73,1964,11,Female,"336 Cape Road, Gqeberha",243396,496296,1069272,797,1
+1448,48,70,1971,12,Female,"445 Nelson Mandela Drive, Johannesburg",340182,693702,0,850,3
+1288,41,57,1978,7,Female,"165 Queen Street, Pretoria",335988,685062,1227960,634,2
+1178,59,68,1960,11,Female,"40 Voortrekker Road, Cape Town",465696,949572,687438,693,5
+1391,45,59,1975,2,Male,"991 Church Street, Gqeberha",451962,921528,1208952,631,4
+838,26,70,1993,7,Male,"270 Nelson Mandela Drive, East London",438876,894834,1651968,763,1
+54,21,68,1998,4,Female,"314 Voortrekker Road, Cape Town",389880,794880,2415114,696,3
+1452,46,59,1973,5,Female,"529 Swart Street, Durban",1710702,3487914,4348278,660,1
+1602,41,66,1979,2,Female,"703 Victoria Road, Pretoria",263700,537552,808236,717,2
+1938,22,67,1997,7,Male,"615 Jan Smuts Avenue, Pretoria",506430,1032606,2077524,795,2
+1492,63,58,1957,2,Female,"748 Durban Road, Durban",588546,1019430,234270,786,8
+688,44,67,1975,3,Male,"188 Cape Road, Johannesburg",416970,850086,2718540,760,4
+749,22,68,1997,10,Male,"500 Cape Road, Pretoria",216918,442332,1452006,674,3
+643,29,65,1991,1,Female,"137 Durban Road, Durban",383094,781146,759024,697,2
+1219,28,72,1991,6,Female,"660 Voortrekker Road, Pretoria",512946,1045890,1264572,688,3
+1198,82,67,1937,6,Male,"878 Durban Road, Johannesburg",271656,195642,32760,820,2
+898,90,66,1929,6,Female,"784 Johannesburg Road, Pretoria",223686,358074,30816,566,3
+882,63,65,1956,8,Male,"530 Durban Road, East London",324342,661374,1290942,612,2
+348,49,70,1970,7,Female,"17 Pretoria Street, Durban",409446,834786,1439640,719,3
+633,36,69,1983,10,Female,"558 Nelson Mandela Drive, Johannesburg",442998,903222,1989270,743,1
+1493,30,65,1989,11,Male,"26 King George Street, East London",481464,981666,2195766,765,4
+1161,23,66,1996,12,Male,"892 Van der Merwe Avenue, Gqeberha",434790,886590,118026,823,2
+217,42,65,1977,10,Male,"571 Main Road, Durban",273978,558558,393354,744,7
+1877,65,66,1955,1,Male,"601 Durban Road, Pietermaritzburg",623862,1272114,1576890,714,4
+668,87,57,1932,10,Female,"764 Johannesburg Road, Cape Town",238734,294156,31644,747,5
+533,22,65,1997,9,Male,"873 King George Street, Pretoria",273294,557298,766746,677,1
+203,58,67,1961,3,Female,"876 Queen Street, Gqeberha",267552,545490,421056,776,3
+1738,30,68,1989,3,Male,"394 Johannesburg Road, East London",607248,1238112,3571506,696,4
+713,25,71,1994,8,Female,"777 Voortrekker Road, Cape Town",306720,625410,477054,691,4
+1631,18,67,2001,11,Female,"576 Main Road, Durban",571338,1164870,3143952,740,3
+1487,59,69,1961,2,Female,"264 Voortrekker Road, Johannesburg",710352,1448352,1372698,727,3
+1265,18,67,2002,2,Female,"179 Voortrekker Road, Johannesburg",439200,895464,416898,748,1
+370,61,58,1958,11,Male,"817 Voortrekker Road, East London",290034,754272,225810,655,4
+1014,54,70,1965,9,Female,"113 Main Road, East London",1737288,3542112,7875594,729,3
+290,27,66,1992,3,Female,"485 King George Street, Cape Town",890244,1815066,1104786,687,2
+985,32,65,1987,6,Male,"814 Church Street, East London",456012,929772,1718172,600,4
+135,64,69,1955,6,Female,"653 Durban Road, East London",336240,685584,930222,691,2
+307,18,69,2001,8,Male,"761 Durban Road, East London",325476,663588,0,680,2
+1783,52,70,1967,9,Male,"82 Nelson Mandela Drive, Johannesburg",331974,676926,1146402,749,5
+1321,49,66,1970,10,Female,"458 Queen Street, Durban",304380,620640,1058310,696,1
+1511,43,66,1977,1,Male,"294 Queen Street, Cape Town",426240,869022,2056572,719,2
+900,36,65,1983,7,Male,"185 Church Street, Pietermaritzburg",290394,592128,1256400,735,2
+953,18,71,2001,6,Male,"321 Victoria Road, Johannesburg",264006,538362,770976,664,2
+233,37,64,1982,12,Female,"80 Van der Merwe Avenue, Pietermaritzburg",419004,854352,1504638,716,1
+406,23,64,1996,5,Female,"187 Main Road, Bloemfontein",751500,1532304,1956204,641,1
+1069,54,69,1965,9,Male,"877 Jan Smuts Avenue, Pietermaritzburg",404766,825336,2065428,615,2
+180,33,67,1986,7,Female,"790 Jan Smuts Avenue, Gqeberha",234432,478008,774756,840,2
+996,63,67,1956,11,Female,"15 Church Street, Pretoria",354816,723492,1939770,738,6
+1866,22,67,1998,2,Male,"640 Cape Road, Cape Town",548550,1118430,1353762,676,2
+1981,48,65,1972,1,Male,"605 Queen Street, East London",346932,707454,425700,702,7
+870,63,64,1956,3,Female,"928 Van der Merwe Avenue, Gqeberha",632052,1288674,2379258,821,3
+16,75,67,1944,12,Male,"204 Swart Street, Johannesburg",278118,398844,343818,681,5
+46,62,66,1957,6,Male,"113 Victoria Road, Durban",476658,971928,1767798,632,4
+800,28,73,1991,10,Female,"160 Church Street, Durban",229788,468450,431478,723,4
+1968,25,69,1994,11,Female,"417 Church Street, Durban",563382,1148688,1802304,775,1
+697,56,73,1964,1,Female,"410 Market Street, Johannesburg",584730,1192140,1624464,742,3
+1269,56,56,1963,10,Male,"498 King George Street, Cape Town",456570,654030,520722,676,2
+1782,59,61,1961,2,Female,"896 Swart Street, Johannesburg",349884,713394,1054548,777,3
+1977,43,69,1976,8,Female,"476 Cape Road, Pretoria",504864,1029330,0,773,3
+1734,37,69,1982,11,Male,"565 Victoria Road, Cape Town",729540,1487466,1525716,739,2
+1913,60,57,1960,1,Female,"869 Victoria Road, Johannesburg",616662,560178,589824,619,5
+858,47,67,1972,11,Male,"878 Voortrekker Road, Pretoria",271656,553932,925704,700,3
+606,48,67,1971,12,Male,"65 Church Street, Durban",293400,598248,1035882,747,1
+1564,35,65,1984,10,Male,"899 King George Street, Durban",335034,683046,899118,683,3
+1109,24,65,1995,11,Male,"562 Durban Road, Johannesburg",387324,789750,2306628,639,1
+1301,26,66,1993,5,Female,"739 Victoria Road, Cape Town",546030,1113300,1460844,728,9
+1399,28,71,1991,5,Male,"368 Main Road, Pretoria",355860,725652,2364264,707,4
+1775,26,67,1993,8,Male,"489 Market Street, Pietermaritzburg",335196,683424,1007676,788,3
+1673,41,67,1978,11,Male,"28 Swart Street, Bloemfontein",308610,629172,818208,772,3
+1957,40,74,1979,9,Male,"592 Nelson Mandela Drive, Johannesburg",846990,1727010,4009230,772,2
+1033,18,58,2002,2,Female,"665 Market Street, Durban",298764,609192,757962,684,2
+1024,66,67,1953,4,Male,"141 Queen Street, Pietermaritzburg",578916,1180314,2575242,739,4
+1441,40,66,1979,7,Male,"969 Jan Smuts Avenue, East London",429120,874962,783360,737,3
+1103,45,70,1974,5,Female,"253 Pretoria Street, Pretoria",227124,463014,612126,746,3
+431,19,72,2000,3,Female,"980 Durban Road, Gqeberha",458910,935712,1424736,691,3
+165,34,65,1986,2,Male,"833 Church Street, Gqeberha",950634,1938294,4050306,694,3
+353,24,69,1996,2,Female,"422 Victoria Road, East London",289962,591246,603252,721,2
+1758,57,66,1963,1,Male,"756 Van der Merwe Avenue, Bloemfontein",199098,406008,778680,645,4
+1266,35,54,1984,9,Female,"456 Victoria Road, Bloemfontein",406620,829134,1917504,618,1
+1943,19,65,2000,9,Female,"931 Queen Street, Durban",841716,1716264,1295496,706,3
+792,28,65,1992,1,Female,"528 Market Street, East London",398844,813240,237024,698,2
+1055,37,69,1982,4,Male,"538 Swart Street, Bloemfontein",272466,555570,991422,594,1
+1159,20,69,1999,11,Male,"43 Queen Street, Bloemfontein",366786,747774,882378,732,4
+1115,53,73,1966,9,Male,"499 Nelson Mandela Drive, East London",266598,543564,737100,693,6
+38,45,64,1974,12,Female,"660 Church Street, Pretoria",353178,720108,1310292,621,1
+1027,53,68,1966,5,Male,"771 Victoria Road, Cape Town",544176,1109628,0,693,3
+11,39,67,1980,10,Female,"760 Durban Road, Gqeberha",597150,1217574,0,714,6
+871,86,71,1933,5,Female,"757 Queen Street, Gqeberha",248760,407700,0,690,6
+746,63,67,1956,10,Male,"169 Jan Smuts Avenue, Gqeberha",267408,545184,769410,689,4
+1520,67,65,1952,10,Male,"68 Nelson Mandela Drive, East London",405882,849834,19476,789,5
+1372,76,66,1943,10,Female,"254 Queen Street, Johannesburg",270090,507870,326088,697,2
+1799,32,55,1987,4,Male,"969 Johannesburg Road, East London",931518,1899270,3464244,646,4
+1905,36,68,1983,12,Male,"414 Church Street, Gqeberha",251496,512802,109566,808,4
+130,63,69,1956,9,Female,"45 Victoria Road, Pretoria",715536,1458864,2811510,781,4
+1990,19,62,2000,12,Female,"218 Market Street, Gqeberha",417240,850734,1347354,726,2
+593,19,71,2000,7,Male,"540 Pretoria Street, Durban",298530,608688,1399860,635,1
+540,25,69,1994,9,Female,"772 Durban Road, Bloemfontein",283860,578880,1130454,634,1
+1155,83,65,1936,8,Female,"45 King George Street, East London",278316,530892,21528,689,5
+663,68,63,1951,3,Female,"520 Voortrekker Road, Bloemfontein",658134,1269972,703404,655,5
+1987,63,62,1956,9,Male,"584 Swart Street, East London",415764,606348,449946,488,2
+1484,92,72,1927,8,Female,"278 Voortrekker Road, Pietermaritzburg",554724,1039176,40698,726,6
+417,21,65,1998,3,Male,"898 Queen Street, East London",193140,393822,1253484,762,1
+298,28,65,1991,5,Male,"270 King George Street, Pretoria",450558,918738,1925802,686,1
+306,18,69,2002,1,Male,"254 Nelson Mandela Drive, Cape Town",621342,1266840,1922346,725,2
+607,25,64,1994,8,Male,"664 King George Street, Johannesburg",376236,767106,1216620,771,5
+1769,75,65,1944,7,Male,"765 King George Street, Cape Town",393498,828558,149976,661,5
+698,55,66,1964,10,Female,"503 Nelson Mandela Drive, Gqeberha",574686,1171692,430362,699,3
+896,27,65,1993,2,Female,"865 Van der Merwe Avenue, Pretoria",329004,670824,906984,626,1
+1975,53,67,1967,2,Female,"506 Victoria Road, Cape Town",344052,701496,793764,738,3
+645,63,64,1957,2,Female,"872 Nelson Mandela Drive, East London",235350,479898,768006,750,5
+227,48,66,1971,9,Male,"708 King George Street, Pretoria",726552,1481310,27990,736,4
+84,47,68,1972,9,Male,"543 Van der Merwe Avenue, Gqeberha",227340,463464,746190,738,3
+1684,56,65,1963,11,Male,"263 Voortrekker Road, Durban",246024,501498,1949634,782,5
+745,18,72,2001,12,Male,"750 Swart Street, Durban",428760,874098,0,752,1
+1508,66,69,1953,4,Female,"495 Durban Road, Cape Town",344250,701982,1167750,747,4
+1158,62,66,1957,4,Male,"843 Voortrekker Road, Durban",292302,596016,1008720,716,2
+1427,34,66,1985,10,Female,"658 Nelson Mandela Drive, Durban",890586,1815840,3788010,770,1
+352,22,65,1997,11,Male,"832 Swart Street, Johannesburg",327150,667044,909864,680,2
+1948,24,58,1995,3,Male,"976 King George Street, East London",416988,850212,1604772,685,3
+724,45,72,1974,5,Female,"227 Pretoria Street, Pietermaritzburg",310266,632556,1942164,731,4
+543,43,65,1976,3,Female,"554 Victoria Road, Gqeberha",271242,552978,899298,749,3
+1559,56,67,1963,12,Female,"396 Cape Road, Durban",519516,1059228,2282508,746,3
+1199,29,68,1990,6,Male,"436 Pretoria Street, Johannesburg",344898,703242,1149912,720,2
+1745,20,65,2000,2,Female,"5 Swart Street, Bloemfontein",436536,890082,553014,728,3
+1950,39,73,1980,3,Female,"362 Durban Road, East London",196956,401616,710010,720,5
+1397,32,72,1987,4,Male,"535 Durban Road, Pretoria",321210,654984,1673082,710,4
+873,52,68,1967,8,Female,"696 Nelson Mandela Drive, Gqeberha",397548,810666,572256,710,3
+1728,47,63,1972,10,Female,"224 Victoria Road, Bloemfontein",340866,695070,1338066,601,4
+299,40,61,1979,7,Male,"386 King George Street, Cape Town",249210,508122,1002150,622,5
+1742,58,67,1961,11,Female,"679 Jan Smuts Avenue, Cape Town",443484,904176,21924,751,4
+1004,59,66,1960,5,Male,"954 Market Street, Cape Town",303246,618300,1109502,705,3
+301,47,69,1972,11,Male,"429 Church Street, Durban",461772,941544,2435742,679,1
+1011,27,66,1992,8,Female,"369 Church Street, Cape Town",283032,577098,1060272,676,1
+906,75,69,1945,2,Male,"898 Market Street, Pietermaritzburg",391482,380772,103752,705,6
+110,52,72,1967,10,Female,"812 Pretoria Street, Gqeberha",460692,939348,771336,737,4
+1073,43,70,1976,5,Female,"577 Van der Merwe Avenue, Pietermaritzburg",311292,634752,1265904,770,2
+705,84,71,1935,9,Female,"179 Swart Street, Johannesburg",760212,1437660,72558,609,2
+820,70,59,1949,12,Female,"798 Durban Road, Bloemfontein",481716,754236,534834,633,5
+1188,24,61,1995,8,Female,"293 Johannesburg Road, Bloemfontein",564732,1151442,2311416,626,1
+1128,47,68,1972,7,Male,"577 Durban Road, East London",305568,622908,430362,680,5
+1479,32,60,1987,11,Male,"347 Johannesburg Road, Bloemfontein",235062,479358,611100,805,1
+1594,39,64,1980,11,Male,"546 Jan Smuts Avenue, Pretoria",317610,647604,888588,643,3
+1485,64,69,1955,10,Male,"587 Durban Road, Durban",439236,895608,1615374,618,4
+1390,37,71,1982,6,Male,"947 Voortrekker Road, Pretoria",537624,1096146,1543878,850,3
+644,58,65,1961,3,Female,"814 Nelson Mandela Drive, East London",370458,755334,969426,741,1
+1912,37,60,1982,7,Female,"566 Church Street, Gqeberha",397062,809568,2418030,684,1
+1584,27,69,1992,9,Male,"613 Swart Street, Pietermaritzburg",412596,841194,617994,692,2
+1803,26,60,1993,4,Female,"711 Main Road, Pretoria",416322,848880,1155474,578,1
+1824,23,65,1996,7,Male,"555 Pretoria Street, Pretoria",445266,907794,1746522,838,3
+340,20,63,1999,8,Male,"808 Nelson Mandela Drive, Cape Town",456534,930834,1550970,809,1
+650,45,65,1974,8,Male,"271 King George Street, Pietermaritzburg",213768,435870,513936,707,6
+762,49,59,1970,9,Male,"748 Church Street, Durban",329274,671364,938412,683,1
+1061,25,67,1994,12,Male,"231 King George Street, Pretoria",357192,728226,1238868,739,1
+1931,58,72,1961,6,Male,"16 Main Road, Pietermaritzburg",732492,1493532,3265722,503,2
+702,46,68,1973,7,Female,"751 King George Street, Pietermaritzburg",627714,1279854,2463354,721,4
+918,43,75,1976,5,Female,"271 Cape Road, Johannesburg",257760,525492,196110,703,2
+1137,52,67,1967,10,Male,"723 Swart Street, Bloemfontein",295380,602370,1776834,669,3
+66,20,71,1999,6,Female,"461 Market Street, Johannesburg",276498,563652,725958,721,4
+1406,36,68,1983,7,Male,"312 Market Street, East London",209394,426924,24948,712,2
+437,46,66,1973,6,Female,"303 Queen Street, East London",641610,1308060,520470,718,3
+806,24,67,1995,4,Female,"169 Victoria Road, Gqeberha",688374,1403496,110304,686,3
+891,38,66,1981,10,Female,"946 Voortrekker Road, Gqeberha",307674,627372,732996,746,5
+1191,25,69,1994,12,Female,"635 Van der Merwe Avenue, Johannesburg",325764,664236,1089684,711,1
+701,28,59,1991,12,Female,"764 Victoria Road, Bloemfontein",476568,971712,1370124,701,1
+1147,80,69,1939,3,Male,"454 Victoria Road, Johannesburg",842886,1884456,125190,704,2
+1625,24,66,1995,5,Female,"648 Victoria Road, Pietermaritzburg",893322,1821438,5233140,659,1
+1664,38,66,1981,10,Male,"297 Queen Street, Pretoria",614142,1252188,900054,791,4
+1273,21,71,1998,4,Male,"246 Durban Road, Bloemfontein",436014,888876,776268,762,1
+1009,41,65,1979,1,Female,"544 Van der Merwe Avenue, East London",253674,517194,0,702,3
+1341,87,72,1932,8,Male,"36 Voortrekker Road, East London",358452,546282,53730,686,4
+925,31,68,1988,3,Male,"796 Victoria Road, Johannesburg",516780,1053684,1676754,610,1
+824,32,66,1987,8,Female,"872 Voortrekker Road, East London",325800,664218,419274,695,4
+563,70,65,1950,1,Male,"153 Nelson Mandela Drive, Durban",445050,891558,120726,737,6
+1612,68,66,1951,8,Male,"404 Johannesburg Road, Pretoria",371682,636660,265986,562,1
+1700,45,62,1975,1,Female,"271 Church Street, Bloemfontein",341316,695988,2102094,822,1
+963,24,70,1995,12,Female,"402 Queen Street, Bloemfontein",368244,750852,981738,687,3
+904,32,66,1987,8,Male,"970 Queen Street, Pretoria",216324,441090,943290,759,1
+1586,43,65,1977,1,Male,"957 Jan Smuts Avenue, Durban",500004,1019520,1874412,672,4
+1286,53,67,1966,10,Female,"309 Van der Merwe Avenue, Johannesburg",543636,1108404,1536894,602,2
+719,53,66,1966,11,Female,"537 Queen Street, Bloemfontein",442602,902502,1973214,767,3
+1469,21,68,1998,12,Male,"972 Jan Smuts Avenue, Pretoria",305820,623628,975690,759,1
+930,22,65,1998,1,Male,"698 Church Street, Johannesburg",220932,450432,526086,691,2
+1814,41,68,1979,1,Female,"638 Nelson Mandela Drive, East London",290052,591408,477630,703,3
+1723,41,66,1978,10,Female,"244 Van der Merwe Avenue, Durban",318528,649440,1447974,839,3
+1377,32,68,1987,11,Female,"259 Swart Street, Cape Town",261630,533466,1016028,569,3
+470,56,65,1964,2,Male,"296 Church Street, Cape Town",252072,513954,1695852,747,3
+1804,18,65,2001,9,Male,"593 Market Street, Pietermaritzburg",384030,782982,1952424,701,4
+229,35,57,1984,6,Female,"720 Swart Street, Bloemfontein",523062,1066464,3129966,725,5
+1512,44,65,1975,6,Male,"201 Main Road, Pietermaritzburg",591570,1206144,1465236,778,8
+1543,31,68,1988,10,Female,"515 King George Street, Bloemfontein",935568,1907334,1912788,684,4
+147,30,66,1989,4,Male,"880 Swart Street, Gqeberha",497754,1014894,2342736,800,4
+1941,38,78,1981,8,Male,"731 Voortrekker Road, Durban",340812,694962,494334,740,3
+901,48,66,1971,9,Male,"886 Queen Street, Cape Town",323766,660078,717876,850,3
+191,28,65,1991,10,Male,"136 Nelson Mandela Drive, Pietermaritzburg",351900,717480,2030850,728,1
+12,18,63,2002,2,Female,"656 Main Road, Durban",333558,680130,1047366,748,1
+1828,50,68,1969,6,Male,"384 Voortrekker Road, Pretoria",0,44388,99378,711,2
+29,68,60,1951,8,Female,"163 King George Street, Johannesburg",336276,492444,244026,665,2
+181,26,65,1994,1,Female,"885 Nelson Mandela Drive, East London",450450,918432,3261312,602,1
+995,40,64,1979,5,Female,"821 Victoria Road, Pietermaritzburg",897624,1830222,5541408,592,1
+1218,20,71,1999,6,Male,"208 Queen Street, Johannesburg",245376,500418,0,754,1
+186,61,69,1958,11,Female,"832 Jan Smuts Avenue, Pretoria",340146,693648,1301382,705,1
+171,43,70,1976,5,Female,"880 Church Street, Pietermaritzburg",437652,892386,2561652,694,3
+1401,24,71,1995,11,Male,"282 Voortrekker Road, East London",323730,660096,893880,739,2
+1314,43,70,1976,11,Male,"957 Church Street, Johannesburg",347850,709272,1293462,723,5
+1560,61,60,1958,5,Female,"244 Johannesburg Road, Gqeberha",339282,332136,302886,741,6
+613,39,69,1980,9,Female,"547 King George Street, Durban",499338,1018116,2006910,712,4
+346,90,74,1929,11,Female,"367 Nelson Mandela Drive, Pietermaritzburg",454482,874440,32130,687,7
+812,41,67,1978,4,Female,"540 Cape Road, Durban",366084,746442,2149614,659,1
+13,52,61,1967,6,Female,"772 Church Street, Durban",285822,582804,1186542,588,4
+602,57,67,1963,1,Male,"637 Nelson Mandela Drive, Cape Town",303984,619866,0,681,4
+657,83,68,1936,11,Female,"392 Church Street, East London",372546,610146,9594,705,4
+909,38,64,1981,5,Male,"908 Nelson Mandela Drive, Pretoria",432792,882414,1190664,583,5
+183,24,65,1995,12,Female,"865 Queen Street, Cape Town",340866,694962,717606,798,3
+1792,18,68,2001,11,Female,"175 Cape Road, East London",271116,552816,684972,723,2
+1599,22,68,1997,7,Male,"876 Main Road, Bloemfontein",288198,587610,1077318,790,3
+1267,81,65,1938,10,Female,"307 Jan Smuts Avenue, Pretoria",508464,574416,39276,630,4
+411,30,67,1990,1,Male,"403 Voortrekker Road, Cape Town",331218,675378,1182618,775,2
+350,62,70,1957,8,Female,"957 Market Street, Pietermaritzburg",516114,1052334,2540718,737,4
+1323,36,68,1983,3,Female,"768 Johannesburg Road, Gqeberha",277326,565452,760194,719,4
+934,32,63,1987,12,Female,"542 Main Road, East London",362862,739908,1925334,762,3
+421,53,67,1967,1,Female,"567 Van der Merwe Avenue, Cape Town",405036,825768,1048536,790,7
+223,37,67,1982,10,Female,"514 Nelson Mandela Drive, Bloemfontein",517680,1055466,1572120,803,6
+1402,35,63,1984,10,Male,"537 Van der Merwe Avenue, East London",852552,1738332,4775742,590,3
+1650,18,67,2002,2,Male,"29 Swart Street, Bloemfontein",389556,794304,2562624,687,3
+354,77,72,1942,8,Female,"254 Pretoria Street, Pretoria",399330,574956,213210,713,6
+314,27,66,1992,6,Male,"307 Swart Street, Pietermaritzburg",511380,1042686,1579248,557,1
+1457,20,66,1999,6,Male,"190 Swart Street, Cape Town",403650,823050,1838952,688,4
+1613,39,65,1980,12,Male,"434 Voortrekker Road, Johannesburg",389646,794412,0,792,4
+945,19,66,2001,2,Male,"664 Church Street, Pietermaritzburg",499464,1018422,1435068,705,2
+586,37,63,1983,2,Male,"485 Cape Road, Gqeberha",413694,843552,1061172,751,4
+119,44,67,1975,9,Female,"531 Main Road, Pietermaritzburg",499698,1018890,1583460,624,3
+1312,31,66,1988,4,Female,"297 Cape Road, Bloemfontein",452070,921762,1384200,765,1
+1529,51,69,1968,4,Male,"579 Jan Smuts Avenue, Pretoria",673632,1373490,2030130,692,3
+326,18,61,2001,3,Male,"607 Market Street, Pretoria",541368,1103850,1510182,652,1
+1596,42,69,1977,3,Male,"382 Van der Merwe Avenue, Pietermaritzburg",280494,571896,311148,734,4
+714,61,67,1958,10,Female,"36 Johannesburg Road, Bloemfontein",647856,1320894,2793438,760,2
+887,55,66,1964,4,Male,"949 Jan Smuts Avenue, Pietermaritzburg",470466,959166,918468,816,4
+1425,88,67,1931,4,Female,"25 Durban Road, Durban",344070,346050,29592,809,8
+1645,62,65,1957,11,Female,"211 Van der Merwe Avenue, Johannesburg",534456,1089738,2888208,716,3
+1863,44,61,1975,12,Female,"245 Main Road, Johannesburg",389502,794232,1928916,850,1
+1576,88,65,1932,1,Female,"717 Main Road, Durban",442404,661752,15102,712,8
+1268,47,63,1972,9,Male,"862 Durban Road, Cape Town",261288,532746,798984,513,4
+1565,37,66,1983,1,Female,"552 Cape Road, Pietermaritzburg",341262,695808,855414,584,1
+1842,45,64,1974,10,Male,"964 King George Street, Cape Town",276930,564714,1052658,637,2
+664,22,68,1997,4,Female,"828 Cape Road, Pretoria",297342,606258,1409868,697,2
+485,39,64,1980,10,Male,"11 Nelson Mandela Drive, Bloemfontein",337320,687798,1519686,665,2
+244,40,62,1979,7,Female,"32 Market Street, Pietermaritzburg",236592,482436,781992,638,2
+145,58,65,1962,1,Female,"889 Church Street, Bloemfontein",223686,456012,3276,696,3
+866,34,67,1985,3,Male,"768 Main Road, Cape Town",546498,1114272,2256444,639,3
+1424,101,68,1918,5,Female,"271 Market Street, Johannesburg",235548,276264,25128,761,4
+427,44,66,1975,11,Female,"615 Jan Smuts Avenue, Johannesburg",287190,585486,1337958,705,3
+684,51,63,1969,2,Male,"440 Queen Street, Pretoria",389898,795060,1620882,661,7
+1643,28,64,1991,6,Female,"429 Nelson Mandela Drive, Gqeberha",406782,829386,1826100,686,1
+1300,58,66,1961,3,Male,"866 King George Street, Gqeberha",203832,415656,369810,752,4
+283,19,69,2000,11,Male,"107 Voortrekker Road, Cape Town",271152,552780,557208,680,2
+355,22,62,1997,11,Female,"889 Victoria Road, Gqeberha",357408,728838,1473822,691,2
+1669,44,62,1975,5,Male,"580 Main Road, Bloemfontein",454212,926172,2720916,698,4
+937,47,63,1973,1,Female,"65 Durban Road, Pretoria",831042,1694394,3418182,603,1
+845,58,72,1961,8,Male,"237 Market Street, Bloemfontein",324090,660780,2102292,786,5
+1518,62,70,1957,8,Male,"219 Voortrekker Road, Durban",333594,680130,1467000,745,3
+1591,58,66,1961,6,Female,"552 Nelson Mandela Drive, Bloemfontein",297666,606906,1048248,698,6
+1172,50,64,1970,2,Male,"90 Voortrekker Road, Johannesburg",264762,539892,1815012,769,1
+1629,42,63,1977,6,Female,"688 Queen Street, Johannesburg",259740,529596,1056222,598,1
+675,40,67,1980,1,Male,"91 Queen Street, Durban",313290,638802,1655910,724,5
+577,28,65,1992,1,Female,"1 Main Road, Cape Town",292284,595908,1956510,763,2
+854,26,65,1994,2,Female,"283 Nelson Mandela Drive, Pietermaritzburg",527058,1074582,1279980,688,1
+1261,58,70,1961,7,Male,"16 Queen Street, Cape Town",607266,1238166,3093372,527,1
+1227,65,67,1954,11,Female,"39 Pretoria Street, East London",594558,1212192,126882,804,4
+840,68,64,1952,1,Female,"837 Main Road, Pretoria",930456,1591776,1135350,694,6
+733,36,68,1983,7,Male,"158 Nelson Mandela Drive, Pretoria",469098,956484,2760732,606,4
+454,88,65,1931,4,Female,"913 Church Street, Pietermaritzburg",399852,693414,882,751,5
+961,76,63,1944,2,Male,"116 Pretoria Street, East London",628362,479880,509976,721,4
+768,53,67,1966,10,Female,"571 Market Street, Cape Town",612774,1249416,3190050,620,1
+817,26,67,1993,5,Male,"156 Cape Road, Pretoria",581652,1185984,2922552,803,2
+78,37,63,1983,1,Male,"68 Swart Street, Bloemfontein",222516,453690,1173222,688,1
+1334,38,65,1981,4,Female,"300 King George Street, Pietermaritzburg",349794,713286,860274,718,4
+1610,42,66,1978,1,Female,"411 Queen Street, Johannesburg",246906,503406,902862,690,2
+108,50,68,1969,11,Female,"772 King George Street, Pietermaritzburg",336762,686556,0,768,4
+1308,36,67,1984,2,Female,"281 Victoria Road, Bloemfontein",520542,1061352,1294020,619,1
+780,74,66,1945,11,Male,"833 Jan Smuts Avenue, Pretoria",1020960,1050804,1316232,652,1
+1340,53,68,1966,8,Male,"511 Jan Smuts Avenue, Durban",475560,969696,1156842,691,5
+1888,75,59,1944,6,Female,"694 Durban Road, Bloemfontein",511722,747234,286182,748,3
+247,49,69,1970,7,Female,"674 Queen Street, Johannesburg",481896,982566,1243260,761,6
+238,22,62,1997,6,Male,"383 Johannesburg Road, Cape Town",367200,748710,980118,675,1
+915,44,64,1975,4,Male,"430 Voortrekker Road, Gqeberha",396846,809154,1747368,728,1
+1927,28,65,1991,5,Male,"30 Main Road, Pietermaritzburg",310752,633582,1234242,739,2
+1658,28,59,1991,3,Female,"150 Voortrekker Road, Pietermaritzburg",250038,509832,1122534,695,2
+1208,38,72,1981,9,Male,"536 King George Street, Johannesburg",294750,600966,1243188,526,3
+1255,24,67,1995,9,Male,"8 Victoria Road, Durban",273762,558108,1278558,681,2
+85,29,60,1990,4,Male,"16 Pretoria Street, Gqeberha",288108,587448,761220,782,1
+1382,58,65,1961,7,Male,"534 Durban Road, Pietermaritzburg",228474,465894,799272,706,4
+1932,26,60,1993,12,Female,"418 Nelson Mandela Drive, Pretoria",168336,343242,416754,658,1
+1217,59,66,1960,12,Female,"587 Swart Street, Pretoria",397260,809856,960624,785,3
+514,58,72,1961,8,Male,"562 Market Street, Cape Town",285120,581310,1302426,698,4
+232,57,66,1962,5,Female,"427 Johannesburg Road, Gqeberha",610542,1244862,2431998,786,3
+445,42,59,1977,12,Female,"882 Cape Road, Gqeberha",111618,227574,347382,645,1
+1206,34,65,1985,9,Female,"791 Nelson Mandela Drive, Cape Town",768330,1566540,2915352,727,3
+1276,82,66,1937,6,Female,"148 Cape Road, Pietermaritzburg",456570,752274,20538,730,5
+875,39,71,1981,2,Male,"625 King George Street, Pietermaritzburg",369954,754326,1568934,728,4
+1546,48,61,1971,11,Male,"344 Johannesburg Road, Cape Town",356058,726048,2597112,668,4
+422,19,62,2000,11,Female,"71 Queen Street, Gqeberha",279702,570294,845766,817,4
+519,57,67,1962,6,Female,"124 Queen Street, Pretoria",348786,711144,339660,770,4
+1408,42,67,1978,2,Male,"69 Durban Road, East London",219402,447462,791748,683,2
+1204,42,67,1977,6,Male,"575 Queen Street, Pietermaritzburg",613062,1249920,2338992,743,3
+276,25,70,1995,1,Male,"137 Main Road, Gqeberha",191268,389988,685044,610,2
+1133,30,66,1989,10,Female,"979 Van der Merwe Avenue, Johannesburg",411390,838782,228600,684,4
+1035,22,71,1997,6,Male,"89 Pretoria Street, Cape Town",446058,909450,2126880,701,2
+710,60,68,1959,9,Female,"710 Jan Smuts Avenue, Cape Town",462564,943146,1310580,729,3
+582,53,63,1966,8,Male,"50 Van der Merwe Avenue, Johannesburg",346248,705996,1198062,583,3
+821,73,60,1946,7,Male,"840 Main Road, East London",223812,324270,188334,645,2
+1352,65,64,1954,3,Female,"334 Queen Street, Bloemfontein",360630,757836,173610,672,3
+831,36,66,1983,10,Male,"500 Pretoria Street, Gqeberha",329436,671688,675270,726,2
+936,18,67,2001,6,Female,"562 Market Street, East London",368280,750906,489132,718,5
+578,75,71,1944,8,Male,"455 Voortrekker Road, Pretoria",268560,374346,182286,777,1
+1997,76,69,1943,8,Male,"878 Durban Road, East London",704790,698400,465606,758,7
+258,51,68,1968,3,Male,"557 Pretoria Street, Gqeberha",261504,533196,312930,694,3
+851,88,65,1931,10,Female,"427 Swart Street, Johannesburg",353160,565182,45504,757,4
+1951,48,66,1971,5,Female,"519 Church Street, Pietermaritzburg",559350,1140390,0,708,5
+1978,19,71,2000,12,Female,"827 Church Street, Gqeberha",275382,561546,1525482,844,2
+1897,38,67,1981,3,Male,"128 Church Street, Bloemfontein",918576,1872882,4457214,741,2
+972,35,69,1984,5,Male,"708 Swart Street, Cape Town",442944,903186,1823814,681,4
+1010,40,64,1979,12,Female,"878 Market Street, Cape Town",303174,618192,880758,548,1
+1243,31,72,1989,1,Female,"109 Pretoria Street, Cape Town",307980,627912,482382,705,5
+1976,33,69,1986,3,Female,"654 Main Road, Bloemfontein",502308,1024146,0,699,5
+91,38,72,1981,10,Female,"126 Voortrekker Road, Durban",641340,1307646,1630422,739,1
+1606,49,66,1970,8,Male,"728 Church Street, Cape Town",456858,931590,1594890,806,1
+1201,60,66,1959,11,Male,"12 Nelson Mandela Drive, Pietermaritzburg",1019376,2078370,3521826,715,4
+1887,18,70,2002,1,Male,"585 Johannesburg Road, Gqeberha",315396,643158,1292850,503,2
+195,18,70,2002,2,Female,"172 Cape Road, Pietermaritzburg",573246,1168848,1939590,688,2
+874,24,68,1995,3,Male,"172 Jan Smuts Avenue, Pietermaritzburg",553626,1128798,1237986,798,3
+1317,41,68,1978,7,Female,"823 Jan Smuts Avenue, Johannesburg",272826,556380,765126,749,4
+1311,27,71,1992,11,Male,"956 Cape Road, Cape Town",381942,778752,1616364,729,1
+785,18,67,2001,11,Male,"105 Durban Road, Bloemfontein",431820,880362,1283580,740,2
+662,32,71,1987,11,Female,"85 Nelson Mandela Drive, Pretoria",756504,1542492,2173194,822,2
+847,81,68,1938,4,Female,"374 Victoria Road, Gqeberha",334530,501552,24678,591,6
+685,21,68,1998,4,Male,"67 Market Street, Pretoria",392904,801234,1895454,778,6
+617,27,69,1992,6,Female,"696 Pretoria Street, Durban",512262,1044468,2397042,691,1
+23,18,70,2001,5,Female,"770 Nelson Mandela Drive, Pietermaritzburg",561474,1144800,1849914,645,1
+339,19,75,2000,7,Female,"951 Swart Street, East London",280746,572346,97200,843,2
+280,40,66,1979,10,Female,"356 Nelson Mandela Drive, Pietermaritzburg",393642,802530,1472850,684,5
+1473,51,67,1968,11,Female,"944 Johannesburg Road, East London",365688,745686,967914,850,3
+65,51,72,1968,10,Female,"446 Jan Smuts Avenue, Durban",304704,621306,1334574,645,2
+1353,50,65,1970,2,Female,"368 Church Street, Pietermaritzburg",382176,779292,1881378,816,7
+736,27,66,1992,9,Female,"599 Johannesburg Road, Bloemfontein",541296,1103706,0,741,3
+1670,68,65,1951,12,Male,"762 Johannesburg Road, Bloemfontein",577422,903312,500004,732,4
+1776,47,75,1972,10,Male,"108 Cape Road, Pretoria",380808,776394,796734,693,3
+1474,23,65,1996,12,Female,"986 Nelson Mandela Drive, East London",391626,798498,1278558,705,1
+951,57,66,1962,9,Female,"502 Swart Street, Gqeberha",235350,479952,220338,709,4
+1818,85,65,1934,6,Female,"822 Jan Smuts Avenue, Pietermaritzburg",530730,753174,31338,500,3
+1450,22,70,1998,2,Male,"249 Main Road, Gqeberha",441000,899136,1713312,780,1
+1524,26,60,1993,3,Male,"763 Market Street, Pretoria",881748,1797894,3078612,732,1
+1789,40,65,1979,3,Female,"916 Pretoria Street, Pietermaritzburg",340164,693486,664794,684,2
+767,32,63,1988,1,Female,"473 Pretoria Street, Pretoria",324234,661122,875232,686,3
+678,63,67,1957,2,Female,"887 Durban Road, Durban",260208,530586,1014390,850,4
+471,52,65,1967,9,Male,"35 Durban Road, Pretoria",632466,1289610,2790108,629,3
+757,62,65,1957,9,Female,"478 Cape Road, Pietermaritzburg",408132,832176,1241226,691,4
+1724,20,66,1999,5,Female,"249 Van der Merwe Avenue, Cape Town",324648,661950,1847538,850,3
+1603,41,65,1978,12,Male,"472 Durban Road, Cape Town",342648,698616,293958,762,4
+224,20,67,1999,11,Female,"480 Market Street, Durban",354276,722340,1004418,798,1
+808,38,66,1981,11,Female,"564 King George Street, Bloemfontein",318222,648810,0,683,3
+1326,52,73,1968,2,Female,"438 Church Street, Pretoria",586980,1196802,1508904,731,2
+158,31,72,1989,2,Female,"318 Voortrekker Road, Cape Town",366174,746550,0,747,2
+1928,56,68,1963,7,Male,"946 Johannesburg Road, Pietermaritzburg",491544,1002276,1488528,750,4
+1575,51,68,1968,5,Female,"858 Main Road, Pietermaritzburg",508896,1037628,2302056,724,4
+1608,19,68,2000,9,Female,"308 King George Street, Durban",349182,712008,2386314,572,1
+1455,36,67,1983,12,Male,"963 Main Road, Cape Town",303084,617940,274014,713,4
+1916,82,71,1937,4,Male,"455 King George Street, East London",271242,182556,32562,767,7
+1617,30,60,1989,10,Male,"240 Nelson Mandela Drive, Pretoria",678546,1383606,2124522,659,1
+143,22,68,1997,6,Female,"662 Cape Road, Cape Town",462402,942822,1939212,771,3
+1176,39,64,1980,10,Male,"310 Durban Road, Bloemfontein",506268,1032264,2146140,527,3
+1194,49,70,1970,3,Male,"583 Jan Smuts Avenue, Cape Town",335844,684738,500634,782,4
+423,28,70,1991,3,Female,"227 Swart Street, Cape Town",468414,954954,763128,696,2
+580,35,65,1984,5,Male,"347 King George Street, Durban",325386,663426,56016,768,3
+4,54,72,1965,3,Female,"363 Cape Road, Johannesburg",674730,1375758,2076516,716,5
+530,78,68,1941,7,Male,"17 Johannesburg Road, Gqeberha",264762,325800,0,682,6
+1826,45,61,1974,5,Female,"944 Cape Road, Pretoria",146790,299304,610668,654,1
+595,79,66,1941,2,Male,"570 Main Road, East London",325800,522738,79686,699,4
+1022,47,64,1972,12,Female,"465 Main Road, Johannesburg",316710,645768,903420,635,3
+1108,19,67,2000,3,Male,"943 Main Road, East London",723888,1475910,2408184,685,2
+246,50,70,1969,9,Female,"891 Voortrekker Road, Bloemfontein",726552,1481364,0,791,4
+270,30,62,1989,8,Male,"746 Market Street, Pretoria",546606,1114488,2985948,655,4
+1945,56,70,1964,2,Female,"278 King George Street, Johannesburg",265248,540756,165744,727,4
+1540,55,61,1964,9,Female,"58 Cape Road, Pietermaritzburg",395856,807102,1137492,625,3
+1149,25,74,1994,12,Male,"563 Durban Road, Pretoria",535320,1091484,2380536,661,1
+1438,26,64,1994,1,Female,"606 King George Street, Johannesburg",265266,540882,1448532,700,1
+409,54,65,1965,8,Female,"475 Queen Street, Johannesburg",262224,534582,118242,711,3
+694,29,66,1990,5,Male,"219 Johannesburg Road, Pretoria",369342,753048,1085436,615,2
+382,55,68,1964,11,Male,"1 Voortrekker Road, East London",203922,415854,1145430,681,3
+629,72,70,1947,5,Male,"464 Church Street, Johannesburg",702954,1035234,211590,793,5
+1211,66,68,1953,3,Female,"231 Cape Road, Johannesburg",337662,688482,0,746,4
+823,41,65,1978,3,Female,"245 Main Road, Durban",366354,746928,165996,807,2
+1304,24,70,1995,8,Female,"647 Jan Smuts Avenue, Pietermaritzburg",801720,1634616,3160242,850,3
+89,35,67,1984,6,Male,"517 Nelson Mandela Drive, Bloemfontein",266796,543906,421092,705,4
+1751,29,66,1990,11,Female,"108 Durban Road, Pietermaritzburg",543636,1108458,4343616,736,2
+888,53,67,1966,6,Male,"332 Johannesburg Road, Bloemfontein",296316,604188,1738746,698,1
+81,66,68,1953,3,Female,"521 Nelson Mandela Drive, Pretoria",313920,640080,1087146,723,5
+1021,21,67,1998,11,Female,"254 Victoria Road, Bloemfontein",570582,1163340,1671246,751,2
+826,67,60,1952,11,Female,"3 Van der Merwe Avenue, East London",481806,1038690,404550,684,3
+87,58,71,1961,5,Male,"70 Main Road, Durban",213192,434790,51660,802,3
+1833,27,71,1993,1,Male,"239 Pretoria Street, Cape Town",309222,630468,206424,743,5
+829,29,70,1990,3,Female,"650 Van der Merwe Avenue, Johannesburg",321372,655272,211410,726,3
+1879,50,60,1969,5,Male,"162 Van der Merwe Avenue, East London",337032,687222,910062,609,2
+236,36,65,1983,3,Female,"449 Cape Road, East London",1423800,2902968,5723352,540,1
+1619,31,66,1988,6,Male,"780 Voortrekker Road, Durban",283266,577548,964710,747,4
+1146,22,69,1997,3,Female,"62 King George Street, East London",331110,675090,1026252,714,3
+803,69,73,1951,2,Female,"199 Main Road, Durban",410382,836766,1032048,635,3
+193,23,65,1996,7,Female,"287 Market Street, Durban",334494,682038,1190934,749,1
+1686,54,67,1965,3,Female,"511 Main Road, Johannesburg",541296,1103616,456390,708,3
+1959,46,59,1973,4,Male,"856 Johannesburg Road, Johannesburg",460170,938340,1446606,701,1
+1342,27,61,1993,1,Female,"303 Durban Road, Bloemfontein",359694,733392,914454,717,1
+1371,86,65,1933,6,Female,"629 Voortrekker Road, Pretoria",441288,891522,24930,689,6
+1067,76,63,1943,12,Male,"85 Church Street, Gqeberha",441558,752220,444168,719,5
+1019,81,57,1939,1,Female,"722 Johannesburg Road, Durban",283950,538704,36504,713,4
+1568,47,67,1972,5,Female,"337 Cape Road, Bloemfontein",379386,773568,1057770,748,3
+1765,40,68,1979,3,Male,"997 Swart Street, Pietermaritzburg",283590,578268,1013094,770,3
+1875,56,69,1963,4,Male,"292 Durban Road, East London",399060,813636,1278396,683,4
+1111,20,65,1999,3,Female,"246 Main Road, Pretoria",308160,628326,1153926,742,3
+1160,27,65,1992,4,Male,"659 Durban Road, East London",305370,622638,1183860,688,2
+1574,22,69,1997,3,Female,"654 Johannesburg Road, Pietermaritzburg",281898,574794,1177290,746,1
+189,42,70,1978,2,Male,"39 King George Street, Cape Town",460512,938970,1750464,730,4
+466,58,64,1961,8,Female,"304 Main Road, Bloemfontein",260586,531342,820746,643,3
+659,57,67,1962,5,Male,"529 Main Road, Johannesburg",287658,586494,225018,812,7
+942,37,65,1982,7,Male,"920 Cape Road, Durban",522108,1064502,2319660,742,4
+1234,44,64,1975,10,Male,"932 King George Street, Pietermaritzburg",548982,1119330,2056230,749,1
+841,22,67,1997,6,Male,"628 Johannesburg Road, Cape Town",316098,644400,1185138,753,2
+1388,26,71,1993,10,Male,"222 Pretoria Street, Pretoria",639954,1304730,568890,691,2
+1056,24,65,1995,3,Female,"115 Durban Road, Bloemfontein",459432,936648,472176,703,3
+345,33,67,1986,7,Male,"432 Swart Street, Johannesburg",313362,638982,1449306,724,1
+308,44,65,1976,1,Male,"877 Johannesburg Road, Durban",273762,558270,1855692,737,2
+1922,79,65,1940,11,Male,"938 King George Street, Pietermaritzburg",627264,957996,414918,640,1
+1156,56,69,1963,6,Female,"619 Swart Street, Cape Town",2473704,5043582,1644606,752,5
+561,48,67,1971,6,Male,"374 Voortrekker Road, Bloemfontein",325368,663354,2018502,834,5
+507,22,70,1998,2,Male,"879 King George Street, Pretoria",331056,674946,0,695,1
+1522,88,66,1931,10,Female,"172 Nelson Mandela Drive, Durban",666540,572904,67986,593,3
+695,49,68,1970,7,Female,"552 Durban Road, East London",634428,1293588,2386440,662,1
+285,62,69,1957,8,Male,"364 King George Street, Cape Town",304560,620928,596196,731,5
+113,74,71,1946,1,Female,"875 Victoria Road, East London",468288,702054,194274,788,5
+1039,68,64,1951,3,Male,"649 Durban Road, Pietermaritzburg",222282,208188,163836,536,4
+176,45,71,1974,12,Female,"746 Voortrekker Road, East London",460548,939096,1189530,667,4
+1104,91,66,1928,3,Male,"691 Cape Road, Johannesburg",328788,722538,14490,850,6
+946,48,66,1971,5,Male,"472 Church Street, Pietermaritzburg",350748,715194,1427436,781,4
+1465,29,65,1991,2,Female,"574 Victoria Road, Gqeberha",455994,929718,408690,801,3
+25,22,64,1997,3,Female,"992 Voortrekker Road, Gqeberha",434196,885420,2204244,630,1
+571,42,68,1977,11,Male,"597 Market Street, Gqeberha",324054,660798,1529082,739,4
+1396,22,61,1997,5,Male,"899 Johannesburg Road, Durban",409104,834192,1205892,732,3
+599,26,71,1993,3,Male,"156 Church Street, Pretoria",891612,1817838,0,722,3
+1074,62,65,1957,6,Female,"85 Church Street, Johannesburg",289746,590742,457074,826,5
+214,30,62,1989,8,Male,"474 Pretoria Street, Pretoria",422028,860454,1474722,652,1
+771,44,69,1975,9,Male,"506 Voortrekker Road, Cape Town",341298,695898,1595448,765,3
+520,45,66,1974,4,Male,"488 King George Street, Gqeberha",509004,1037844,1337184,766,5
+288,45,69,1974,5,Female,"818 King George Street, Durban",196362,400482,367560,789,3
+1979,38,68,1982,2,Female,"558 Swart Street, Bloemfontein",570708,1163646,1048500,738,4
+1253,32,64,1987,10,Female,"169 Market Street, Pietermaritzburg",518652,1057482,2039544,768,6
+311,46,68,1973,12,Female,"484 Market Street, Pietermaritzburg",260460,531180,848754,752,4
+1346,53,65,1966,3,Female,"851 Jan Smuts Avenue, Johannesburg",323730,660096,1790172,655,2
+1622,41,61,1979,1,Female,"575 Market Street, Gqeberha",699804,1426878,3814542,759,1
+852,35,68,1985,1,Female,"940 King George Street, Gqeberha",354474,722808,1262304,738,3
+1394,30,58,1989,4,Female,"632 Queen Street, Bloemfontein",510714,1041354,2372904,558,4
+957,73,64,1946,9,Female,"387 Market Street, Pietermaritzburg",605466,680202,442350,605,3
+515,61,63,1958,10,Male,"682 Queen Street, East London",369558,753570,1096398,676,4
+1303,66,69,1953,3,Male,"170 Jan Smuts Avenue, Durban",546858,1114866,2486754,684,7
+1287,32,67,1987,7,Female,"554 Swart Street, Durban",284886,580932,1313532,545,1
+296,48,71,1971,3,Male,"907 Main Road, Gqeberha",669060,1364130,2122560,814,3
+1059,50,64,1969,4,Male,"745 Pretoria Street, Durban",402210,820080,1433880,644,3
+1378,46,67,1973,3,Female,"437 Pretoria Street, Pietermaritzburg",360234,734580,1181574,614,4
+1297,58,67,1961,11,Male,"151 Church Street, East London",338706,690678,909540,703,3
+1727,46,67,1973,10,Female,"323 Main Road, East London",430506,877716,2577744,771,6
+310,26,61,1994,2,Male,"527 Durban Road, East London",515880,1051830,2426202,666,2
+673,48,68,1971,7,Male,"379 Market Street, East London",345384,704232,1192158,722,4
+1283,50,65,1970,1,Male,"925 Durban Road, Durban",562068,1146114,2662434,591,4
+1239,34,65,1985,11,Female,"301 Johannesburg Road, Durban",336222,685458,515034,811,4
+1691,23,61,1996,11,Female,"914 Nelson Mandela Drive, Pretoria",259974,530100,648036,692,1
+1078,56,65,1963,12,Female,"956 Nelson Mandela Drive, Johannesburg",508266,1036368,2899926,589,2
+124,31,70,1988,8,Female,"120 Van der Merwe Avenue, East London",302922,617598,125478,680,4
+99,63,65,1956,11,Female,"83 Main Road, Gqeberha",477540,973710,1369962,753,3
+1722,24,65,1995,9,Female,"169 Jan Smuts Avenue, East London",217602,443664,593316,600,1
+562,37,61,1982,8,Female,"10 Victoria Road, Durban",590274,1203534,1602558,673,1
+750,61,68,1959,1,Female,"792 Market Street, Durban",266274,542970,665496,694,2
+1223,53,67,1966,6,Male,"313 Pretoria Street, Gqeberha",1672884,3410820,8080722,717,3
+1319,19,68,2000,3,Female,"220 Voortrekker Road, Durban",428886,874476,3408264,546,1
+575,84,65,1935,12,Male,"130 Nelson Mandela Drive, Cape Town",417726,476568,7308,813,5
+428,39,69,1980,11,Male,"444 King George Street, Pietermaritzburg",498708,1016748,2095092,689,2
+828,59,71,1960,3,Female,"268 Jan Smuts Avenue, Johannesburg",316962,646308,1256742,659,3
+1580,19,61,2000,4,Female,"883 Johannesburg Road, Cape Town",490698,1000566,2720538,621,2
+1570,21,67,1998,4,Female,"24 Queen Street, Durban",324288,661194,0,761,3
+846,48,66,1971,11,Female,"514 Jan Smuts Avenue, Bloemfontein",598176,1219698,0,745,4
+666,57,56,1963,2,Male,"804 Main Road, East London",409680,653076,254538,725,1
+335,46,68,1973,7,Female,"641 Jan Smuts Avenue, Cape Town",498528,1016406,1198170,688,3
+639,55,73,1965,2,Female,"334 Swart Street, Johannesburg",332316,677610,833364,654,4
+386,48,64,1971,11,Male,"805 King George Street, Cape Town",441108,899406,1125162,655,1
+886,20,67,1999,11,Male,"789 Queen Street, Bloemfontein",569808,1161864,267552,726,1
+297,20,66,1999,9,Male,"91 Pretoria Street, Cape Town",250884,511578,1399896,738,1
+1860,33,65,1986,6,Female,"502 Main Road, Pietermaritzburg",310878,633834,1577754,719,3
+581,48,67,1971,3,Male,"677 Voortrekker Road, Johannesburg",264528,539316,990000,684,3
+1910,49,59,1970,5,Male,"579 Jan Smuts Avenue, Bloemfontein",316620,645624,872370,562,4
+731,31,73,1988,7,Male,"448 Durban Road, Pretoria",337212,687474,717732,703,3
+21,48,66,1972,2,Male,"364 Jan Smuts Avenue, Bloemfontein",380358,775512,0,850,3
+273,42,72,1977,4,Female,"339 Nelson Mandela Drive, Cape Town",330318,673470,1195254,665,1
+63,40,64,1979,12,Male,"342 Johannesburg Road, Cape Town",312660,637524,931338,660,6
+786,18,62,2002,2,Male,"285 Victoria Road, Pretoria",275958,562662,732618,798,2
+1886,26,66,1993,12,Male,"127 Queen Street, Pretoria",364194,742590,1537902,683,2
+103,41,71,1978,3,Female,"799 Main Road, Pietermaritzburg",307008,625932,1405080,850,5
+1193,90,75,1929,11,Female,"730 Swart Street, Bloemfontein",502812,930906,7524,717,5
+585,52,62,1967,9,Male,"74 Johannesburg Road, Pietermaritzburg",366228,746694,1164870,584,1
+1532,28,65,1991,3,Female,"504 Van der Merwe Avenue, Pietermaritzburg",307422,626850,1171476,759,1
+1958,51,72,1969,2,Male,"601 Cape Road, Gqeberha",329688,672228,1152540,680,5
+744,58,67,1961,10,Female,"838 Swart Street, Bloemfontein",394614,804582,390330,842,5
+1836,35,73,1984,10,Male,"512 Swart Street, Bloemfontein",152838,311688,483696,748,1
+477,57,67,1962,3,Male,"645 Victoria Road, Cape Town",436662,890406,1394370,697,5
+1713,18,68,2001,11,Female,"889 Market Street, Gqeberha",302310,616356,0,837,1
+1506,25,63,1994,10,Male,"406 King George Street, Johannesburg",622404,1269036,1620054,614,2
+357,59,67,1960,9,Female,"400 Pretoria Street, Johannesburg",707616,1442808,1112706,735,4
+535,51,63,1968,12,Female,"468 Victoria Road, Pietermaritzburg",439074,895266,2449008,643,1
+778,60,60,1959,12,Male,"221 Jan Smuts Avenue, Pietermaritzburg",338292,558054,414000,699,3
+950,23,66,1996,9,Female,"808 Van der Merwe Avenue, Durban",259290,528768,925704,629,1
+1080,56,63,1963,11,Female,"538 Queen Street, Bloemfontein",259650,529434,828774,703,2
+1197,28,64,1992,1,Female,"522 Swart Street, East London",491544,1002312,2056842,722,3
+711,39,60,1980,10,Male,"654 Market Street, Johannesburg",361008,736092,933192,657,1
+1731,64,66,1956,1,Female,"165 Main Road, Durban",417096,850356,1120032,704,6
+451,65,67,1954,12,Male,"446 Main Road, Pretoria",255582,521118,1021986,711,2
+1290,53,68,1966,6,Male,"706 Johannesburg Road, Pretoria",586440,1195704,3547836,669,2
+1817,52,64,1968,2,Female,"499 King George Street, Johannesburg",652554,1330560,2995110,683,1
+56,22,73,1998,2,Female,"346 Queen Street, East London",189702,386820,586566,682,2
+1383,68,64,1951,4,Female,"445 Johannesburg Road, Pietermaritzburg",573282,1078884,665604,670,1
+1915,54,65,1965,6,Male,"72 Church Street, Cape Town",459612,937116,1761858,775,4
+1882,58,65,1961,10,Male,"216 King George Street, Pietermaritzburg",523746,1067796,2612466,694,3
+1467,26,69,1993,9,Female,"557 King George Street, Gqeberha",470160,958572,2364012,736,1
+1791,61,67,1958,11,Male,"552 Queen Street, Cape Town",288810,588888,844542,593,3
+447,79,68,1940,3,Male,"749 Queen Street, Durban",344358,557586,387126,796,5
+1640,67,71,1952,10,Female,"560 Main Road, Pretoria",308592,629172,106956,729,3
+636,47,69,1973,2,Female,"199 Van der Merwe Avenue, Durban",215118,438696,1139310,793,4
+782,51,66,1968,7,Female,"604 Jan Smuts Avenue, Bloemfontein",328122,669042,1689192,722,3
+316,36,69,1983,8,Male,"873 Victoria Road, Bloemfontein",351972,717678,1327068,719,4
+1192,44,68,1976,2,Female,"233 Voortrekker Road, East London",353340,720468,1275786,768,1
+787,19,67,2000,3,Female,"690 Swart Street, Pietermaritzburg",633294,1291320,688284,767,2
+251,21,66,1998,8,Male,"6 Jan Smuts Avenue, East London",362736,739566,408960,695,2
+1351,18,55,2001,12,Female,"221 Voortrekker Road, Pietermaritzburg",517140,1054422,1709964,808,1
+490,86,68,1933,9,Male,"210 Swart Street, Pretoria",532026,601668,33336,699,4
+1935,23,65,1997,2,Female,"341 Market Street, East London",396018,807516,1410300,750,3
+387,34,65,1985,10,Male,"460 Cape Road, Pretoria",400698,816984,1165482,723,1
+869,73,68,1946,9,Male,"448 Cape Road, Pretoria",408276,615960,0,745,5
+1865,19,66,2000,9,Male,"226 Queen Street, Bloemfontein",1049346,2139516,4970808,782,1
+268,20,62,1999,9,Female,"729 Jan Smuts Avenue, Pretoria",532044,1084770,1456902,582,3
+1124,45,66,1974,3,Male,"26 King George Street, Gqeberha",209592,427320,77634,841,3
+721,39,67,1980,5,Male,"782 Queen Street, Durban",338904,690948,1346760,850,6
+813,46,70,1973,6,Male,"826 Nelson Mandela Drive, Durban",343170,699696,1559664,585,1
+152,37,68,1982,3,Female,"268 Swart Street, Bloemfontein",435528,888030,927360,773,3
+1896,50,79,1969,9,Female,"821 Pretoria Street, Gqeberha",355248,724428,1338336,641,5
+1028,50,66,1970,1,Male,"839 Pretoria Street, Pietermaritzburg",716202,1460196,2023092,682,5
+922,18,64,2001,4,Male,"896 Durban Road, East London",258336,526770,672750,647,1
+549,51,65,1968,4,Male,"943 Main Road, East London",550026,1121472,2041488,719,4
+565,54,65,1965,10,Male,"740 Swart Street, Pietermaritzburg",384858,784764,286038,757,4
+1980,54,63,1965,5,Male,"671 Voortrekker Road, Pretoria",411408,838854,1029186,612,1
+1494,26,71,1993,3,Male,"207 Queen Street, Bloemfontein",255438,520758,621198,711,4
+1809,42,71,1977,9,Female,"853 Church Street, Cape Town",646290,1317744,2084886,664,6
+637,42,68,1978,2,Female,"645 Van der Merwe Avenue, Johannesburg",682344,1391184,830880,771,4
+1770,30,66,1989,9,Male,"177 Victoria Road, Durban",331470,675792,278802,703,4
+527,58,65,1961,11,Male,"425 Main Road, East London",358668,731304,1197936,636,1
+1139,24,68,1995,4,Female,"420 Pretoria Street, East London",277794,566442,963990,645,1
+1459,53,65,1967,2,Male,"76 Queen Street, Durban",276930,564642,0,707,3
+1544,36,65,1983,9,Female,"226 Durban Road, Johannesburg",294318,600102,1500354,679,2
+1174,25,65,1994,11,Male,"455 Johannesburg Road, Bloemfontein",364914,744084,1633266,772,1
+112,54,66,1965,12,Female,"473 Queen Street, Pretoria",309960,632052,443466,686,5
+369,39,65,1980,9,Male,"871 Cape Road, Bloemfontein",454644,926982,130068,788,4
+994,85,67,1934,10,Female,"204 Cape Road, Durban",234108,176310,7128,771,7
+1592,19,67,2000,9,Male,"288 Swart Street, Cape Town",839088,1710810,2382678,708,3
+1029,66,72,1953,3,Male,"474 Church Street, Gqeberha",322992,658602,1558314,676,3
+1680,59,63,1960,11,Female,"745 Jan Smuts Avenue, Pietermaritzburg",520488,1061262,1968444,598,2
+1052,61,61,1958,12,Male,"131 Market Street, Gqeberha",465282,507780,413298,655,2
+494,39,68,1980,5,Male,"970 Voortrekker Road, Pretoria",497430,1014246,585540,779,3
+94,59,72,1961,1,Female,"57 Pretoria Street, Gqeberha",324522,661680,1723590,593,2
+425,38,67,1981,11,Male,"178 Van der Merwe Avenue, Bloemfontein",525132,1070676,2350890,688,4
+1720,55,60,1964,5,Female,"5 King George Street, Pretoria",219150,446886,1084698,590,1
+1699,67,65,1953,1,Female,"690 Queen Street, Bloemfontein",929358,952722,675252,737,7
+1495,52,70,1967,12,Male,"849 Jan Smuts Avenue, Cape Town",560052,1141794,2205900,770,7
+1005,21,67,1998,11,Male,"601 Durban Road, Pretoria",348552,710730,2593818,685,1
+439,33,59,1986,8,Female,"39 Pretoria Street, Cape Town",458496,934884,1750536,697,2
+1285,68,53,1951,12,Female,"803 Victoria Road, Bloemfontein",551196,1175364,336312,524,2
+1973,58,65,1962,1,Female,"430 Church Street, Johannesburg",287100,585360,529794,731,4
+448,41,63,1978,8,Male,"693 Victoria Road, Johannesburg",348462,710496,1487268,698,1
+1907,37,66,1982,5,Female,"402 Victoria Road, East London",304164,620226,881388,666,2
+73,48,73,1971,12,Male,"97 Jan Smuts Avenue, Cape Town",472086,962604,1314540,674,3
+1097,39,68,1980,10,Male,"395 Cape Road, Pietermaritzburg",285534,582174,1062108,732,3
+1644,83,65,1937,1,Male,"305 Market Street, Johannesburg",277308,574974,22464,686,6
+967,41,56,1978,10,Female,"260 Pretoria Street, Pietermaritzburg",289458,590202,858222,699,2
+1929,29,64,1990,8,Male,"180 Cape Road, East London",369648,753714,1381050,717,1
+1114,44,66,1976,1,Male,"271 Cape Road, Bloemfontein",327672,668070,1051884,685,3
+1087,40,65,1979,12,Female,"39 Church Street, Cape Town",273636,557946,1470888,722,2
+95,25,67,1994,8,Female,"523 Cape Road, Johannesburg",781776,1593972,2558772,701,2
+1778,29,63,1990,3,Male,"106 Main Road, Bloemfontein",262008,534276,1185210,659,2
+1031,61,68,1959,1,Male,"86 Swart Street, East London",474642,967716,672498,689,8
+788,19,66,2001,1,Female,"534 Voortrekker Road, Durban",480924,980586,1300338,802,2
+728,30,67,1989,7,Female,"418 Swart Street, Pietermaritzburg",292032,595368,902106,721,3
+1639,58,67,1961,5,Male,"954 Voortrekker Road, Durban",437832,892710,1225026,676,1
+1587,31,67,1988,12,Male,"210 Nelson Mandela Drive, Durban",724068,1476342,1162494,695,3
+1883,76,66,1943,5,Male,"345 Van der Merwe Avenue, Cape Town",482670,934956,411102,723,4
+712,74,67,1945,3,Female,"65 Van der Merwe Avenue, East London",361836,524340,157428,720,5
+1414,71,66,1948,8,Female,"140 Market Street, Bloemfontein",303030,250866,69372,783,4
+243,20,63,1999,3,Male,"992 King George Street, Bloemfontein",336852,686844,1450962,666,1
+146,47,67,1972,7,Female,"246 Cape Road, Bloemfontein",606618,1236780,3632328,717,3
+715,37,75,1983,1,Female,"64 Church Street, Pretoria",885510,1805454,970542,821,2
+1489,58,65,1961,11,Female,"586 Durban Road, Durban",450018,917640,1578870,691,1
+1232,18,69,2002,1,Male,"855 King George Street, Gqeberha",413244,842580,0,747,2
+842,61,65,1959,2,Male,"247 Nelson Mandela Drive, Gqeberha",910926,1857330,3715596,564,1
+486,23,71,1996,4,Male,"101 Queen Street, Gqeberha",412326,840672,1655028,810,1
+763,35,61,1985,1,Male,"390 Cape Road, Johannesburg",910422,1856268,2342880,642,1
+154,48,61,1971,6,Male,"207 Queen Street, Bloemfontein",330768,674424,1322064,666,3
+704,51,67,1968,7,Female,"342 Voortrekker Road, Bloemfontein",994932,2028510,632430,840,6
+1409,23,65,1996,5,Male,"881 King George Street, Pretoria",390024,795258,1487196,701,1
+1601,26,65,1993,5,Female,"895 Jan Smuts Avenue, Pietermaritzburg",598734,1220760,1551186,628,2
+729,80,67,1939,4,Female,"742 Queen Street, Cape Town",295578,447912,32904,850,6
+1016,41,53,1978,8,Female,"853 Church Street, Cape Town",0,9954,13320,719,3
+1214,40,64,1979,11,Male,"837 Jan Smuts Avenue, Cape Town",639792,1304460,2401578,711,2
+1760,35,66,1984,11,Female,"722 Jan Smuts Avenue, Cape Town",318528,649458,2126718,682,2
+927,37,68,1982,6,Male,"808 Voortrekker Road, East London",524196,1068750,0,729,2
+1667,18,70,2002,2,Male,"661 Swart Street, Bloemfontein",428076,872838,2859678,588,1
+1796,60,67,1959,4,Female,"23 Main Road, Cape Town",272484,555606,228348,794,3
+179,33,67,1986,5,Female,"825 Pretoria Street, Bloemfontein",352890,719532,1159254,652,2
+395,39,72,1981,2,Male,"138 Market Street, East London",437958,892998,1989774,739,4
+513,24,69,1995,10,Male,"80 Cape Road, East London",316512,645408,1318626,712,4
+187,35,72,1984,9,Female,"526 Main Road, Johannesburg",315666,643680,1129824,830,1
+491,40,69,1979,6,Male,"736 Church Street, East London",238482,486234,1058508,651,3
+1153,63,62,1956,4,Male,"598 Voortrekker Road, Gqeberha",447282,1044108,363528,774,1
+377,80,67,1940,1,Female,"649 Durban Road, Bloemfontein",447912,703980,6534,750,5
+850,38,66,1981,12,Female,"487 Church Street, Cape Town",353898,721566,313056,712,2
+1186,46,65,1973,10,Male,"457 Johannesburg Road, Pietermaritzburg",316854,646038,1579482,577,3
+1694,83,65,1936,3,Female,"734 Cape Road, Cape Town",669834,1345554,28530,726,5
+716,31,70,1988,5,Male,"831 Johannesburg Road, Cape Town",234036,477198,393642,769,6
+1131,76,69,1943,4,Male,"295 Johannesburg Road, Pretoria",512820,354276,0,683,4
+1719,81,64,1938,9,Female,"554 Main Road, Gqeberha",348948,417906,46062,616,3
+254,30,66,1989,5,Male,"513 Voortrekker Road, Cape Town",596718,1216602,0,734,3
+226,30,68,1989,8,Male,"569 Pretoria Street, Durban",820728,1673280,1155006,724,3
+1307,52,61,1967,4,Female,"121 Voortrekker Road, Gqeberha",768330,1566540,2816532,646,5
+1095,72,66,1948,2,Male,"85 Voortrekker Road, East London",347922,412524,204678,750,5
+1729,29,56,1990,9,Female,"468 Nelson Mandela Drive, East London",440010,897156,1435500,698,1
+1466,36,75,1983,4,Female,"892 Cape Road, Pretoria",317232,646794,422118,812,2
+1226,42,67,1978,2,Male,"409 Queen Street, Johannesburg",325440,663480,1170882,714,3
+1755,53,70,1967,2,Male,"799 Jan Smuts Avenue, Cape Town",249552,508842,1200258,734,6
+475,20,66,1999,11,Male,"713 Van der Merwe Avenue, Durban",356886,727668,1371582,727,1
+1956,43,71,1976,8,Female,"649 Voortrekker Road, Gqeberha",329940,672678,60804,739,4
+706,33,68,1986,9,Female,"646 Johannesburg Road, East London",596664,1216602,1909296,602,2
+474,55,66,1964,4,Male,"417 King George Street, Bloemfontein",714690,1457226,2900988,683,6
+1259,64,69,1955,7,Female,"685 Johannesburg Road, Gqeberha",1697436,3460842,1803456,700,6
+320,34,75,1985,8,Male,"890 Main Road, East London",314640,641538,1159542,625,2
+93,33,69,1986,8,Female,"478 Cape Road, Pretoria",253314,516528,952380,686,4
+1182,30,65,1989,4,Male,"598 Market Street, Bloemfontein",336816,686754,1664388,658,1
+150,51,73,1968,8,Female,"742 Main Road, Cape Town",631116,1286820,0,782,3
+1327,20,67,1999,12,Female,"706 Victoria Road, Gqeberha",379674,774108,470592,688,2
+784,44,67,1975,6,Male,"637 Jan Smuts Avenue, East London",437202,891414,1604322,688,4
+1471,31,76,1988,11,Male,"687 Johannesburg Road, Pietermaritzburg",193140,393768,363042,786,2
+367,27,67,1992,8,Female,"629 Durban Road, East London",395856,807174,1209222,756,2
+1050,43,65,1976,3,Female,"190 Durban Road, East London",317250,646884,849672,670,3
+207,73,65,1946,10,Female,"147 Van der Merwe Avenue, Pietermaritzburg",301410,513954,351126,745,5
+1838,18,68,2001,12,Female,"779 Jan Smuts Avenue, Gqeberha",351360,716454,964926,695,1
+798,50,68,1969,9,Female,"550 Johannesburg Road, Pietermaritzburg",433242,883368,1017846,715,4
+1207,41,65,1978,10,Male,"675 Main Road, Durban",497628,1014624,1287792,664,3
+1012,35,66,1984,6,Female,"903 Swart Street, Durban",290052,591390,1696104,693,2
+844,65,64,1955,2,Male,"346 Pretoria Street, Durban",385218,326682,480096,738,2
+334,44,65,1975,11,Male,"302 Church Street, Pietermaritzburg",356724,727326,467748,697,3
+815,19,60,2000,6,Male,"369 Johannesburg Road, Cape Town",427446,871524,1315908,756,2
+1100,61,73,1958,7,Male,"114 Queen Street, Bloemfontein",528066,1076670,1319850,573,2
+407,23,66,1996,8,Female,"7 Queen Street, Pietermaritzburg",374796,764172,1147572,750,4
+1244,43,69,1976,5,Female,"199 Jan Smuts Avenue, Bloemfontein",289314,589950,1310130,637,1
+1740,36,67,1983,12,Male,"277 Market Street, Pretoria",507870,1035576,1102824,735,4
+1754,34,67,1985,11,Female,"777 Main Road, Pietermaritzburg",232380,473850,584208,562,1
+1184,70,74,1950,1,Male,"561 Van der Merwe Avenue, Pretoria",607086,1237770,1360944,798,5
+1440,26,58,1993,4,Male,"85 Van der Merwe Avenue, Bloemfontein",341370,696060,1456092,630,1
+200,57,65,1962,11,Female,"594 Church Street, Durban",322524,657504,1976130,701,3
+1446,28,61,1991,4,Male,"844 Pretoria Street, East London",248598,506934,915696,689,4
+1263,56,70,1963,8,Female,"143 Van der Merwe Avenue, Pietermaritzburg",323586,659736,1097082,600,3
+1483,18,70,2001,12,Male,"467 Nelson Mandela Drive, Pietermaritzburg",480474,979686,1734642,714,2
+1085,27,66,1992,6,Female,"747 Pretoria Street, Durban",655020,1335564,289512,838,3
+1961,18,66,2002,1,Male,"54 Church Street, Johannesburg",308088,628272,828036,657,2
+776,55,73,1964,12,Male,"397 Durban Road, Gqeberha",860364,1754190,3945834,616,2
+890,37,66,1983,1,Female,"57 Van der Merwe Avenue, Gqeberha",460656,939258,482256,727,2
+1445,68,68,1951,6,Male,"650 Main Road, Cape Town",323442,502902,202374,841,5
+74,54,74,1965,5,Female,"980 King George Street, East London",370422,755226,2718486,783,3
+1216,26,61,1993,11,Female,"508 Van der Merwe Avenue, Pietermaritzburg",353988,721836,1041426,601,6
+797,61,69,1958,9,Female,"762 Nelson Mandela Drive, Gqeberha",547380,1116090,2699424,651,9
+610,18,58,2002,1,Male,"428 King George Street, East London",388962,793098,1943190,713,4
+1917,49,69,1970,5,Male,"467 Durban Road, Cape Town",516492,1053054,681084,680,4
+975,28,67,1991,5,Female,"100 Nelson Mandela Drive, Gqeberha",260208,530604,706032,675,2
+109,29,66,1990,8,Female,"162 Durban Road, Bloemfontein",353250,720090,678492,737,2
+547,70,66,1949,5,Male,"359 Cape Road, Cape Town",330318,574218,293130,778,4
+347,28,63,1991,8,Female,"336 Voortrekker Road, Cape Town",388836,792828,1043676,557,3
+201,61,65,1958,5,Male,"215 Cape Road, Durban",316206,644814,1740438,732,3
+1368,29,69,1990,5,Female,"271 Market Street, Bloemfontein",397062,809568,1441962,717,2
+1547,28,66,1992,2,Male,"668 Johannesburg Road, Cape Town",353430,720630,1246338,684,2
+1812,31,62,1988,5,Female,"150 Victoria Road, Gqeberha",450036,917604,1384164,574,2
+1379,76,72,1943,6,Male,"176 Johannesburg Road, Gqeberha",356040,619344,163926,701,4
+82,22,68,1997,9,Female,"266 Pretoria Street, Cape Town",0,36468,25506,779,1
+1053,59,66,1960,5,Male,"585 Nelson Mandela Drive, Bloemfontein",490590,1000278,1682280,636,3
+1893,26,59,1993,12,Male,"734 Pretoria Street, Pretoria",469512,957276,1791900,623,1
+955,33,67,1987,2,Male,"396 Victoria Road, Pietermaritzburg",299664,610992,960354,798,4
+856,54,59,1965,7,Male,"44 Van der Merwe Avenue, Johannesburg",1009242,2057724,5905602,748,3
+1361,67,66,1952,12,Male,"658 Nelson Mandela Drive, Pretoria",267264,516852,233604,638,2
+261,41,66,1979,2,Male,"40 Johannesburg Road, Pretoria",521730,1063674,2111850,737,5
+64,39,68,1980,3,Female,"161 Pretoria Street, East London",454356,926370,0,702,2
+1864,20,69,1999,8,Male,"713 Queen Street, Johannesburg",448272,913968,356130,701,1
+1768,28,65,1991,9,Female,"673 Johannesburg Road, Cape Town",453690,925038,1525824,573,1
+1151,53,65,1966,12,Male,"937 Johannesburg Road, Gqeberha",0,16560,34452,788,3
+356,50,73,1969,10,Female,"84 Jan Smuts Avenue, East London",365670,745560,0,691,5
+1393,52,67,1967,4,Female,"444 Van der Merwe Avenue, Pietermaritzburg",304218,620280,790848,692,2
+865,41,65,1979,2,Male,"341 Swart Street, Pietermaritzburg",333558,680148,1938456,693,5
+1914,21,70,1998,4,Female,"457 Victoria Road, Johannesburg",372204,758898,1065780,672,1
+1641,30,69,1989,3,Male,"433 Church Street, Cape Town",459054,935964,1324350,640,1
+707,22,67,1997,12,Female,"646 Jan Smuts Avenue, Cape Town",328878,670554,1143396,576,1
+3,49,65,1970,12,Male,"166 Durban Road, East London",246690,502974,336474,681,4
+754,76,69,1943,3,Female,"646 Nelson Mandela Drive, Gqeberha",342450,590706,489762,705,6
+148,62,66,1957,8,Male,"397 Queen Street, Johannesburg",341496,696258,2037420,663,5
+127,48,68,1971,7,Male,"680 Johannesburg Road, Pretoria",278532,567954,1150884,729,3
+1675,36,70,1983,8,Male,"692 Victoria Road, Durban",441342,899874,953604,767,3
+747,63,64,1956,4,Male,"392 Nelson Mandela Drive, Pietermaritzburg",254466,518904,896274,687,4
+1942,77,63,1942,3,Female,"10 Queen Street, Durban",0,18,0,673,3
+452,31,74,1988,3,Male,"162 Church Street, East London",559296,1140408,2521926,704,5
+1157,33,58,1986,12,Female,"923 Jan Smuts Avenue, Gqeberha",507834,1035468,1488870,812,1
+1534,36,65,1983,7,Male,"204 Church Street, Durban",713268,1454292,69606,803,2
+1086,57,64,1962,12,Female,"463 Van der Merwe Avenue, Pretoria",673326,1372932,1846998,698,2
+1984,29,60,1990,5,Female,"233 Victoria Road, East London",343062,699498,1117440,528,1
+835,32,65,1987,4,Male,"781 King George Street, East London",400014,815616,212184,681,4
+758,63,68,1956,12,Male,"717 Swart Street, Pietermaritzburg",381204,777240,662976,764,5
+1795,25,66,1994,10,Female,"611 Nelson Mandela Drive, Johannesburg",532440,1085580,1638306,647,6
+1221,64,69,1955,11,Female,"274 Market Street, Johannesburg",271422,553446,930006,850,4
+1821,21,68,1998,9,Male,"49 Swart Street, East London",385092,785106,299898,803,3
+1248,51,71,1968,7,Female,"523 Cape Road, Pretoria",383004,780948,39456,698,3
+1900,62,62,1958,2,Female,"958 Van der Merwe Avenue, Johannesburg",350694,656370,230202,688,1
+597,72,66,1948,1,Male,"499 Church Street, Gqeberha",930456,1170990,30168,736,6
+1620,21,68,1998,6,Male,"873 Market Street, Pretoria",326016,664632,1295136,701,3
+1213,34,69,1985,11,Male,"125 Van der Merwe Avenue, East London",384714,784422,1745892,795,3
+619,54,65,1965,12,Male,"44 Jan Smuts Avenue, Pretoria",476604,971748,1050858,748,4
+1043,21,61,1998,9,Female,"462 Market Street, East London",857466,1748286,3783708,660,2
+394,52,71,1967,4,Male,"833 Church Street, Pietermaritzburg",614484,1252872,849474,684,4
+1376,49,68,1971,1,Female,"99 Victoria Road, Pietermaritzburg",547524,1116342,1541988,543,4
+834,19,68,2000,11,Male,"836 Van der Merwe Avenue, Gqeberha",287370,585900,1491804,746,6
+837,30,65,1989,4,Male,"169 Main Road, Pietermaritzburg",318618,649656,1138968,679,1
+1257,55,67,1964,7,Male,"532 Pretoria Street, Durban",426024,868662,2641932,721,3
+1966,42,68,1977,11,Male,"350 Jan Smuts Avenue, Bloemfontein",278046,566982,821898,782,4
+358,36,71,1983,7,Female,"445 Swart Street, Gqeberha",274374,559422,1653210,605,2
+912,46,66,1973,8,Male,"672 Jan Smuts Avenue, Bloemfontein",418392,853110,744858,755,2
+605,42,73,1977,10,Male,"586 Jan Smuts Avenue, Pretoria",419688,855756,48006,725,3
+1362,58,67,1962,1,Male,"962 Nelson Mandela Drive, East London",640134,1305180,797706,727,4
+1513,48,66,1972,2,Male,"394 King George Street, Pretoria",580320,1183248,3708000,733,3
+1521,71,71,1948,3,Female,"559 Market Street, East London",344160,352458,385632,706,3
+564,57,64,1962,6,Male,"977 Pretoria Street, Bloemfontein",374400,763398,1999386,765,2
+1309,87,64,1932,4,Female,"899 Market Street, Pietermaritzburg",674730,1006236,60930,531,1
+1583,38,68,1981,10,Male,"223 Queen Street, Durban",466506,951192,0,826,3
+1885,46,65,1973,9,Male,"146 Victoria Road, Gqeberha",327078,667008,1363140,753,4
+1566,44,64,1976,1,Male,"524 Nelson Mandela Drive, East London",355068,723960,1911078,718,3
+401,81,71,1938,9,Male,"967 Market Street, East London",274302,515592,15822,806,7
+15,52,66,1968,2,Female,"94 Johannesburg Road, Durban",261954,534114,233100,788,3
+1666,61,62,1958,12,Male,"188 Van der Merwe Avenue, Pietermaritzburg",414522,845172,1255554,578,4
+509,33,66,1986,7,Male,"35 Van der Merwe Avenue, Johannesburg",393156,801612,1933380,702,4
+954,51,65,1968,6,Male,"870 Swart Street, Pietermaritzburg",335142,683334,1848888,772,4
+832,40,67,1979,5,Female,"429 Voortrekker Road, Durban",444312,905922,1381662,625,4
+1046,44,66,1975,6,Male,"791 Market Street, Pretoria",324126,660870,1332396,547,4
+630,60,66,1959,7,Male,"550 Jan Smuts Avenue, Cape Town",348876,711378,1113498,491,3
+1561,78,67,1941,5,Female,"747 Jan Smuts Avenue, Durban",480726,918252,420588,759,4
+1548,41,65,1978,10,Male,"337 Cape Road, Cape Town",645012,1315206,113976,721,3
+221,63,65,1956,12,Female,"670 Victoria Road, Pretoria",390042,795294,1617336,850,4
+1991,21,65,1998,10,Male,"435 Main Road, Pretoria",202374,412596,162072,694,1
+1328,28,68,1992,1,Female,"564 King George Street, Cape Town",750276,1529766,2928924,600,2
+1901,63,69,1956,3,Female,"976 Queen Street, Pietermaritzburg",297756,607104,1931166,730,3
+665,81,65,1939,1,Female,"734 Cape Road, Johannesburg",223308,209034,7686,790,8
+442,47,66,1972,8,Male,"201 Main Road, Pietermaritzburg",429048,874800,431856,791,5
+1626,58,63,1961,7,Male,"746 Jan Smuts Avenue, Durban",532278,1085256,2056014,531,1
+1539,42,61,1977,3,Female,"934 Nelson Mandela Drive, East London",512334,1044612,2331828,676,2
+601,68,67,1951,7,Male,"644 Nelson Mandela Drive, Durban",285282,774072,275472,761,6
+541,51,70,1968,7,Female,"928 Nelson Mandela Drive, Pietermaritzburg",257274,524592,634824,645,1
+210,46,63,1973,8,Male,"758 Market Street, Johannesburg",228186,465300,1013130,630,1
+206,28,59,1992,2,Female,"85 Pretoria Street, East London",331758,676494,929394,782,2
+926,20,60,1999,11,Female,"102 Van der Merwe Avenue, Cape Town",365490,745254,3710358,776,1
+115,61,69,1958,7,Male,"202 King George Street, Johannesburg",891828,1818324,1406070,748,6
+1779,30,69,1989,4,Male,"305 Johannesburg Road, Gqeberha",283590,578250,1056816,733,2
+248,80,67,1939,12,Female,"375 Durban Road, East London",238572,244728,6336,684,4
+1003,51,62,1968,11,Male,"645 Main Road, Bloemfontein",710910,1449468,2112840,632,1
+294,36,59,1983,8,Male,"463 Durban Road, Bloemfontein",388008,791154,1384470,607,1
+118,56,68,1963,12,Female,"479 Cape Road, Pretoria",278478,567594,761670,753,3
+292,23,65,1996,9,Female,"894 Cape Road, Bloemfontein",377046,768798,872874,717,1
+755,74,67,1945,11,Female,"225 Durban Road, Johannesburg",241362,416466,87678,642,5
+1878,18,64,2002,1,Male,"208 Market Street, Pietermaritzburg",351144,716004,1095300,702,1
+1432,42,72,1977,8,Male,"823 Market Street, Gqeberha",615690,1255446,1453734,741,4
+456,54,63,1965,10,Male,"280 Voortrekker Road, Johannesburg",308520,629046,882432,751,3
+623,63,60,1956,4,Male,"688 Main Road, Pietermaritzburg",577494,1403298,716598,616,3
+1426,22,66,1997,4,Female,"835 King George Street, Johannesburg",1012536,2064456,1648350,805,2
+47,47,62,1972,9,Male,"209 Pretoria Street, Pretoria",224550,457812,819720,712,4
+760,56,64,1964,2,Female,"493 Church Street, Bloemfontein",331560,676044,1305252,778,3
+956,30,66,1989,12,Female,"18 Cape Road, East London",415872,847980,1028862,804,2
+194,52,68,1968,2,Male,"739 Nelson Mandela Drive, Cape Town",270864,552258,1470240,746,4
+693,20,66,1999,8,Female,"138 Van der Merwe Avenue, Pietermaritzburg",574290,1170918,3977118,703,2
+1246,49,67,1970,5,Female,"743 Nelson Mandela Drive, Pretoria",273726,558144,1089486,713,4
+641,62,68,1957,11,Male,"553 Johannesburg Road, Pretoria",331560,676008,0,735,6
+1060,76,68,1944,2,Male,"201 Main Road, Bloemfontein",322362,387846,288720,785,5
+1292,20,68,1999,4,Male,"241 Market Street, Durban",256482,522918,104742,774,2
+1113,19,69,2000,5,Female,"748 Church Street, Cape Town",255600,521154,65142,738,2
+245,39,65,1980,7,Female,"406 Swart Street, Gqeberha",518868,1057932,1692954,528,2
+774,46,61,1973,7,Male,"780 Van der Merwe Avenue, Pretoria",294804,601110,1039932,588,2
+1822,87,65,1933,1,Female,"261 Church Street, Cape Town",259110,412092,27018,767,5
+1209,45,67,1974,6,Female,"998 Jan Smuts Avenue, East London",563382,1148670,86976,699,6
+997,57,67,1963,2,Female,"835 Van der Merwe Avenue, Bloemfontein",485226,989334,1901214,675,4
+1180,28,69,1991,9,Male,"407 Johannesburg Road, Durban",317232,646920,978372,595,3
+318,62,67,1957,5,Male,"389 Voortrekker Road, Pretoria",325854,664398,1680606,724,4
+691,34,64,1985,12,Female,"973 Main Road, Johannesburg",395838,807084,1979118,561,1
+1993,59,72,1960,3,Female,"90 Pretoria Street, Cape Town",819162,1670130,2200572,786,6
+252,67,70,1953,1,Male,"323 King George Street, Durban",308898,629730,529362,723,6
+1757,39,68,1980,11,Male,"643 Durban Road, East London",371592,757548,1431540,784,4
+1324,45,61,1974,11,Female,"469 King George Street, Cape Town",343170,699696,1709460,663,4
+1557,50,66,1970,2,Female,"465 Van der Merwe Avenue, Cape Town",426366,869310,1972044,707,3
+1555,28,64,1991,6,Female,"181 Jan Smuts Avenue, Durban",350532,714744,2046870,717,3
+941,56,72,1963,6,Female,"618 Queen Street, Gqeberha",400914,817488,1486998,713,1
+156,36,67,1983,7,Female,"510 Johannesburg Road, Johannesburg",247302,504126,0,691,4
+24,48,64,1971,11,Female,"349 Pretoria Street, Cape Town",340308,693972,849348,708,1
+302,27,67,1992,8,Female,"10 Church Street, Pretoria",330030,672912,2165886,706,2
+949,29,71,1990,11,Female,"498 Jan Smuts Avenue, Gqeberha",562212,1146312,1743552,709,5
+1281,92,61,1927,12,Female,"841 Victoria Road, Cape Town",263376,477828,44640,689,6
+1428,35,62,1984,11,Female,"251 Victoria Road, Cape Town",251334,512496,769500,508,1
+433,49,65,1970,4,Male,"192 Nelson Mandela Drive, Durban",282168,575226,222246,771,6
+584,61,68,1958,8,Male,"292 Durban Road, Pretoria",257724,525510,1167858,743,3
+1832,36,67,1983,10,Male,"205 Pretoria Street, Johannesburg",321102,654696,1425960,684,2
+222,48,70,1971,7,Female,"946 Durban Road, Pretoria",824724,1681506,2086488,714,3
+648,40,61,1980,2,Female,"137 Johannesburg Road, Cape Town",263556,537372,1188792,674,3
+1939,43,69,1976,11,Female,"896 Cape Road, Durban",222516,453726,613926,685,1
+722,25,66,1995,1,Male,"570 Main Road, Bloemfontein",291024,593388,1327338,707,1
+1889,66,67,1953,7,Male,"712 Jan Smuts Avenue, Pretoria",423504,863496,0,748,5
+1229,50,66,1970,2,Male,"324 Main Road, Johannesburg",435708,888300,376956,713,6
+505,39,63,1980,12,Female,"486 Nelson Mandela Drive, Bloemfontein",268218,546894,1052388,609,2
+1083,44,65,1975,3,Female,"858 Cape Road, Bloemfontein",340488,694224,1193400,756,4
+1656,35,69,1984,5,Female,"689 Johannesburg Road, Durban",363222,740538,1458288,706,3
+568,24,66,1996,2,Male,"632 Jan Smuts Avenue, Durban",340110,693468,1090008,778,1
+1373,35,66,1984,12,Female,"975 Jan Smuts Avenue, Cape Town",301752,615258,912024,764,2
+667,83,63,1936,3,Male,"508 Nelson Mandela Drive, Cape Town",545850,751734,41022,714,5
+480,50,68,1969,11,Male,"633 Jan Smuts Avenue, Johannesburg",760212,1550034,3192354,713,6
+569,52,73,1968,2,Male,"254 Durban Road, Durban",402786,821250,1460448,662,1
+1600,62,66,1957,9,Female,"29 Nelson Mandela Drive, Gqeberha",893322,1821474,2245878,747,3
+1063,64,66,1956,2,Male,"392 Voortrekker Road, Pietermaritzburg",334620,682164,665892,716,5
+32,82,67,1937,9,Female,"639 Pretoria Street, Johannesburg",415332,941670,57132,695,4
+1040,28,67,1991,10,Female,"915 Nelson Mandela Drive, Durban",706842,1441080,0,689,2
+396,89,72,1930,10,Female,"757 Jan Smuts Avenue, Pietermaritzburg",688932,906138,58860,735,5
+1498,47,66,1972,7,Female,"499 Johannesburg Road, East London",448398,914220,63846,726,4
+104,33,65,1986,11,Female,"918 Johannesburg Road, Gqeberha",330012,672912,885276,713,3
+1062,58,65,1961,6,Male,"454 Durban Road, Bloemfontein",311436,634932,634212,708,3
+1845,30,68,1989,7,Male,"539 Van der Merwe Avenue, Pietermaritzburg",417582,851400,1688184,784,1
+1657,35,68,1984,9,Male,"724 Market Street, Pietermaritzburg",231282,471618,765918,655,1
+1106,62,62,1958,2,Female,"629 King George Street, Bloemfontein",303156,374094,425214,699,3
+1867,33,69,1986,10,Male,"184 Durban Road, Pretoria",388134,791424,1281924,644,1
+1045,27,66,1992,7,Male,"465 Durban Road, Bloemfontein",298224,608004,181044,757,1
+1786,48,63,1971,3,Female,"936 Voortrekker Road, Pietermaritzburg",340848,694998,1678590,755,5
+1569,68,65,1951,3,Female,"638 Nelson Mandela Drive, Johannesburg",362754,703476,303660,722,4
+899,29,65,1990,6,Female,"395 Market Street, Johannesburg",422766,862038,2057382,629,1
+1595,47,65,1972,5,Female,"869 Victoria Road, Pietermaritzburg",459666,937134,1575882,753,2
+446,23,68,1997,1,Male,"507 Jan Smuts Avenue, Gqeberha",435600,888156,1010466,703,1
+53,49,68,1970,12,Female,"157 Johannesburg Road, Gqeberha",350478,714600,1063116,701,3
+1136,23,65,1996,12,Male,"107 Main Road, Durban",607086,1237806,2156958,723,3
+551,65,67,1955,1,Male,"245 Cape Road, Gqeberha",349056,711774,957276,776,3
+1491,41,68,1978,4,Female,"46 Van der Merwe Avenue, Durban",407916,831762,1008612,710,4
+330,36,71,1984,2,Male,"472 Jan Smuts Avenue, Pietermaritzburg",568710,1159542,3297780,711,1
+392,50,65,1969,11,Female,"453 Jan Smuts Avenue, Cape Town",292212,595764,1072890,775,3
+1144,57,66,1962,12,Female,"123 Voortrekker Road, Bloemfontein",269262,548910,1274850,773,4
+1163,45,61,1975,1,Male,"697 Pretoria Street, Johannesburg",592974,1209060,2056518,489,3
+230,39,65,1980,10,Female,"433 Market Street, Bloemfontein",313416,639018,1418418,693,4
+1066,46,65,1973,6,Female,"618 Voortrekker Road, Pietermaritzburg",477810,974232,0,727,2
+460,65,65,1954,12,Male,"986 Market Street, Pretoria",803952,737226,1154592,608,4
+1661,42,67,1977,5,Female,"73 King George Street, Gqeberha",639954,1304604,1135404,728,2
+1926,70,67,1950,1,Female,"455 Cape Road, Bloemfontein",319248,478332,94392,689,3
+27,78,63,1941,8,Female,"908 Queen Street, Gqeberha",401472,428778,403686,613,8
+365,55,70,1964,9,Female,"363 Jan Smuts Avenue, East London",336942,686970,826038,719,1
+50,68,72,1951,7,Female,"797 Queen Street, Pietermaritzburg",346374,706284,1538226,702,4
+653,19,65,2001,2,Female,"672 Johannesburg Road, Cape Town",455544,928818,1424574,745,1
+743,44,66,1975,4,Female,"805 King George Street, Durban",286884,584838,441270,682,3
+999,19,62,2000,10,Female,"931 Main Road, Cape Town",426438,869544,1918278,703,4
+940,49,61,1970,6,Female,"172 Van der Merwe Avenue, Pietermaritzburg",368982,752400,1221048,699,6
+534,27,74,1993,2,Female,"636 King George Street, East London",534240,1089180,417528,790,3
+1460,24,65,1995,7,Female,"109 Nelson Mandela Drive, Durban",545184,1111680,2948832,590,2
+59,85,69,1934,8,Female,"669 Jan Smuts Avenue, Cape Town",299772,451188,7632,695,7
+1908,78,66,1942,2,Female,"923 Queen Street, Bloemfontein",446418,800442,229986,733,5
+1436,21,55,1998,8,Female,"956 Johannesburg Road, Johannesburg",395856,807156,975402,500,4
+1230,18,50,2002,1,Male,"180 Queen Street, Pietermaritzburg",257490,525042,670140,754,1
+324,21,68,1998,7,Female,"924 Van der Merwe Avenue, East London",771300,1572696,729846,792,3
+992,46,70,1973,4,Male,"642 Van der Merwe Avenue, Pretoria",484524,987858,64512,700,4
+198,49,73,1970,3,Female,"405 Church Street, Johannesburg",278046,566946,554490,702,3
+1017,24,69,1995,7,Male,"632 Church Street, Pretoria",253368,516654,1698552,560,1
+1813,35,66,1984,4,Female,"218 Van der Merwe Avenue, Pietermaritzburg",497466,1014300,2162250,808,4
+1989,31,66,1988,12,Male,"684 Van der Merwe Avenue, Johannesburg",599310,1221948,128466,803,4
+1148,54,70,1965,4,Male,"104 Pretoria Street, Gqeberha",324126,660798,854820,687,4
+872,61,66,1959,1,Female,"618 Nelson Mandela Drive, East London",278118,567090,1075140,655,4
+458,46,62,1973,11,Male,"382 Pretoria Street, East London",433152,883224,2230866,530,2
+920,41,68,1978,11,Female,"648 King George Street, Durban",253404,516672,1870038,700,2
+1598,82,61,1937,6,Male,"38 Jan Smuts Avenue, Durban",225144,470268,21834,697,5
+1876,50,70,1969,7,Male,"72 Swart Street, Pietermaritzburg",393642,802566,308664,775,6
+412,25,65,1994,10,Male,"596 Main Road, Cape Town",413352,842796,0,810,4
+190,40,67,1979,4,Male,"374 Market Street, Gqeberha",392418,800136,223362,711,5
+163,37,73,1983,2,Male,"374 Queen Street, Johannesburg",292266,595944,792792,829,2
+567,25,69,1994,6,Male,"438 Nelson Mandela Drive, Gqeberha",296010,603612,1370988,761,3
+503,47,61,1973,2,Female,"785 King George Street, Pretoria",260946,532152,977022,694,2
+469,67,67,1952,3,Female,"258 Queen Street, East London",480150,845010,321030,682,4
+1851,48,72,1972,1,Male,"674 Nelson Mandela Drive, Pietermaritzburg",668178,1362276,668934,727,5
+1523,61,73,1958,10,Female,"978 Victoria Road, Johannesburg",350154,713898,1345320,850,4
+35,20,64,1999,6,Male,"162 Main Road, Johannesburg",428130,872910,1757340,773,3
+317,67,65,1952,3,Female,"526 Main Road, Gqeberha",277848,345582,271638,715,3
+1195,75,68,1944,7,Male,"145 Church Street, Gqeberha",423954,732528,282438,801,6
+1238,31,72,1988,7,Female,"903 Queen Street, Cape Town",853344,1739898,1321218,721,2
+432,55,64,1964,11,Female,"508 Swart Street, East London",234324,477828,577566,686,5
+1082,34,67,1985,10,Female,"841 Victoria Road, Cape Town",299574,610812,773010,622,3
+120,50,71,1969,9,Female,"327 Queen Street, Bloemfontein",538632,1098144,0,781,4
+1289,33,64,1986,11,Male,"766 Market Street, Cape Town",377910,770544,2106198,758,1
+1502,21,67,1999,2,Male,"269 Jan Smuts Avenue, Durban",795528,1621872,1533672,787,2
+1497,55,64,1964,12,Female,"819 Johannesburg Road, Johannesburg",313830,639954,1369386,623,1
+1047,26,67,1994,2,Male,"161 Queen Street, Johannesburg",472842,963972,2157336,689,2
+0,33,69,1986,3,Male,"884 Jan Smuts Avenue, Bloemfontein",526266,1073034,651582,763,4
+351,91,70,1928,9,Female,"493 Cape Road, Cape Town",248580,308700,6750,807,6
+1797,67,65,1952,11,Male,"311 Nelson Mandela Drive, Durban",449478,557316,276048,743,5
+1386,59,62,1960,6,Male,"308 Swart Street, Cape Town",334800,682686,1427382,712,1
+1122,33,66,1986,11,Female,"981 Van der Merwe Avenue, East London",615384,1254708,1747260,785,2
+255,18,57,2001,8,Female,"825 Voortrekker Road, Durban",381852,778554,1013814,718,1
+765,18,68,2002,2,Male,"746 Market Street, Cape Town",318726,649818,835650,778,2
+703,53,66,1966,11,Female,"522 Van der Merwe Avenue, Pretoria",356364,726534,2000016,711,4
+1919,83,59,1936,11,Male,"373 Van der Merwe Avenue, Pretoria",681228,1448874,36486,610,5
+791,78,57,1941,11,Female,"714 Pretoria Street, Pietermaritzburg",408276,706734,436428,645,4
+199,67,67,1952,4,Female,"903 Jan Smuts Avenue, Gqeberha",586440,1409922,722898,720,3
+282,42,66,1977,5,Male,"441 Durban Road, Gqeberha",225846,460530,1076886,702,4
+908,62,70,1957,8,Male,"56 Durban Road, Pietermaritzburg",408330,832608,1921554,650,3
+880,28,65,1991,3,Male,"38 Van der Merwe Avenue, Durban",347418,708372,480600,685,2
+770,35,66,1984,8,Male,"136 Pretoria Street, Pretoria",536274,1093428,1586970,706,4
+1169,51,68,1968,11,Female,"350 Queen Street, Durban",546444,1114218,533286,726,7
+522,26,65,1994,2,Female,"440 Pretoria Street, Bloemfontein",383634,782172,1427310,774,2
+1736,43,67,1977,1,Male,"901 Market Street, Bloemfontein",404208,824202,1692252,695,4
+506,56,68,1964,1,Male,"734 Cape Road, Durban",466488,951138,653184,733,5
+131,23,75,1996,10,Female,"89 Market Street, East London",332892,678906,1086606,688,3
+76,22,63,1997,8,Female,"13 Cape Road, Durban",455634,929034,1127430,649,2
+249,42,69,1977,9,Female,"663 Pretoria Street, Durban",263376,537030,840636,618,7
+1279,78,65,1941,7,Male,"372 Durban Road, Gqeberha",616662,1117854,603810,509,4
+1652,51,65,1969,2,Female,"714 Swart Street, East London",377388,769482,962478,728,4
+739,38,64,1981,7,Female,"653 Victoria Road, East London",610650,1245078,1845666,622,1
+1475,98,60,1921,11,Female,"423 Durban Road, Durban",410004,761508,8496,725,5
+1251,29,67,1990,10,Female,"264 Victoria Road, East London",372114,758700,713934,750,3
+1119,23,63,1996,11,Female,"889 Nelson Mandela Drive, Pietermaritzburg",420120,856602,2052360,763,4
+592,68,65,1952,2,Male,"46 Jan Smuts Avenue, Johannesburg",245412,431874,46314,714,5
+692,52,65,1967,8,Female,"445 Van der Merwe Avenue, Bloemfontein",376956,768618,966528,701,4
+1065,41,69,1978,8,Female,"153 Cape Road, Pietermaritzburg",497196,1013760,1523052,792,3
+1764,59,68,1960,6,Male,"365 Queen Street, Cape Town",278496,567900,481284,710,3
+1830,56,75,1963,9,Male,"517 Pretoria Street, Cape Town",286182,583524,1521126,758,4
+157,47,65,1972,10,Male,"761 Nelson Mandela Drive, Bloemfontein",289962,591246,58140,785,3
+676,40,65,1980,2,Male,"600 Cape Road, Gqeberha",574290,1170954,1504278,775,2
+1481,72,65,1947,6,Male,"430 Johannesburg Road, Gqeberha",0,43596,14580,632,2
+1902,36,68,1984,2,Female,"697 Johannesburg Road, Pretoria",287100,585396,508680,769,2
+123,43,66,1976,9,Female,"825 Durban Road, East London",320598,653670,0,824,3
+1995,64,62,1955,7,Female,"258 King George Street, Gqeberha",376974,705708,165942,605,4
+1688,27,66,1992,7,Female,"658 Van der Merwe Avenue, East London",297018,605538,732528,743,1
+1895,56,65,1963,3,Female,"116 Main Road, Johannesburg",360612,735264,2638944,706,2
+1891,47,66,1973,2,Female,"921 Queen Street, Durban",301194,614016,717156,725,4
+453,26,67,1994,2,Female,"450 Pretoria Street, Pietermaritzburg",1136862,2317950,4185108,655,1
+341,50,66,1969,10,Male,"28 Swart Street, Bloemfontein",918576,1872810,0,734,3
+1571,58,66,1961,6,Female,"378 King George Street, Durban",452988,923688,0,759,6
+1615,66,59,1954,1,Female,"332 Jan Smuts Avenue, Cape Town",442098,876420,652716,701,6
+1647,18,65,2002,2,Female,"695 Main Road, Pietermaritzburg",311778,635598,806094,684,5
+680,42,63,1977,8,Female,"384 Church Street, Durban",241452,492372,760068,799,1
+52,56,66,1963,4,Female,"410 Jan Smuts Avenue, Cape Town",563184,1148328,1479114,730,3
+1387,28,65,1991,5,Male,"550 Market Street, Cape Town",584730,1192266,2640240,785,1
+1034,58,66,1961,7,Female,"641 Voortrekker Road, East London",490572,1000242,1371258,698,6
+677,40,65,1979,5,Male,"495 Main Road, Pretoria",593496,1210068,2307132,729,3
+440,43,50,1976,11,Female,"515 Queen Street, Pretoria",937188,1910862,2605914,703,5
+338,68,72,1951,8,Female,"730 Victoria Road, Gqeberha",443718,904644,0,686,3
+1120,44,69,1975,5,Female,"456 Johannesburg Road, Cape Town",485388,989658,2190618,737,1
+1127,59,70,1960,8,Male,"374 Swart Street, Pietermaritzburg",314190,640620,1666854,720,4
+1662,41,67,1978,5,Male,"117 Market Street, Bloemfontein",441162,899406,1054476,712,4
+1462,30,63,1989,7,Female,"58 Main Road, Durban",332028,676980,1168794,586,1
+1848,31,66,1988,11,Female,"554 Van der Merwe Avenue, Johannesburg",446706,910782,1507176,791,2
+1444,64,67,1955,10,Male,"912 Voortrekker Road, Pretoria",590490,1203930,2604654,698,7
+45,61,67,1959,1,Female,"777 Swart Street, Cape Town",563058,1148058,2012544,654,1
+1102,49,65,1970,7,Female,"15 Pretoria Street, Gqeberha",836298,1705194,0,707,5
+1636,49,66,1970,5,Male,"291 King George Street, East London",217152,442764,414342,695,4
+502,46,66,1974,1,Male,"542 Cape Road, East London",321660,655920,550332,745,2
+1630,24,65,1996,1,Male,"942 Jan Smuts Avenue, Bloemfontein",279810,570474,1767708,719,1
+266,19,65,2000,3,Female,"352 Van der Merwe Avenue, Bloemfontein",242730,494892,469746,724,1
+5,65,65,1955,2,Male,"196 Jan Smuts Avenue, Johannesburg",343710,371052,252756,711,2
+1712,82,65,1938,1,Female,"813 Jan Smuts Avenue, Johannesburg",500652,1205982,56520,730,5
+1360,41,61,1978,4,Male,"432 Church Street, East London",343188,699732,1160532,672,3
+1013,25,69,1995,1,Female,"117 Swart Street, Durban",423900,864306,1719882,711,1
+993,47,64,1972,8,Female,"46 Church Street, Pietermaritzburg",395388,806202,1706202,638,1
+642,35,62,1984,5,Female,"857 Cape Road, East London",301428,614574,897102,648,4
+1871,83,65,1936,7,Male,"496 Swart Street, Pretoria",276930,298998,32346,696,5
+1721,36,68,1983,3,Female,"104 Swart Street, Pietermaritzburg",339840,692928,1164384,642,2
+868,78,64,1941,11,Male,"87 Swart Street, Gqeberha",288288,558828,205848,706,6
+1517,37,71,1982,3,Male,"823 Van der Merwe Avenue, Bloemfontein",1090674,2223720,4255074,764,4
+364,65,65,1954,5,Female,"45 Cape Road, East London",328914,716562,0,775,4
+686,64,65,1956,1,Male,"132 Durban Road, Durban",305244,622368,1459566,683,1
+696,74,67,1945,7,Female,"293 Swart Street, East London",822330,1990260,102600,766,8
+962,28,69,1992,1,Male,"333 Nelson Mandela Drive, Durban",302418,616716,1089108,846,2
+1407,40,71,1979,12,Male,"451 Queen Street, Durban",357318,728514,988182,689,4
+1015,33,67,1986,4,Female,"81 Market Street, Bloemfontein",854154,1741392,2306196,838,5
+1456,48,70,1971,8,Male,"453 Queen Street, Pretoria",275688,562158,728982,681,3
+1861,57,65,1962,5,Female,"352 Market Street, East London",586440,1195686,1859220,779,5
+161,31,70,1988,11,Male,"896 Church Street, Cape Town",207216,422442,413568,731,3
+263,30,69,1989,11,Male,"33 Durban Road, Johannesburg",234108,477342,1151622,663,3
+1389,40,64,1979,8,Female,"869 Queen Street, Cape Town",307206,626382,1309482,793,2
+1707,28,70,1991,12,Female,"19 Market Street, Gqeberha",310680,633492,1008108,620,1
+1374,28,66,1991,7,Female,"674 Queen Street, Durban",350334,714222,1687896,758,2
+1855,67,66,1952,3,Male,"231 Main Road, Durban",452070,563166,465192,728,4
+867,26,71,1993,9,Male,"241 King George Street, Bloemfontein",342576,698490,980388,614,2
+274,43,67,1976,4,Female,"707 Market Street, Gqeberha",430920,878580,0,799,3
+1552,62,67,1957,6,Male,"832 Van der Merwe Avenue, Pretoria",401220,818100,1533924,686,3
+635,25,64,1994,7,Female,"899 Church Street, Gqeberha",301860,615618,772110,731,1
+1526,53,64,1966,3,Female,"726 Van der Merwe Avenue, East London",301356,614466,1448406,671,4
+319,67,67,1952,12,Male,"261 Nelson Mandela Drive, East London",318294,510426,187200,628,2
+740,30,62,1989,8,Female,"812 Church Street, East London",285516,582174,713808,683,3
+965,18,68,2002,1,Female,"578 Durban Road, East London",372060,758556,2103426,713,2
+1421,30,65,1989,7,Male,"190 Cape Road, Durban",291186,593730,589752,740,2
+1538,82,62,1937,8,Male,"659 Jan Smuts Avenue, Pietermaritzburg",296892,424296,3888,590,2
+1101,25,70,1994,12,Female,"108 Cape Road, Bloemfontein",254790,519516,376992,751,2
+92,76,68,1943,10,Female,"413 Swart Street, Durban",379602,560610,92376,689,4
+125,64,70,1956,2,Female,"580 Johannesburg Road, Pretoria",234270,477630,1684656,724,5
+449,58,70,1962,2,Female,"688 Van der Merwe Avenue, East London",351306,716328,170136,729,5
+1173,71,67,1948,3,Male,"873 Market Street, Johannesburg",459036,930654,96678,722,7
+1810,66,66,1953,12,Male,"289 Swart Street, Gqeberha",339822,561150,105228,711,5
+1843,89,73,1930,11,Male,"18 Market Street, Pietermaritzburg",297054,697698,1242,760,7
+1578,86,62,1933,11,Male,"788 Church Street, Gqeberha",348876,599238,12510,714,2
+658,40,64,1980,2,Female,"404 King George Street, Gqeberha",464616,947340,1234062,725,4
+1858,73,64,1946,12,Male,"353 Voortrekker Road, Cape Town",257706,476658,187056,705,1
+1663,24,59,1995,7,Male,"616 Queen Street, Gqeberha",0,42660,79146,581,1
+1503,59,67,1960,3,Male,"499 Johannesburg Road, Durban",379836,774378,1548252,725,4
+725,18,68,2002,1,Male,"997 Pretoria Street, Pietermaritzburg",392562,800388,55728,709,2
+1671,50,57,1969,3,Male,"663 Jan Smuts Avenue, East London",378594,771948,1088532,604,1
+1233,35,67,1984,5,Male,"216 Jan Smuts Avenue, Johannesburg",334080,681174,720054,697,3
+1271,34,66,1985,10,Male,"581 Johannesburg Road, Johannesburg",427284,871164,2501964,642,3
+473,33,66,1986,10,Female,"7 Swart Street, Gqeberha",248760,507258,682722,682,2
+1541,48,65,1971,10,Female,"820 Johannesburg Road, Johannesburg",330354,673596,2288088,681,5
+149,24,54,1995,3,Female,"334 Cape Road, Cape Town",805446,1642266,4169142,594,1
+560,59,65,1960,4,Male,"176 Voortrekker Road, Pietermaritzburg",387630,790434,1510992,676,4
+1006,37,68,1982,4,Male,"815 Jan Smuts Avenue, Pretoria",393318,801900,2111436,761,3
+368,75,73,1945,2,Male,"792 Voortrekker Road, Cape Town",362178,770508,367776,726,6
+1696,63,65,1956,12,Female,"89 Cape Road, Pretoria",474102,966636,1532880,606,1
+416,86,65,1933,8,Female,"189 Main Road, Cape Town",360540,688914,29844,765,6
+51,29,67,1991,2,Female,"843 Pretoria Street, Johannesburg",452988,923454,1912464,688,3
+196,44,64,1975,5,Female,"332 Van der Merwe Avenue, Durban",315810,643950,1210734,773,1
+690,71,64,1948,3,Female,"442 Market Street, Gqeberha",558432,1209348,534276,692,1
+1477,47,67,1972,7,Male,"596 Johannesburg Road, Bloemfontein",412812,841734,1171908,696,3
+260,62,70,1958,2,Male,"528 Nelson Mandela Drive, Pietermaritzburg",256950,523980,423072,699,3
+857,90,62,1929,10,Male,"741 Johannesburg Road, Pietermaritzburg",318330,752958,19800,615,1
+1167,42,65,1978,1,Female,"221 Church Street, East London",433602,884106,762840,769,3
+1358,69,70,1950,4,Female,"599 Victoria Road, Pretoria",608544,1240740,1307142,768,4
+1611,68,58,1952,1,Female,"99 Church Street, Gqeberha",250326,366012,171792,684,2
+734,43,61,1976,7,Female,"473 Church Street, Pietermaritzburg",219960,448506,649818,693,2
+1507,39,67,1980,12,Female,"397 King George Street, Cape Town",391482,798192,1490796,744,3
+504,38,68,1982,1,Female,"957 Swart Street, Pietermaritzburg",302850,617598,1111968,705,2
+524,57,62,1962,3,Male,"556 Durban Road, Durban",311076,634302,778860,726,1
+525,55,66,1964,4,Male,"414 Market Street, Bloemfontein",328014,668646,0,703,3
+250,50,64,1970,2,Female,"786 Pretoria Street, Gqeberha",306054,624078,1001574,786,6
+479,57,69,1962,10,Male,"380 Van der Merwe Avenue, Pietermaritzburg",540072,1101114,1285596,692,3
+343,55,72,1964,9,Female,"207 Nelson Mandela Drive, East London",420624,857574,822708,764,8
+1196,60,61,1959,6,Female,"26 Main Road, Gqeberha",308034,628110,1019196,820,4
+1530,64,68,1956,2,Female,"37 Market Street, East London",0,32130,52056,732,3
+1963,98,69,1921,11,Male,"185 Van der Merwe Avenue, Bloemfontein",470466,609642,6660,821,7
+764,77,68,1943,1,Female,"69 Queen Street, Bloemfontein",375030,559188,376236,712,4
+213,37,68,1982,5,Female,"321 Swart Street, Johannesburg",487026,993096,1742022,629,3
+410,54,60,1966,2,Female,"372 Victoria Road, Pretoria",414522,845208,1698120,610,2
+1685,53,61,1966,7,Male,"177 Queen Street, Johannesburg",653400,1332216,1676142,681,2
+225,32,68,1987,3,Male,"15 Nelson Mandela Drive, Pietermaritzburg",360990,735966,913212,688,4
+1210,32,65,1987,11,Male,"691 Durban Road, Pretoria",304830,621558,1082808,703,4
+1336,18,67,2001,7,Female,"609 Church Street, Durban",476658,971910,2786400,673,1
+576,68,64,1951,6,Female,"4 Van der Merwe Avenue, Pretoria",553446,1143036,433800,638,7
+1677,51,67,1969,2,Male,"850 Queen Street, Durban",292896,597204,1662588,671,2
+1969,84,65,1935,4,Male,"523 Victoria Road, Cape Town",532494,804420,40482,733,5
+1431,56,61,1963,3,Female,"299 Queen Street, Durban",347886,709362,937368,599,1
+558,19,63,2000,5,Male,"319 Victoria Road, Bloemfontein",292014,595440,991188,692,3
+1482,54,64,1965,8,Male,"725 Jan Smuts Avenue, Pietermaritzburg",787050,1604736,2916216,675,1
+1295,70,70,1950,2,Female,"208 Victoria Road, Durban",314532,499896,259344,788,4
+1468,66,65,1954,1,Male,"409 Queen Street, Cape Town",471384,794466,403056,626,2
+538,66,69,1954,2,Female,"994 Durban Road, Pietermaritzburg",267192,544770,662202,814,4
+748,55,69,1965,1,Male,"249 Swart Street, Cape Town",331416,675612,1797120,706,3
+1068,21,67,1998,11,Male,"449 Johannesburg Road, Bloemfontein",285552,582210,1099188,730,3
+41,38,70,1981,3,Male,"328 Cape Road, Johannesburg",239976,489294,1049814,637,1
+807,52,71,1967,8,Female,"609 Swart Street, Bloemfontein",339786,692766,895050,691,3
+1430,69,69,1950,4,Female,"366 Pretoria Street, Gqeberha",481752,605556,375732,593,5
+1873,51,67,1968,12,Female,"995 Voortrekker Road, Gqeberha",302814,617436,1528830,651,3
+204,31,67,1988,9,Female,"715 Pretoria Street, Gqeberha",377424,769572,1083096,656,1
+424,24,69,1995,4,Female,"939 Voortrekker Road, Bloemfontein",450666,918810,2301552,772,2
+980,84,69,1935,8,Male,"348 Church Street, Cape Town",371538,432990,0,733,7
+1415,28,68,1991,12,Male,"229 Church Street, Durban",397458,810378,1396062,689,1
+600,18,55,2001,5,Male,"833 Johannesburg Road, Pietermaritzburg",413838,843804,1082178,578,1
+652,82,66,1937,9,Female,"591 Durban Road, Cape Town",361170,409068,30456,784,6
+1129,49,65,1970,4,Male,"146 Voortrekker Road, Gqeberha",304092,620082,657720,686,3
+885,36,66,1983,12,Male,"691 Durban Road, Durban",250110,510012,0,700,3
+1899,31,67,1988,8,Female,"898 Johannesburg Road, Gqeberha",504666,1028988,2011590,737,2
+1369,59,67,1961,1,Female,"431 Nelson Mandela Drive, Cape Town",316530,645372,883818,850,2
+1057,39,71,1980,7,Female,"138 Queen Street, Pietermaritzburg",396900,809244,1647882,787,1
+1302,62,72,1958,2,Female,"832 Voortrekker Road, Pietermaritzburg",255924,521784,240318,694,4
+415,53,65,1966,5,Male,"758 Victoria Road, Johannesburg",297792,607122,0,763,4
+83,31,69,1988,5,Male,"319 Church Street, Pretoria",524826,1070190,1732032,557,1
+1093,18,70,2002,2,Male,"258 Voortrekker Road, Gqeberha",419688,855774,2235186,667,1
+28,39,65,1980,4,Female,"476 Durban Road, Gqeberha",479124,976914,1984266,789,4
+33,77,71,1942,6,Female,"270 King George Street, Cape Town",328302,696456,160236,596,5
+1646,54,69,1965,11,Male,"414 Jan Smuts Avenue, Pretoria",263934,538164,354942,714,5
+1847,22,60,1998,1,Female,"23 Main Road, Gqeberha",277524,565974,950868,676,1
+1152,43,65,1977,2,Male,"299 Pretoria Street, Pretoria",313704,639684,1288638,747,1
+134,43,67,1976,12,Male,"136 Queen Street, Bloemfontein",442944,903132,2615400,643,4
+188,24,57,1995,6,Male,"579 Church Street, East London",771912,1573848,2435292,845,2
+220,33,67,1986,11,Female,"836 King George Street, Durban",546030,1113228,225450,722,4
+1343,22,62,1997,7,Female,"523 Durban Road, Johannesburg",215118,438642,673866,575,4
+1930,26,68,1993,10,Male,"415 Voortrekker Road, Cape Town",392580,800460,1195434,721,3
+1260,28,65,1991,12,Male,"118 Voortrekker Road, Gqeberha",377910,770508,885492,712,3
+96,69,66,1950,12,Female,"236 Jan Smuts Avenue, Pietermaritzburg",701064,1796850,78192,685,4
+1166,44,66,1975,5,Female,"119 Nelson Mandela Drive, Pietermaritzburg",352242,718164,785340,682,3
+1533,39,70,1980,12,Female,"471 Victoria Road, Gqeberha",436194,889416,762804,830,3
+88,22,68,1997,8,Male,"717 Johannesburg Road, Gqeberha",294282,600066,1290222,712,1
+1451,58,57,1961,4,Female,"643 Main Road, Johannesburg",377622,307404,454410,719,4
+57,28,66,1992,2,Female,"140 Nelson Mandela Drive, Johannesburg",386892,788868,1528830,823,1
+1335,51,66,1968,10,Female,"62 Voortrekker Road, Pretoria",863838,1761210,4595184,836,4
+816,56,65,1964,2,Male,"522 Market Street, Gqeberha",320310,653130,1210392,759,5
+1081,31,60,1988,9,Female,"529 Voortrekker Road, Pretoria",447282,911988,1841724,617,3
+1385,51,68,1968,7,Female,"293 Swart Street, Durban",726552,1481364,3281418,789,6
+1125,25,71,1994,8,Male,"178 Van der Merwe Avenue, Cape Town",573102,1168506,1849446,689,4
+1952,26,54,1993,7,Female,"812 Van der Merwe Avenue, Pietermaritzburg",325800,664362,1851642,821,1
+1870,24,70,1995,6,Male,"458 Church Street, Bloemfontein",627264,1278972,1918710,767,2
+1345,83,66,1936,9,Female,"812 Victoria Road, East London",444654,299160,20520,804,8
+1695,45,66,1974,12,Female,"799 Durban Road, East London",503514,1026486,392364,709,4
+1906,18,71,2001,10,Male,"870 Van der Merwe Avenue, East London",255582,521100,1103346,609,1
+1985,50,69,1969,3,Female,"409 Van der Merwe Avenue, Johannesburg",0,25668,56772,680,3
+1604,55,72,1964,11,Male,"573 Queen Street, Pietermaritzburg",276372,563544,1076706,742,7
+1933,26,64,1993,5,Male,"37 Victoria Road, Johannesburg",261828,533844,823500,589,2
+649,48,65,1971,9,Male,"387 Jan Smuts Avenue, Pietermaritzburg",409716,835344,0,847,7
+1486,39,63,1980,4,Female,"361 Pretoria Street, Bloemfontein",205758,419526,559152,789,1
+1744,31,69,1988,3,Female,"231 Nelson Mandela Drive, Gqeberha",259830,529794,1102680,693,3
+1272,27,69,1992,6,Male,"605 Market Street, Bloemfontein",540450,1101996,2565738,779,1
+400,46,68,1973,5,Female,"232 Johannesburg Road, Cape Town",351144,715860,1310886,711,4
+1994,48,66,1971,9,Female,"525 Main Road, East London",690210,1407240,1849662,740,3
+572,29,67,1991,1,Male,"727 Main Road, East London",417744,851706,763794,680,2
+1442,41,58,1979,1,Male,"736 Pretoria Street, Cape Town",268650,547776,1833246,624,1
+1853,39,70,1980,5,Male,"788 Voortrekker Road, Johannesburg",328068,668970,0,771,3
+556,46,66,1973,12,Male,"696 Durban Road, Pretoria",321408,655290,572670,715,2
+1960,30,61,1989,12,Male,"241 Main Road, Cape Town",423000,862488,1252206,612,1
+321,52,67,1967,5,Male,"177 King George Street, Johannesburg",354690,723186,846216,698,4
+483,49,68,1971,2,Female,"66 Nelson Mandela Drive, Johannesburg",352872,719442,1232208,713,3
+404,44,61,1975,9,Male,"269 Voortrekker Road, Cape Town",395622,806688,1134774,625,1
+1510,32,59,1988,1,Male,"908 Main Road, Gqeberha",447210,911844,1310508,764,2
+916,21,68,1998,8,Male,"789 Jan Smuts Avenue, East London",364248,742680,1450332,682,2
+1635,54,58,1965,3,Male,"613 Victoria Road, Bloemfontein",373680,761976,1353834,616,6
+1384,74,67,1946,1,Female,"490 Cape Road, Pietermaritzburg",405810,414198,549180,721,3
+943,64,61,1955,4,Male,"192 Victoria Road, Johannesburg",710910,1571706,755964,773,1
+1236,72,65,1947,9,Female,"517 Cape Road, Bloemfontein",263610,454374,324108,730,6
+969,24,70,1996,2,Female,"839 Victoria Road, Gqeberha",519912,1060074,2046870,666,3
+508,24,69,1995,7,Male,"565 Swart Street, Pretoria",567846,1157742,0,757,3
+496,47,63,1972,8,Male,"866 Nelson Mandela Drive, Gqeberha",320580,653742,805266,730,4
+450,39,66,1980,9,Male,"249 Swart Street, East London",381348,777456,603306,739,3
+1753,46,58,1974,2,Male,"74 Main Road, Johannesburg",401472,818568,1217448,506,1
+304,31,68,1988,8,Male,"561 Victoria Road, Cape Town",364590,743346,624654,685,2
+839,45,63,1975,1,Female,"606 Durban Road, Johannesburg",480132,978912,1254906,622,3
+138,43,68,1977,2,Female,"503 Van der Merwe Avenue, Bloemfontein",289278,589860,1858716,641,4
+43,26,66,1993,8,Female,"491 King George Street, Durban",539496,1099872,1430748,721,4
+1187,55,67,1964,9,Male,"275 Queen Street, Pretoria",417888,852012,1579950,701,3
+849,67,69,1952,7,Female,"598 Church Street, Gqeberha",386946,788904,1084158,711,3
+654,47,69,1972,7,Female,"133 Jan Smuts Avenue, Bloemfontein",299124,609894,911088,524,1
+1898,44,72,1975,9,Male,"385 Church Street, Gqeberha",450162,917874,1364094,675,5
+1971,48,66,1971,9,Male,"730 Johannesburg Road, Pretoria",368046,750420,1257642,763,2
+1020,29,66,1991,1,Female,"247 Pretoria Street, Pietermaritzburg",477810,974196,3004254,796,4
+22,56,66,1963,3,Male,"81 Jan Smuts Avenue, Cape Town",476406,971388,2438604,747,1
+436,20,65,2000,1,Female,"626 Main Road, Durban",472914,964242,1431720,623,1
+1823,67,70,1952,5,Male,"762 Victoria Road, Bloemfontein",577008,1176516,499410,743,6
+589,58,72,1961,11,Male,"786 Jan Smuts Avenue, Gqeberha",238662,486630,1044900,595,2
+49,38,74,1981,6,Male,"313 Nelson Mandela Drive, Gqeberha",341316,695934,1062954,686,3
+1350,22,65,1998,2,Female,"398 Van der Merwe Avenue, Bloemfontein",394920,805320,1870128,651,1
+1525,43,70,1976,9,Female,"471 Queen Street, Durban",344268,701892,0,728,4
+69,54,67,1965,10,Female,"625 Nelson Mandela Drive, Pietermaritzburg",338292,689724,1679112,748,6
+234,42,73,1977,11,Female,"736 Nelson Mandela Drive, Johannesburg",332136,677214,16614,726,6
+608,32,65,1987,10,Male,"200 Nelson Mandela Drive, Durban",0,42570,0,769,3
+1064,50,65,1969,12,Female,"181 Queen Street, Johannesburg",427536,871704,1306188,654,1
+374,58,66,1961,11,Male,"569 Van der Merwe Avenue, East London",275220,561186,339462,689,5
+286,38,69,1981,10,Male,"675 Van der Merwe Avenue, Durban",337428,688014,553608,725,4
+1419,53,64,1966,9,Female,"118 Van der Merwe Avenue, Pietermaritzburg",542826,1106820,2091240,647,1
+1435,41,78,1978,10,Female,"174 Queen Street, Pietermaritzburg",812376,1656306,2839014,703,3
+1683,43,69,1976,12,Male,"119 Main Road, Pretoria",221634,451962,1656,850,3
+727,44,68,1975,5,Male,"756 Market Street, Johannesburg",357732,729396,1468296,801,5
+1150,46,67,1973,4,Male,"817 Main Road, Gqeberha",556434,1134540,1681308,791,5
+332,61,65,1958,7,Male,"260 King George Street, Durban",329832,672516,388800,703,4
+487,52,68,1967,7,Male,"634 Jan Smuts Avenue, Johannesburg",486090,991062,2924316,735,3
+735,49,67,1970,12,Female,"732 Market Street, Pretoria",598068,1219374,1208376,752,3
+137,33,65,1986,7,Female,"484 Nelson Mandela Drive, Pietermaritzburg",362556,739242,1153314,644,3
+570,34,65,1985,9,Male,"613 Swart Street, Pietermaritzburg",284652,580410,775746,625,1
+1121,44,68,1975,6,Female,"658 Durban Road, East London",744840,1518570,2043522,796,5
+860,55,65,1965,2,Male,"958 Pretoria Street, Pietermaritzburg",554292,1130238,3477870,692,4
+518,31,61,1988,4,Male,"252 Market Street, Cape Town",401094,817794,1655964,523,1
+1203,36,62,1984,2,Male,"721 Main Road, Gqeberha",366678,747666,2304792,582,1
+944,58,71,1961,10,Male,"352 Queen Street, Gqeberha",1053306,2147544,1607904,789,6
+388,25,66,1994,10,Female,"585 Pretoria Street, Durban",152838,311580,393354,749,2
+741,75,66,1944,9,Male,"899 Pretoria Street, Cape Town",390510,743688,407322,826,1
+1737,52,65,1967,3,Male,"750 Van der Merwe Avenue, East London",332766,678348,741114,739,4
+1709,62,69,1957,3,Female,"963 Victoria Road, Bloemfontein",313560,639342,2000070,744,1
+1018,90,71,1929,10,Female,"527 Durban Road, Gqeberha",308556,572490,11052,755,6
+275,43,58,1977,2,Female,"939 Church Street, Pretoria",673470,1373184,2173878,710,4
+1367,49,67,1970,6,Female,"223 Jan Smuts Avenue, Johannesburg",302418,616590,649692,708,4
+1965,24,65,1996,1,Male,"905 Pretoria Street, Durban",330552,673974,0,745,1
+284,51,65,1968,4,Male,"203 Market Street, Pietermaritzburg",450090,917640,0,754,4
+79,70,66,1949,10,Female,"803 Durban Road, Durban",360810,524952,357318,625,4
+1515,77,67,1942,12,Female,"652 Pretoria Street, Cape Town",377694,548226,347652,520,5
+1934,47,67,1973,1,Female,"638 Jan Smuts Avenue, East London",245052,499734,1074438,691,1
+9,29,60,1990,12,Male,"752 Jan Smuts Avenue, Cape Town",361836,737784,1616418,540,3
+1964,68,64,1951,12,Male,"497 Market Street, Gqeberha",407592,695466,550710,643,4
+982,46,67,1973,10,Male,"950 Durban Road, Johannesburg",586980,1196802,827532,729,4
+1676,51,65,1968,12,Male,"902 Jan Smuts Avenue, Pietermaritzburg",449658,916848,1592046,681,3
+1519,41,72,1978,3,Female,"26 Cape Road, East London",353250,720216,1070496,849,4
+1098,50,71,1969,3,Male,"511 Jan Smuts Avenue, Pietermaritzburg",304218,620208,983412,752,4
+554,59,67,1960,8,Male,"110 Victoria Road, Pretoria",471060,960426,2056788,690,5
+596,28,65,1991,11,Male,"33 Victoria Road, Bloemfontein",305730,623322,620712,721,3
+170,34,71,1985,9,Male,"20 Jan Smuts Avenue, Bloemfontein",326466,665694,1060110,768,4
+794,49,67,1970,11,Female,"286 Van der Merwe Avenue, Cape Town",261504,533178,0,730,3
+1697,64,67,1955,6,Male,"463 Swart Street, Bloemfontein",361944,738036,1749384,685,6
+573,52,69,1967,7,Male,"647 Swart Street, Cape Town",264906,540198,1514988,589,1
+1715,32,72,1987,3,Female,"239 Nelson Mandela Drive, Pretoria",442602,902466,1633446,679,1
+1607,21,66,1998,4,Male,"330 Church Street, Pietermaritzburg",487026,992988,1272564,689,1
+1026,84,70,1935,5,Male,"990 Main Road, Cape Town",237492,306288,12438,714,4
+1892,22,62,1997,7,Male,"805 Voortrekker Road, Durban",287388,586026,1080954,637,2
+402,47,72,1972,6,Male,"613 Nelson Mandela Drive, East London",388008,791172,1096434,744,3
+1628,56,59,1964,2,Male,"685 King George Street, Cape Town",560052,1141902,3594708,786,2
+553,73,65,1947,1,Male,"915 Victoria Road, Pietermaritzburg",318726,613206,322236,628,1
+1551,47,70,1972,12,Male,"13 Swart Street, Durban",315180,642582,1138752,687,5
+1672,28,70,1991,9,Male,"309 Main Road, Durban",658980,1343592,3676518,792,3
+426,26,65,1993,4,Female,"223 Market Street, Pretoria",373914,762264,111672,754,4
+1135,89,69,1931,1,Female,"793 Victoria Road, Pietermaritzburg",566928,1224180,0,704,7
+1420,87,70,1932,8,Female,"471 Voortrekker Road, Durban",693252,1091736,0,688,4
+1589,39,70,1981,1,Female,"41 Nelson Mandela Drive, Pietermaritzburg",242730,494892,796644,702,3
+1002,31,67,1988,4,Male,"682 Main Road, Cape Town",342414,698184,1394064,716,1
+1411,57,66,1962,6,Female,"657 Pretoria Street, Gqeberha",609246,1242126,939924,720,4
+1654,43,66,1976,4,Male,"825 Jan Smuts Avenue, Cape Town",435492,887904,111546,693,5
+1330,65,61,1954,12,Female,"246 Church Street, Johannesburg",595746,637272,555966,575,3
+790,34,65,1985,3,Female,"798 Pretoria Street, Pietermaritzburg",409320,834498,1253160,743,2
+552,54,66,1965,4,Male,"432 Jan Smuts Avenue, Pietermaritzburg",463806,945684,2383362,602,1
+139,73,65,1947,1,Female,"788 Church Street, Gqeberha",353736,563706,82638,687,4
+1280,28,66,1991,10,Male,"852 King George Street, East London",288450,588168,1593270,641,1
+883,33,60,1987,2,Male,"368 Market Street, Pretoria",479646,977994,1858032,584,1
+359,66,61,1953,7,Male,"734 Victoria Road, East London",436536,1032894,373050,799,4
+1921,44,65,1975,3,Male,"379 Queen Street, Gqeberha",283068,577152,176994,709,3
+651,53,66,1966,5,Female,"513 Johannesburg Road, Gqeberha",303336,618498,744750,643,1
+557,59,54,1960,9,Male,"48 Nelson Mandela Drive, East London",332568,508410,241398,669,1
+1071,26,69,1993,3,Male,"478 Nelson Mandela Drive, Cape Town",338688,690534,1151532,838,3
+1175,93,69,1926,9,Male,"113 Queen Street, East London",224550,194076,6228,770,7
+1936,86,68,1933,7,Female,"902 Jan Smuts Avenue, Pietermaritzburg",485118,642330,20430,714,5
+182,49,70,1971,2,Female,"972 Pretoria Street, Pretoria",450108,917712,1172268,616,2
+468,48,65,1971,9,Female,"488 Main Road, Johannesburg",418284,852732,635616,714,2
+1651,33,66,1986,3,Male,"156 Queen Street, Durban",494532,1008324,1802934,739,2
+1714,23,65,1996,6,Female,"611 Pretoria Street, Gqeberha",644526,1314198,4326336,794,2
+1839,59,60,1960,6,Female,"952 Johannesburg Road, Durban",242208,493902,1523970,631,1
+1585,35,69,1984,11,Female,"803 Johannesburg Road, Pretoria",372780,760122,0,688,3
+1245,54,58,1965,9,Female,"46 Main Road, Cape Town",378720,772200,1998126,802,6
+732,60,68,1959,8,Male,"798 Voortrekker Road, Gqeberha",346032,705438,781128,756,6
+342,18,68,2001,6,Male,"639 Nelson Mandela Drive, Pretoria",1131120,2306214,2444544,699,1
+476,68,71,1951,9,Male,"495 Cape Road, Pretoria",366120,746514,1766718,724,3
+164,76,67,1943,8,Male,"780 Nelson Mandela Drive, Pretoria",329166,680922,363330,658,4
+539,21,68,1998,8,Female,"917 Jan Smuts Avenue, Pietermaritzburg",305172,622224,1475154,765,1
+40,71,74,1948,6,Male,"806 Church Street, Gqeberha",258156,526374,552348,726,4
+1,43,74,1976,4,Female,"30 Van der Merwe Avenue, Pretoria",400446,816480,262566,704,3
+272,30,67,1989,8,Female,"739 Pretoria Street, Bloemfontein",471474,961326,2260548,767,3
+521,21,70,1998,9,Female,"56 Van der Merwe Avenue, Bloemfontein",289818,590922,794538,652,1
+988,68,68,1951,4,Male,"850 Nelson Mandela Drive, Bloemfontein",360756,716976,96786,785,4
+660,31,68,1988,9,Female,"245 Johannesburg Road, Gqeberha",388836,792738,1964862,680,2
+1381,79,68,1940,10,Male,"498 Market Street, Gqeberha",447804,531306,44460,690,4
+184,50,69,1969,4,Female,"276 Main Road, Bloemfontein",384264,783522,2271150,797,6
+1183,53,66,1966,5,Male,"607 Van der Merwe Avenue, Durban",289746,590760,414072,740,4
+905,69,73,1950,11,Male,"272 Swart Street, Durban",855432,1744218,3290562,701,5
+419,60,66,1959,11,Male,"310 Market Street, Johannesburg",296064,603720,1341540,734,5
+239,26,68,1993,3,Male,"965 Market Street, Pretoria",372582,759618,2492442,682,5
+1241,40,69,1979,3,Female,"504 King George Street, East London",436086,889128,711882,814,3
+383,48,66,1971,9,Male,"786 Market Street, Pretoria",302688,617166,1389240,760,3
+1816,39,69,1980,4,Female,"910 Queen Street, Cape Town",302292,616338,1431918,784,2
+1501,40,67,1980,2,Male,"963 Jan Smuts Avenue, Pietermaritzburg",320004,652446,613422,712,3
+497,63,65,1956,11,Male,"470 King George Street, Pretoria",462456,942840,157752,850,6
+893,18,68,2002,2,Male,"958 King George Street, Pietermaritzburg",306486,624888,341316,850,3
+44,85,67,1934,12,Male,"866 Johannesburg Road, Cape Town",301284,687492,30132,680,3
+661,64,67,1956,1,Male,"132 Victoria Road, Bloemfontein",378090,770958,1079064,566,3
+939,80,59,1939,10,Female,"616 Victoria Road, Cape Town",359010,626742,53478,696,2
+947,63,71,1956,9,Male,"520 Victoria Road, Pretoria",305730,623466,227214,710,4
+1749,50,61,1969,7,Female,"826 Voortrekker Road, Cape Town",155844,317826,394182,614,2
+385,79,65,1941,2,Male,"197 Church Street, Cape Town",390222,547812,429894,740,7
+67,23,65,1996,4,Female,"876 Swart Street, Gqeberha",420588,857502,0,732,2
+1298,32,70,1987,12,Female,"697 Swart Street, Johannesburg",226026,460854,474264,729,2
+913,56,70,1963,5,Male,"93 Market Street, East London",251352,512568,0,693,3
+1634,66,68,1953,3,Male,"69 Swart Street, Pietermaritzburg",181638,370386,1082736,825,4
+804,64,67,1955,7,Male,"674 Cape Road, Pretoria",267102,544536,435096,812,5
+1703,47,65,1972,8,Female,"586 King George Street, Pietermaritzburg",434070,885042,1187892,747,2
+1741,92,67,1927,10,Male,"673 Nelson Mandela Drive, Johannesburg",314280,449280,16002,707,9
+766,44,63,1975,8,Female,"616 Market Street, Johannesburg",273366,557406,1101618,685,3
+472,50,64,1969,4,Male,"905 Nelson Mandela Drive, Gqeberha",406404,828702,1435284,672,4
+366,50,68,1969,12,Female,"576 Queen Street, Durban",352314,718398,1688814,625,7
+1205,22,69,1997,8,Male,"214 Johannesburg Road, Cape Town",503064,1025712,2316312,680,5
+1705,50,68,1970,2,Male,"764 Victoria Road, Cape Town",246744,503136,37260,850,3
+626,22,65,1997,6,Female,"92 Victoria Road, Gqeberha",758880,1547172,1956312,746,2
+1638,79,64,1940,8,Female,"907 Van der Merwe Avenue, Johannesburg",615348,1040832,564372,668,5
+1953,29,68,1991,1,Female,"640 Jan Smuts Avenue, Bloemfontein",388422,791928,292680,842,3
+1771,41,66,1978,12,Male,"609 Cape Road, Gqeberha",458568,934974,1110996,794,3
+931,34,73,1985,12,Male,"963 Swart Street, Pretoria",611532,1246860,1748052,540,1
+1190,49,65,1970,8,Female,"622 Johannesburg Road, Gqeberha",391842,798894,762642,707,7
+371,82,63,1937,3,Male,"666 Main Road, Bloemfontein",788886,1662624,48402,719,4
+1404,52,71,1967,11,Female,"775 Pretoria Street, Johannesburg",321948,656496,1448442,526,2
+1970,18,66,2001,6,Male,"71 Jan Smuts Avenue, Bloemfontein",457956,933714,1262592,731,2
+1364,47,72,1972,11,Male,"778 Main Road, Gqeberha",0,54,90,750,2
+327,44,67,1975,7,Male,"670 Jan Smuts Avenue, Cape Town",325242,663174,940464,772,5
+1337,26,66,1993,9,Male,"850 Victoria Road, Pietermaritzburg",341028,695412,757782,800,2
+594,29,70,1990,12,Male,"934 Swart Street, Durban",299556,610794,95922,698,6
+1704,27,62,1992,7,Male,"347 Main Road, Durban",562860,1147680,2721186,716,1
+1500,53,66,1967,1,Male,"550 Cape Road, Pretoria",467082,952272,2601612,680,4
+923,18,70,2002,1,Female,"647 Nelson Mandela Drive, Durban",419346,855018,1469250,735,2
+1788,59,66,1960,9,Female,"286 Voortrekker Road, Pietermaritzburg",369378,753210,1636920,673,4
+129,56,63,1963,6,Female,"125 Jan Smuts Avenue, Pietermaritzburg",396144,807750,2266362,510,1
+1756,30,66,1989,10,Male,"460 Johannesburg Road, Bloemfontein",511740,1043442,1662876,691,2
+197,32,60,1987,5,Male,"452 Jan Smuts Avenue, Pretoria",283626,578304,1050714,724,5
+219,47,66,1973,2,Male,"701 Victoria Road, Pretoria",198648,405090,502704,798,3
+1820,60,65,1959,7,Female,"264 Durban Road, Pretoria",338904,691092,1249074,693,5
+405,30,67,1989,3,Male,"645 Van der Merwe Avenue, Durban",308970,629964,1093482,627,1
+726,58,67,1961,8,Male,"563 Durban Road, Johannesburg",396576,808632,491346,717,3
+20,86,67,1933,12,Female,"286 Cape Road, East London",350586,420678,0,757,8
+216,60,66,1959,5,Female,"434 Durban Road, Cape Town",292914,597204,1541160,687,3
+293,32,63,1987,8,Female,"489 Church Street, East London",371520,757512,1039680,661,5
+1868,24,69,1995,8,Male,"533 Queen Street, Pretoria",504882,1029366,175608,714,2
+1996,46,66,1973,6,Female,"848 Van der Merwe Avenue, Cape Town",395208,805824,1077516,728,3
+1171,90,67,1929,12,Male,"518 Van der Merwe Avenue, Pietermaritzburg",474660,705852,0,781,5
+1154,73,71,1947,1,Male,"735 Johannesburg Road, Pretoria",495828,698562,358416,788,4
+819,55,77,1964,10,Female,"900 Victoria Road, East London",331056,674910,512082,687,3
+1554,49,63,1970,4,Male,"772 Main Road, Gqeberha",457290,932436,1640124,696,1
+1079,65,60,1954,11,Female,"18 Queen Street, Pretoria",881892,1859292,703368,831,3
+681,19,60,2001,1,Female,"110 King George Street, East London",385200,785412,946674,654,1
+240,50,68,1970,2,Male,"548 Market Street, Pretoria",307872,627624,935712,745,3
+751,61,64,1958,8,Female,"429 Voortrekker Road, East London",438552,894186,1951182,593,4
+773,67,65,1952,9,Male,"711 Johannesburg Road, Cape Town",280116,198522,58050,786,3
+1294,39,63,1980,7,Female,"164 King George Street, Durban",521874,1064052,2388870,730,2
+1567,43,68,1976,8,Female,"412 King George Street, Pretoria",358218,730368,972198,747,2
+132,77,72,1942,5,Female,"629 Pretoria Street, Pretoria",251496,567990,229986,696,4
+512,48,62,1971,8,Male,"371 Victoria Road, Pretoria",643086,1311192,3733614,718,1
+501,24,65,1995,8,Male,"681 Pretoria Street, East London",310806,633816,1013148,765,2
+178,47,66,1972,7,Female,"211 Jan Smuts Avenue, Bloemfontein",433026,882810,0,727,3
+1077,57,54,1962,12,Female,"313 Pretoria Street, Pietermaritzburg",322182,216792,185814,576,3
+914,38,71,1982,1,Male,"399 Church Street, Pretoria",407484,830880,1574262,763,4
+1840,46,71,1974,2,Female,"594 Victoria Road, Cape Town",390636,796482,1858122,706,5
+550,76,70,1944,2,Male,"454 Van der Merwe Avenue, Pretoria",381942,544464,643788,763,4
+1869,28,71,1991,9,Male,"645 Church Street, Johannesburg",304416,620766,937386,702,1
+977,83,67,1936,12,Female,"31 Church Street, Bloemfontein",250506,411714,0,710,5
+933,50,69,1969,5,Male,"270 Voortrekker Road, Durban",382212,779220,1624284,690,4
+938,28,73,1991,7,Female,"211 Church Street, East London",449676,916812,979308,720,3
+622,23,65,1996,12,Male,"342 Main Road, Gqeberha",771912,1573866,0,738,2
+796,25,70,1994,5,Female,"331 Queen Street, Pretoria",381186,777204,1336626,746,3
+621,51,63,1968,3,Male,"674 Market Street, Pietermaritzburg",241650,492696,980532,612,1
+1038,33,65,1986,8,Female,"23 Church Street, Johannesburg",324450,661590,1733256,810,2
+1687,70,64,1949,12,Female,"711 Market Street, Johannesburg",440730,723402,435042,621,1
+1890,29,65,1991,1,Male,"706 Market Street, Pretoria",282744,576432,1245078,754,1
+544,34,65,1985,5,Female,"876 Jan Smuts Avenue, Bloemfontein",529668,1079982,2309598,676,1
+810,77,65,1942,5,Female,"171 Market Street, Pretoria",297378,405720,305028,705,6
+58,38,66,1981,4,Female,"293 Durban Road, Johannesburg",463608,945216,1721520,706,2
+1986,44,69,1975,12,Female,"512 Johannesburg Road, Durban",427536,871740,1122912,716,2
+1084,36,66,1984,1,Male,"257 Church Street, Johannesburg",567324,1156716,1357470,775,4
+1349,48,64,1971,8,Female,"729 Market Street, Gqeberha",249516,508806,643086,799,3
+1825,70,65,1949,9,Female,"629 Victoria Road, Cape Town",447282,823572,163188,718,4
+98,80,67,1939,4,Female,"504 Van der Merwe Avenue, Durban",283590,299628,29502,590,2
+615,35,65,1984,3,Female,"386 Jan Smuts Avenue, Pretoria",395208,805788,1241802,713,2
+1488,34,66,1985,11,Female,"768 Victoria Road, Durban",362790,739638,1563066,695,6
+211,43,71,1976,5,Male,"808 Pretoria Street, Pietermaritzburg",255852,521694,656676,755,3
+1443,47,69,1972,7,Male,"564 Pretoria Street, Bloemfontein",309150,630288,980190,732,3
+801,82,69,1938,2,Female,"577 Nelson Mandela Drive, Bloemfontein",269802,417150,29268,723,5
+655,49,66,1970,3,Female,"131 Van der Merwe Avenue, Johannesburg",267840,546120,1163898,552,3
+669,38,62,1981,9,Female,"577 Market Street, Durban",363186,740538,1279080,683,2
+1726,67,65,1952,10,Female,"989 Jan Smuts Avenue, Gqeberha",629532,423594,416376,687,1
+444,24,68,1995,9,Female,"874 Main Road, Pretoria",232902,474876,236898,748,2
+418,29,66,1990,7,Male,"470 Church Street, Bloemfontein",458082,934038,1496988,693,4
+242,41,65,1978,6,Male,"846 Nelson Mandela Drive, Durban",384570,784080,1053792,850,5
+168,51,56,1968,7,Female,"293 Victoria Road, Johannesburg",279954,570834,772110,646,1
+960,29,66,1990,8,Male,"605 Swart Street, Pretoria",471240,960768,1097154,750,3
+1911,58,75,1961,11,Female,"94 King George Street, Bloemfontein",298332,608274,1947528,768,4
+259,71,65,1948,5,Female,"640 Durban Road, East London",406530,684162,369522,689,3
+300,40,64,1979,12,Male,"832 Voortrekker Road, Cape Town",668358,1362798,2182518,750,1
+1967,55,74,1964,9,Male,"438 Swart Street, Durban",545526,1112274,12348,767,4
+434,31,74,1988,10,Female,"380 Johannesburg Road, Pietermaritzburg",471420,961110,1320660,785,3
+1076,61,66,1958,8,Female,"880 Victoria Road, Gqeberha",329688,672156,874998,779,5
+723,59,68,1960,5,Female,"653 Swart Street, Durban",312462,637146,992016,828,5
+1398,52,66,1967,4,Male,"11 Jan Smuts Avenue, Johannesburg",625608,1275516,298710,745,5
+1464,63,61,1957,1,Female,"670 Van der Merwe Avenue, Pietermaritzburg",555102,892242,1044342,682,2
+1505,29,69,1990,11,Male,"91 Pretoria Street, Pietermaritzburg",332622,678186,1201266,685,2
+1130,50,65,1970,1,Female,"647 Nelson Mandela Drive, East London",391608,798390,806022,680,3
+62,78,68,1941,11,Female,"750 King George Street, Cape Town",275328,401220,166230,716,6
+1623,32,73,1987,4,Female,"779 Johannesburg Road, Gqeberha",311004,634086,454986,746,3
+1416,73,65,1946,9,Female,"596 Swart Street, Cape Town",435096,877500,337032,709,8
+1998,65,67,1954,9,Male,"579 King George Street, Johannesburg",0,11610,14220,688,3
+1299,40,70,1979,11,Female,"705 Cape Road, Durban",329310,671382,574614,723,2
+303,94,66,1926,1,Male,"834 Jan Smuts Avenue, Pretoria",489330,1081440,32526,690,6
+1138,51,64,1968,3,Female,"930 Jan Smuts Avenue, Durban",369756,753948,1939212,768,3
+1750,47,55,1973,2,Female,"848 Durban Road, Johannesburg",624258,1272798,1804068,741,2
+1117,49,68,1970,4,Female,"745 Jan Smuts Avenue, Pretoria",244476,498438,440640,687,2
+1322,35,62,1984,5,Female,"496 Nelson Mandela Drive, East London",401742,819144,1688508,636,1
+878,45,65,1974,3,Male,"335 Jan Smuts Avenue, Johannesburg",353934,721674,1471536,615,2
+609,59,62,1961,2,Male,"300 Van der Merwe Avenue, Bloemfontein",331344,675648,1140948,717,3
+761,18,69,2001,3,Female,"165 Jan Smuts Avenue, East London",496368,1011996,1149228,726,4
+1313,35,67,1985,1,Male,"131 Market Street, Bloemfontein",266364,543096,719262,653,2
+1558,47,65,1973,2,Female,"559 Durban Road, Pietermaritzburg",453096,923940,1910898,597,2
+399,37,68,1982,5,Female,"285 Jan Smuts Avenue, Durban",567252,1156536,1673514,802,2
+325,45,57,1974,11,Male,"992 Cape Road, Cape Town",352602,718956,943938,709,4
+689,65,62,1954,3,Female,"740 Van der Merwe Avenue, Johannesburg",324216,703386,252342,709,1
+1763,49,66,1970,6,Male,"818 Church Street, Bloemfontein",335880,684702,489222,717,3
+717,23,65,1996,8,Female,"895 Market Street, Pretoria",473850,966150,1482714,659,5
+884,75,64,1945,2,Male,"177 Durban Road, Johannesburg",389934,770616,399078,631,4
+1701,56,67,1963,4,Male,"101 Pretoria Street, Pietermaritzburg",205074,418158,875232,726,3
+117,20,71,2000,1,Male,"333 Pretoria Street, Johannesburg",266832,544122,778302,595,3
+126,63,65,1956,10,Male,"879 Johannesburg Road, Cape Town",234846,478800,0,799,4
+1051,32,71,1987,11,Female,"342 Voortrekker Road, Cape Town",439632,896400,2474280,694,2
+462,63,57,1956,9,Female,"1 Queen Street, Durban",442278,912528,590274,767,5
+1454,30,64,1990,1,Male,"742 Market Street, Pretoria",316152,644634,782532,748,2
+467,38,65,1981,9,Male,"280 Victoria Road, Pretoria",395784,806958,376308,705,3
+1802,39,62,1980,11,Female,"859 Victoria Road, Gqeberha",523584,1067634,1842480,802,2
+1563,49,67,1970,8,Female,"653 Victoria Road, Pietermaritzburg",199314,406494,1124298,683,4
+1235,18,65,2002,2,Male,"284 Johannesburg Road, Pretoria",550152,1121688,2636766,813,1
+587,20,62,1999,8,Male,"587 Swart Street, Pretoria",223794,456300,1268550,643,2
+709,26,66,1993,9,Female,"759 Jan Smuts Avenue, Johannesburg",379026,772758,878094,742,3
+1036,19,68,2000,5,Male,"593 Market Street, Pretoria",446706,910836,1201716,722,2
+372,32,71,1988,1,Male,"902 Church Street, Johannesburg",217818,444024,402084,756,1
+929,63,62,1956,4,Female,"634 Pretoria Street, Durban",793908,1009836,1065564,850,1
+253,61,62,1959,1,Male,"11 Swart Street, Johannesburg",390690,796626,1990566,664,2
+1549,68,74,1952,1,Male,"210 Queen Street, Pietermaritzburg",559296,1140390,2529468,747,5
+529,55,68,1964,8,Male,"581 Pretoria Street, East London",404064,823806,752238,721,4
+1306,46,58,1973,5,Female,"864 Nelson Mandela Drive, Pretoria",292536,596466,730062,706,2
+1798,79,65,1940,4,Male,"677 Pretoria Street, Pietermaritzburg",448668,682164,593892,517,2
+389,27,67,1992,7,Male,"813 Cape Road, Pretoria",468594,955476,1925010,689,3
+1829,25,68,1995,2,Male,"386 Voortrekker Road, Durban",390276,795672,1067580,710,3
+1392,24,61,1995,5,Male,"392 Victoria Road, Pretoria",468414,955098,1513314,743,3
+1949,28,67,1991,7,Female,"523 Queen Street, Johannesburg",392328,799992,2346876,706,1
+1881,67,67,1952,9,Male,"641 Church Street, East London",401778,1017756,163746,733,6
+1706,24,67,1995,4,Female,"675 Van der Merwe Avenue, Pretoria",236898,483102,1261386,805,2
+848,51,69,1968,5,Male,"944 Church Street, East London",603522,1230516,1731276,711,2
+1044,30,60,1989,6,Male,"359 Cape Road, Gqeberha",402984,821682,2717730,693,1
+1112,34,66,1985,11,Female,"518 Van der Merwe Avenue, East London",263970,538146,499248,760,6
+802,35,67,1984,3,Female,"876 Main Road, Durban",528606,1077696,1726686,752,4
+859,51,72,1968,4,Male,"515 Jan Smuts Avenue, Bloemfontein",287190,585558,1407474,631,4
+441,41,64,1978,6,Female,"597 Victoria Road, East London",407034,829944,1169892,635,1
+879,54,66,1966,2,Male,"340 Nelson Mandela Drive, Johannesburg",200520,408852,490086,702,3
+1437,77,65,1942,4,Female,"31 Queen Street, Johannesburg",353520,806526,247140,751,4
+1413,39,65,1980,5,Female,"174 Main Road, Pietermaritzburg",275130,561060,596970,685,5
+1710,33,69,1986,10,Female,"841 Voortrekker Road, Johannesburg",353430,720522,0,787,3
+1037,38,67,1981,9,Male,"476 Voortrekker Road, Cape Town",449856,917226,1317366,653,2
+966,26,69,1993,4,Female,"220 Cape Road, Bloemfontein",211734,431766,703278,630,1
+107,50,70,1970,1,Male,"876 Market Street, Pietermaritzburg",236214,481644,739152,734,5
+1247,69,71,1950,9,Female,"174 Swart Street, Johannesburg",389772,794736,1629468,700,5
+700,21,68,1998,12,Female,"962 Pretoria Street, Cape Town",1646766,3357612,4207428,590,1
+1363,18,66,2002,2,Male,"229 Main Road, Durban",434178,885330,1664712,690,2
+10,30,66,1990,2,Male,"918 Main Road, East London",519678,1059570,1694412,727,2
+1725,49,66,1970,9,Female,"958 Jan Smuts Avenue, Johannesburg",376506,767736,2410830,729,6
+1145,43,65,1977,1,Female,"133 Market Street, Cape Town",662850,1351440,634824,747,3
+864,56,69,1963,10,Female,"800 Nelson Mandela Drive, Pretoria",345564,704628,1313226,766,3
+1357,75,65,1944,12,Female,"514 King George Street, East London",304938,205380,0,812,7
+1344,61,65,1958,11,Male,"517 Church Street, East London",413532,843174,1197522,736,2
+1252,23,70,1996,7,Female,"537 King George Street, Cape Town",466200,950670,1387152,658,2
+935,18,71,2002,1,Female,"641 Main Road, Pietermaritzburg",282618,576252,1105560,728,3
+1748,44,71,1975,7,Female,"592 Johannesburg Road, Pietermaritzburg",482544,983862,1320534,628,1
+1123,44,66,1975,7,Male,"469 Swart Street, Pretoria",246294,502128,756828,710,3
+546,51,68,1969,1,Male,"801 Johannesburg Road, Pietermaritzburg",451998,921528,479106,681,3
+430,52,67,1967,5,Female,"573 Durban Road, East London",471024,960300,2316168,685,5
+61,44,65,1976,2,Female,"865 Voortrekker Road, Pretoria",824616,1681308,2734830,801,3
+1621,66,69,1953,9,Male,"688 Jan Smuts Avenue, Gqeberha",653814,1333062,2599128,744,4
+413,21,70,1998,3,Male,"249 Voortrekker Road, Cape Town",450450,918504,1894302,660,2
+269,21,69,1998,5,Female,"926 Church Street, Johannesburg",342000,697302,0,689,3
+37,41,60,1978,7,Female,"653 Nelson Mandela Drive, Pietermaritzburg",306234,624420,881172,683,4
+1793,37,63,1982,8,Male,"618 Voortrekker Road, East London",258606,527346,653454,825,4
+1846,82,64,1937,10,Male,"147 Main Road, Johannesburg",255438,600408,16884,566,4
+116,31,68,1988,8,Male,"537 Main Road, Pretoria",593514,1210140,814842,685,2
+752,65,64,1954,6,Female,"991 Johannesburg Road, Cape Town",492768,1166922,279666,664,3
+1185,29,66,1990,11,Female,"850 Voortrekker Road, Bloemfontein",595674,1214514,2524860,780,1
+683,61,66,1959,1,Male,"648 Voortrekker Road, Cape Town",450558,918702,0,704,5
+903,25,67,1994,8,Male,"850 Nelson Mandela Drive, Johannesburg",526158,1072782,1424268,717,5
+559,56,59,1963,5,Male,"864 Jan Smuts Avenue, East London",313092,638424,957330,490,2
+1338,33,67,1986,12,Male,"738 Nelson Mandela Drive, Pretoria",415080,846414,0,765,2
+75,80,66,1939,12,Female,"313 King George Street, Bloemfontein",333504,401868,29160,564,4
+861,22,67,1997,7,Female,"236 Jan Smuts Avenue, Cape Town",362646,739440,1917810,793,1
+100,56,66,1963,9,Male,"179 King George Street, Pretoria",432090,880992,1439280,813,7
+1140,44,65,1975,7,Male,"939 Pretoria Street, Pretoria",488682,996318,2747610,703,6
+531,18,68,2001,12,Male,"278 Swart Street, Gqeberha",260460,530946,1188792,722,3
+279,25,64,1995,2,Female,"788 Voortrekker Road, Gqeberha",614196,1252296,2481210,753,2
+362,37,59,1983,1,Male,"101 Pretoria Street, Pietermaritzburg",430002,876780,1076832,792,3
+1458,32,66,1987,6,Male,"573 Jan Smuts Avenue, Johannesburg",315648,643590,1111464,708,4
+976,67,69,1952,8,Female,"583 Queen Street, Pietermaritzburg",553248,1128042,1265706,760,5
+71,39,69,1980,5,Male,"308 Nelson Mandela Drive, Pietermaritzburg",289566,590418,800928,701,2
+375,50,66,1970,2,Female,"587 Johannesburg Road, Bloemfontein",331992,677106,1039428,695,3
+403,33,72,1986,7,Male,"879 Queen Street, Johannesburg",322164,656928,2154060,759,1
+983,77,67,1942,8,Male,"574 Market Street, Durban",368046,863874,55440,827,5
+435,71,66,1948,8,Female,"343 Van der Merwe Avenue, Bloemfontein",285858,420300,351270,679,2
+542,52,65,1967,7,Female,"594 Church Street, Gqeberha",260370,530928,894258,704,5
+1090,59,66,1960,10,Female,"20 Cape Road, East London",378090,770850,1892196,850,5
+60,47,64,1972,8,Female,"56 Queen Street, Gqeberha",300654,613026,1066446,655,4
+287,42,73,1977,8,Female,"145 Pretoria Street, Durban",381204,777258,1029582,710,3
+1857,32,66,1987,8,Male,"453 Johannesburg Road, Gqeberha",858564,1750464,3547800,775,5
+1291,43,64,1976,11,Male,"209 Van der Merwe Avenue, Pretoria",307818,627642,960858,699,2
+408,58,62,1961,4,Female,"938 Jan Smuts Avenue, Pietermaritzburg",276678,564174,891666,741,3
+173,63,62,1956,5,Female,"560 Nelson Mandela Drive, Durban",299970,547182,349272,668,4
+1787,52,66,1967,9,Female,"643 Market Street, East London",514494,1049004,927702,689,6
+1800,62,55,1958,2,Male,"524 King George Street, Pietermaritzburg",252684,170010,267408,641,2
+438,32,66,1987,10,Female,"584 Nelson Mandela Drive, Durban",300438,612612,1005228,633,2
+1988,59,67,1960,8,Male,"229 Jan Smuts Avenue, Pietermaritzburg",966168,1969920,3255570,737,5
+1143,20,61,2000,2,Female,"407 Van der Merwe Avenue, Pretoria",550566,1122570,2478780,606,1
+1250,85,67,1935,1,Female,"720 Pretoria Street, East London",274716,692982,26874,746,5
+1767,21,65,1998,9,Female,"128 Market Street, East London",420390,857196,1566972,709,2
+1072,48,62,1972,1,Female,"105 Victoria Road, East London",353286,720306,1356786,648,1
+1841,28,71,1991,5,Female,"110 Jan Smuts Avenue, Johannesburg",356490,726858,1134144,730,3
+1202,63,65,1956,10,Female,"753 Voortrekker Road, Johannesburg",0,72,0,691,3
+235,32,67,1987,12,Female,"405 Main Road, Bloemfontein",429732,876168,1990602,721,4
+1766,62,66,1957,9,Male,"956 Swart Street, Bloemfontein",179910,366786,217656,789,4
+1702,53,68,1967,2,Female,"924 Church Street, Gqeberha",357318,728460,1567548,691,5
+1142,52,62,1967,3,Male,"896 Main Road, Cape Town",699804,1426896,1926522,716,3
+1653,42,63,1978,1,Male,"884 Swart Street, Pietermaritzburg",526698,1073934,1612422,681,1
+1982,30,71,1990,2,Male,"226 Johannesburg Road, Bloemfontein",612774,1249416,1156914,699,2
+1423,23,55,1996,3,Female,"256 Swart Street, Johannesburg",201672,411192,677250,689,1
+48,69,63,1950,4,Male,"174 Durban Road, Gqeberha",377874,297756,662958,733,3
+1582,23,71,1996,10,Female,"75 Johannesburg Road, Bloemfontein",525132,1070622,1253610,688,1
+656,61,64,1958,5,Female,"510 Van der Merwe Avenue, Durban",464652,947394,2467962,704,1
+500,21,67,1998,4,Female,"412 Market Street, Gqeberha",275148,561006,528156,749,3
+1862,25,65,1994,4,Female,"247 Cape Road, Gqeberha",334224,681552,1026936,686,1
+1850,18,61,2001,9,Female,"578 Queen Street, Durban",291294,593964,813528,736,1
+1808,31,69,1988,8,Female,"862 Durban Road, East London",311922,635958,1000188,697,4
+277,46,68,1974,2,Male,"566 Swart Street, Gqeberha",280224,571302,1474290,799,5
+1716,18,65,2001,4,Female,"828 Johannesburg Road, Pietermaritzburg",226494,461772,1003698,746,1
+516,35,66,1984,10,Male,"309 Voortrekker Road, Durban",304956,621756,638532,697,4
+620,26,61,1993,5,Male,"840 Voortrekker Road, Gqeberha",295146,601866,1020420,588,1
+159,53,69,1966,7,Male,"207 Johannesburg Road, Durban",248382,506412,364158,707,3
+478,54,71,1965,9,Male,"564 Victoria Road, Bloemfontein",642780,1310526,0,803,3
+772,62,65,1957,10,Female,"483 Church Street, Johannesburg",406782,829350,2508030,741,3
+1537,35,69,1984,6,Female,"413 Johannesburg Road, Pietermaritzburg",319680,651834,870552,637,1
+1429,62,66,1957,7,Female,"71 Victoria Road, Pretoria",296262,604008,191142,799,4
+1228,54,61,1965,7,Male,"491 Market Street, East London",419166,854676,1072620,726,5
+991,52,60,1967,8,Male,"617 Cape Road, Durban",325980,664686,974610,554,1
+1249,18,65,2002,1,Female,"615 Pretoria Street, Cape Town",354258,722358,872424,721,1
+1242,52,69,1967,10,Female,"39 Cape Road, Cape Town",269334,549162,1025154,641,2
+1759,87,69,1932,11,Female,"88 Jan Smuts Avenue, Cape Town",400860,599022,29556,778,6
+1058,61,67,1958,3,Male,"708 Pretoria Street, Pietermaritzburg",310698,633528,931518,684,4
+1730,52,65,1967,10,Female,"3 King George Street, Johannesburg",389556,794304,2676312,739,3
+1632,20,70,1999,8,Female,"778 Johannesburg Road, East London",399852,815256,1600506,660,4
+1224,42,66,1977,9,Male,"271 Nelson Mandela Drive, East London",472032,962352,372294,751,4
+1940,40,65,1979,10,Female,"70 Swart Street, Bloemfontein",237186,483570,351522,826,5
+1132,18,69,2002,2,Female,"356 Swart Street, Bloemfontein",367056,748422,903420,694,2
+895,46,70,1973,8,Female,"412 Queen Street, Pietermaritzburg",279270,569376,1377684,832,3
+1556,30,67,1989,7,Female,"405 Pretoria Street, Johannesburg",426222,868986,1982754,740,4
+1025,19,62,2000,10,Male,"527 Main Road, Pretoria",295074,601668,930582,664,4
+1972,73,68,1946,3,Female,"787 Durban Road, Pretoria",169002,235602,196704,772,4
+86,24,65,1995,6,Male,"101 Victoria Road, Durban",204912,417816,452484,799,3
+344,18,63,2002,1,Male,"481 Johannesburg Road, Pretoria",433332,883512,1923534,577,3
+1189,63,68,1956,11,Female,"492 Swart Street, East London",278820,568476,420462,693,4
+921,74,66,1945,5,Male,"530 Main Road, Gqeberha",469296,972234,65304,779,8
+393,41,64,1978,12,Male,"766 Pretoria Street, Bloemfontein",285912,582966,1173078,765,1
+1254,61,65,1959,2,Female,"742 King George Street, Gqeberha",305604,623142,239868,747,5
+212,52,67,1968,2,Male,"335 Cape Road, East London",248382,506466,1592676,797,6
+1262,56,68,1963,11,Female,"253 Queen Street, Johannesburg",247014,503658,1132668,717,3
+122,65,66,1954,3,Female,"422 Van der Merwe Avenue, Gqeberha",346266,705978,817362,786,4
+1118,25,70,1994,8,Female,"361 King George Street, Bloemfontein",733698,1495872,4005036,714,5
+974,59,65,1960,9,Male,"507 Cape Road, Johannesburg",431388,879606,1671714,644,2
+1274,49,61,1970,4,Female,"226 Voortrekker Road, Bloemfontein",436680,890352,2217564,705,6
+1453,37,73,1982,11,Female,"563 Church Street, Bloemfontein",318888,650196,928674,641,2
+337,20,74,1999,9,Male,"227 Victoria Road, Pretoria",408618,833112,831960,850,1
+1023,49,69,1970,10,Female,"14 Queen Street, Pietermaritzburg",429822,876384,1475910,679,1
+1903,50,68,1969,9,Female,"374 King George Street, Johannesburg",630558,1285686,2082636,709,3
+604,60,65,1959,12,Male,"659 King George Street, Cape Town",625392,1275120,946404,736,4
+1637,32,66,1988,2,Female,"405 Van der Merwe Avenue, Pretoria",483804,986472,3104874,687,2
+1470,88,57,1931,9,Male,"72 Cape Road, Pietermaritzburg",235584,402678,17892,700,4
+1856,51,65,1968,11,Male,"290 Van der Merwe Avenue, Pretoria",330768,674406,908298,784,4
+907,32,71,1987,11,Male,"734 King George Street, Pietermaritzburg",551700,1124856,336240,686,3
+1923,42,67,1977,8,Male,"904 Durban Road, Johannesburg",309996,632142,1034334,850,3
+674,63,66,1957,1,Female,"741 Pretoria Street, Johannesburg",248490,506646,467766,756,7
+1665,19,62,2001,1,Male,"549 Market Street, Cape Town",570186,1162530,2193318,665,1
+548,33,69,1986,6,Male,"779 Voortrekker Road, Pretoria",264762,539928,797634,809,4
+209,61,67,1959,1,Female,"91 Voortrekker Road, Bloemfontein",257796,525708,467388,716,6
+730,51,69,1968,8,Male,"145 Johannesburg Road, Cape Town",749934,1528992,1039428,713,3
+670,21,71,1998,3,Female,"761 Johannesburg Road, East London",211914,432108,1030068,801,2
+627,50,62,1969,11,Male,"909 Nelson Mandela Drive, Cape Town",403218,822132,1499958,717,1
+924,48,75,1972,1,Female,"933 Nelson Mandela Drive, Gqeberha",356580,727056,943506,645,1
+894,41,68,1978,5,Female,"614 Market Street, Johannesburg",356058,726012,1184274,597,3
+1633,36,65,1984,1,Male,"192 Van der Merwe Avenue, East London",378954,772686,2382174,687,4
+1593,24,69,1995,12,Male,"781 Church Street, Pietermaritzburg",327744,668196,1061712,753,4
+720,36,65,1983,5,Female,"630 Victoria Road, Johannesburg",174780,356400,720684,682,3
+264,49,67,1970,8,Male,"438 Church Street, Bloemfontein",391104,797454,961326,696,1
+827,61,71,1958,4,Female,"952 Queen Street, Pretoria",273492,557712,705996,616,4
+414,45,66,1975,1,Female,"838 Johannesburg Road, East London",996516,2031750,799776,709,2
+1439,28,65,1991,11,Female,"287 Nelson Mandela Drive, Pietermaritzburg",259308,528678,581400,715,2
+843,35,64,1984,8,Male,"72 Van der Merwe Avenue, Cape Town",250038,509850,695844,822,6
+1008,52,69,1968,2,Female,"105 Pretoria Street, East London",401328,818316,1232892,657,5
+1834,32,66,1987,7,Female,"273 King George Street, Gqeberha",313992,640170,983412,681,3
+1126,18,64,2002,1,Male,"474 Market Street, Cape Town",370260,754920,1486674,710,1
+881,61,70,1958,3,Female,"181 Queen Street, Pretoria",515934,1051794,868158,696,4
+679,57,69,1962,11,Male,"433 Pretoria Street, Durban",302562,616896,711252,765,4
+1333,18,69,2001,9,Male,"963 Nelson Mandela Drive, Bloemfontein",629532,1283616,3614274,741,4
+398,49,69,1970,11,Female,"708 Jan Smuts Avenue, Durban",330192,673218,1371618,737,4
+151,18,65,2002,2,Female,"51 King George Street, Gqeberha",502488,1024578,2075940,823,1
+106,52,60,1967,10,Male,"669 Nelson Mandela Drive, Pretoria",264438,539226,1085778,624,5
+1784,51,68,1969,1,Male,"280 Church Street, East London",390240,795708,1130634,690,1
+1924,47,57,1973,1,Male,"150 Main Road, Pretoria",337140,687420,1475424,652,1
+671,37,66,1982,4,Female,"610 Queen Street, Durban",300402,612576,1237716,769,2
+1472,43,69,1976,6,Male,"985 Swart Street, Durban",319518,651402,305784,694,3
+855,51,65,1969,1,Male,"521 Swart Street, East London",199098,406026,1134342,699,5
+981,44,68,1975,11,Male,"308 Durban Road, Cape Town",495792,1010934,1885806,671,1
+1030,44,71,1975,10,Male,"296 Voortrekker Road, Bloemfontein",396900,809334,1632276,705,4
+384,20,68,1999,11,Male,"819 Victoria Road, East London",345600,704592,996246,702,1
+80,82,67,1937,8,Female,"959 Pretoria Street, Cape Town",271620,392670,28746,498,5
+1331,49,70,1971,2,Female,"779 Market Street, Pretoria",432792,882468,1500930,718,1
+205,38,68,1982,1,Male,"246 Durban Road, Bloemfontein",352080,717876,1400706,809,4
+1048,59,63,1960,12,Female,"104 Victoria Road, Pretoria",475596,969804,1406574,779,4
+1801,18,64,2001,9,Female,"477 Queen Street, Pretoria",279360,569592,1261152,480,1
+1490,30,69,1989,4,Female,"877 Pretoria Street, East London",369396,753102,832068,761,4
+818,54,66,1965,3,Female,"358 Church Street, Durban",275724,562320,468090,770,5
+1463,80,69,1940,1,Female,"727 King George Street, East London",261270,175788,1188,732,4
+1835,25,65,1994,8,Female,"555 Market Street, Durban",297342,606276,768420,793,1
+952,29,66,1990,5,Male,"523 Cape Road, Durban",1119186,2281950,519642,685,2
+616,45,72,1974,5,Female,"358 Nelson Mandela Drive, Bloemfontein",307368,626706,1139634,586,1
+638,65,65,1955,2,Female,"633 Cape Road, Durban",451836,304002,692802,679,5
+1366,25,63,1994,9,Female,"525 Church Street, Johannesburg",353106,720000,2303118,767,3
+443,31,71,1988,5,Male,"804 Church Street, Durban",370656,755748,2414916,697,1
+336,23,65,1996,12,Male,"648 Durban Road, Bloemfontein",389556,794304,0,760,1
+611,23,65,1996,7,Male,"525 King George Street, Pietermaritzburg",518382,1056978,2431170,758,1
+973,55,68,1964,5,Male,"137 Durban Road, Pretoria",221130,450918,350370,734,4
+632,20,67,1999,12,Female,"539 Pretoria Street, Pretoria",256356,522720,653958,703,1
+1918,45,67,1974,6,Male,"675 King George Street, Pietermaritzburg",374076,762822,1154232,550,1
+1827,59,67,1960,5,Male,"718 Market Street, Durban",409086,834138,1414980,686,6
+70,20,64,2000,2,Male,"589 Nelson Mandela Drive, East London",558720,1139256,2623608,635,1
+672,37,68,1983,2,Male,"303 King George Street, Durban",211590,431406,69840,722,4
+1461,41,72,1978,12,Female,"827 Voortrekker Road, Bloemfontein",424062,864684,1498284,704,6
+510,27,65,1992,10,Male,"726 Voortrekker Road, Cape Town",405882,827514,0,777,2
+256,75,65,1945,2,Male,"499 Jan Smuts Avenue, East London",350730,411300,314154,714,6
+1410,22,63,1998,1,Female,"516 Johannesburg Road, Pretoria",378306,771408,1223172,571,1
+574,22,66,1997,12,Male,"723 Durban Road, Johannesburg",314604,641430,294696,713,4
+1837,66,66,1953,5,Female,"423 King George Street, Gqeberha",209682,449046,31806,766,4
+1974,74,57,1945,4,Female,"498 Swart Street, Bloemfontein",325044,572256,517014,647,3
+30,23,59,1996,8,Female,"229 Main Road, Gqeberha",344142,701694,1729764,577,1
+1270,31,67,1988,4,Female,"999 Main Road, Durban",645498,1316106,1324026,685,2
+1815,59,66,1960,3,Female,"983 King George Street, Pretoria",547254,1115838,38718,758,4
+805,19,65,2000,3,Female,"139 Johannesburg Road, Johannesburg",284220,579456,433332,686,2
+464,36,64,1983,11,Male,"45 Church Street, Johannesburg",595404,1213992,1683234,850,1
+1042,22,67,1997,10,Female,"860 Swart Street, Bloemfontein",404730,825228,1858986,766,1
+1579,81,70,1938,6,Female,"761 Voortrekker Road, Bloemfontein",339858,514692,32778,728,5
+830,29,71,1990,10,Female,"148 Market Street, Pietermaritzburg",592974,1208988,2230776,688,2
+465,47,72,1972,5,Male,"849 Queen Street, Gqeberha",370458,755370,1002600,724,2
+1954,47,68,1973,1,Female,"862 Market Street, Bloemfontein",427320,871308,1447938,683,3
+959,35,67,1984,11,Female,"233 King George Street, Gqeberha",903744,1842642,3412044,738,2
+1049,66,67,1953,11,Female,"196 Nelson Mandela Drive, East London",322074,656658,1467900,850,6
+1925,25,63,1994,11,Male,"961 Johannesburg Road, Pretoria",537696,1096380,1995552,679,2
+1088,49,65,1970,11,Female,"183 Van der Merwe Avenue, Gqeberha",308844,629676,2423358,765,3
+14,79,57,1940,12,Female,"802 Johannesburg Road, Gqeberha",383652,580176,380412,652,5
+162,37,69,1983,1,Male,"741 Main Road, Pietermaritzburg",583614,1189998,1765836,771,5
+1692,81,59,1938,8,Female,"430 Market Street, East London",1335690,2928762,101556,542,3
+380,46,70,1974,1,Male,"438 Victoria Road, Durban",334224,681426,1039086,800,2
+141,70,66,1949,7,Male,"771 Pretoria Street, Bloemfontein",312408,415476,421308,638,5
+1348,83,64,1936,6,Male,"425 Voortrekker Road, Johannesburg",0,36,0,667,6
+1256,37,68,1982,9,Male,"571 Nelson Mandela Drive, Pietermaritzburg",496602,1012464,2692566,728,4
+1690,18,67,2001,3,Female,"471 Church Street, Pretoria",284976,581058,1455876,630,2
+169,85,71,1934,5,Male,"823 Queen Street, Johannesburg",256032,548118,1674,686,4
+1955,85,62,1934,4,Female,"427 Durban Road, Bloemfontein",292464,506412,37458,674,2
+1807,47,65,1972,12,Female,"658 Durban Road, Pietermaritzburg",459666,937170,1775034,828,5
+102,32,67,1987,7,Female,"208 Queen Street, Gqeberha",293202,597816,1073484,649,1
+257,52,65,1967,9,Male,"624 Johannesburg Road, Gqeberha",274302,559260,1561446,708,4
+911,18,68,2001,11,Male,"170 Durban Road, Gqeberha",261000,532116,567162,757,1
+987,52,67,1967,10,Male,"901 Voortrekker Road, Bloemfontein",543222,1107576,482976,683,4
+101,18,62,2002,1,Female,"212 Johannesburg Road, Johannesburg",271710,554004,1326240,681,1
+1141,66,57,1953,10,Male,"326 Swart Street, East London",285084,490788,356364,777,5
+1682,57,69,1962,5,Male,"939 Pretoria Street, Cape Town",430380,877500,2117088,716,5
+481,18,67,2002,2,Male,"141 Pretoria Street, East London",732492,1493496,3119310,653,1
+978,21,62,1998,7,Female,"576 Johannesburg Road, Gqeberha",496854,1013040,1472454,760,1
+1550,18,67,2001,4,Male,"565 Pretoria Street, Pretoria",442152,901548,920952,776,3
+1162,22,69,1997,12,Female,"250 Queen Street, Gqeberha",343368,700056,902700,705,2
+172,47,66,1972,4,Female,"659 Nelson Mandela Drive, Durban",398754,812952,0,730,3
+892,38,66,1981,7,Female,"543 King George Street, East London",453690,925038,1694610,656,1
+315,54,69,1966,1,Male,"976 Swart Street, Johannesburg",374094,762822,2461464,692,3
+1739,49,62,1970,8,Male,"880 Cape Road, Durban",300114,611910,829836,531,1
+836,18,65,2002,1,Male,"581 King George Street, Cape Town",283950,578970,464004,689,1
+39,54,67,1965,5,Female,"939 Pretoria Street, Cape Town",545058,1111320,2268270,583,2
+155,86,69,1933,11,Female,"782 Van der Merwe Avenue, Pretoria",258894,174204,14616,688,6
+1305,46,73,1974,2,Female,"202 Main Road, Johannesburg",344070,701478,0,784,3
+1504,85,71,1934,7,Male,"568 Cape Road, Cape Town",219366,230868,27900,734,5
+1105,77,60,1942,6,Male,"414 Main Road, Durban",256950,397872,360558,670,3
+1761,23,71,1996,10,Female,"421 Voortrekker Road, Durban",495864,1011024,3357612,703,3
+215,18,65,2002,2,Male,"756 Pretoria Street, Johannesburg",400014,815634,386784,716,2
+948,53,65,1966,12,Female,"458 Van der Merwe Avenue, Pietermaritzburg",327690,668142,990180,718,5
+862,25,67,1995,1,Female,"375 Cape Road, Gqeberha",378576,771894,1186506,807,3
+1514,53,58,1966,11,Female,"886 Van der Merwe Avenue, Bloemfontein",325980,664650,1615716,721,5
+1698,32,64,1987,7,Male,"835 Voortrekker Road, Durban",600084,1223568,1896066,747,3
+1316,27,65,1993,2,Female,"745 Johannesburg Road, Pretoria",293652,598788,0,693,5
+1831,25,60,1994,5,Female,"883 Johannesburg Road, Pietermaritzburg",348876,711360,1103580,595,2
+889,27,65,1992,3,Male,"567 Nelson Mandela Drive, Gqeberha",463914,945900,2534850,710,1
+526,51,62,1968,3,Female,"841 Jan Smuts Avenue, Cape Town",569250,1160658,2059092,627,5
+231,55,67,1964,3,Female,"156 Durban Road, Pretoria",320202,652860,1328022,769,5
+910,31,57,1989,2,Male,"507 Van der Merwe Avenue, Bloemfontein",678186,1382760,2864466,819,2
+876,65,62,1954,5,Male,"18 Cape Road, East London",407484,896706,484704,600,2
+1509,67,71,1952,8,Female,"114 Cape Road, Pietermaritzburg",415728,847566,1664802,820,5
+1422,66,66,1953,7,Female,"16 Victoria Road, Durban",330120,648936,118836,767,4
+1400,29,71,1990,5,Male,"785 Durban Road, Pretoria",224532,457812,0,698,2
+492,41,70,1978,9,Male,"119 Nelson Mandela Drive, Johannesburg",339426,692100,925740,850,1
+1516,38,67,1981,3,Male,"978 Market Street, Bloemfontein",607644,1238886,642042,755,2
+1649,64,63,1956,2,Male,"760 King George Street, Pietermaritzburg",0,7182,5814,729,3
+1573,71,56,1949,1,Male,"623 Voortrekker Road, Cape Town",233856,319950,207360,746,1
+583,64,67,1955,11,Male,"566 Van der Merwe Avenue, Johannesburg",255600,521172,746298,636,2
+1811,83,67,1936,3,Male,"678 Jan Smuts Avenue, Pietermaritzburg",1381050,1476162,112122,764,8
+1054,50,69,1970,2,Male,"70 King George Street, Pretoria",406782,829386,2445516,639,3
+1678,36,65,1983,3,Male,"911 Voortrekker Road, Cape Town",514026,1048050,1820664,685,3
+333,20,64,2000,1,Female,"698 Queen Street, Bloemfontein",419364,855072,1172808,706,1
+1412,58,67,1961,6,Female,"126 Queen Street, East London",478206,974988,0,707,5
+177,54,66,1965,12,Female,"940 Queen Street, Gqeberha",514260,1048464,1928340,728,4
+390,30,70,1989,4,Male,"689 Durban Road, East London",812574,1656828,119844,681,2
+1577,53,66,1966,12,Male,"518 Swart Street, Gqeberha",359694,733410,330678,718,4
+1609,71,68,1948,7,Female,"843 Cape Road, Johannesburg",640134,1577862,0,779,4
+1762,29,64,1990,5,Male,"308 King George Street, Pietermaritzburg",561312,1144494,3607830,635,1
+917,58,66,1962,1,Male,"163 Victoria Road, Cape Town",361062,736200,1159560,678,3
+1717,67,67,1952,7,Female,"197 Market Street, Cape Town",317970,775260,254430,726,4
+1355,54,67,1966,1,Male,"216 Nelson Mandela Drive, East London",210654,429534,1501740,536,2
+1668,92,67,1927,6,Male,"148 Cape Road, Johannesburg",477738,1009782,16794,751,6
+1293,32,65,1988,1,Female,"191 Jan Smuts Avenue, Pietermaritzburg",435906,888732,1947456,706,2
+1597,20,66,1999,7,Male,"862 Victoria Road, Johannesburg",633384,1291500,2108232,697,3
+202,20,66,1999,7,Female,"493 Johannesburg Road, Bloemfontein",574560,1171476,1590246,850,1
+493,18,65,2002,1,Male,"583 Pretoria Street, Durban",256410,522846,663030,786,1
+361,43,68,1976,6,Male,"435 Voortrekker Road, Gqeberha",344754,702936,1185498,804,4
+1659,94,65,1926,1,Female,"643 Johannesburg Road, Pietermaritzburg",506646,734166,28332,782,6
+289,22,64,1997,12,Female,"348 Pretoria Street, Pretoria",201942,411768,650826,685,2
+737,61,60,1958,3,Female,"915 Voortrekker Road, Gqeberha",341298,546462,297936,758,2
+1733,47,66,1972,6,Female,"530 King George Street, Durban",230652,470340,977220,498,1
+278,59,66,1960,9,Male,"47 Durban Road, Bloemfontein",1710702,3487824,2716128,686,5
+618,32,67,1987,8,Male,"872 Victoria Road, Pietermaritzburg",245376,500310,1301724,701,4
+753,53,66,1967,2,Female,"57 Church Street, Johannesburg",279720,570384,1201968,605,3
+489,36,66,1983,8,Male,"391 Victoria Road, Durban",324432,661554,605826,684,4
+90,63,62,1956,8,Male,"125 Swart Street, Pretoria",342324,230328,399456,644,3
+1264,32,65,1987,8,Female,"710 King George Street, Gqeberha",271386,553266,645444,815,2
+18,30,62,1989,12,Male,"293 Church Street, Cape Town",567990,1158120,1701234,637,1
+376,50,74,1969,4,Female,"166 Nelson Mandela Drive, Gqeberha",511794,1043550,622260,773,4
+579,30,67,1989,7,Male,"213 Van der Merwe Avenue, East London",348876,711360,970128,772,1
+218,59,68,1960,3,Female,"248 Pretoria Street, Gqeberha",301860,615420,706356,810,7
+1320,28,64,1991,10,Female,"245 Market Street, Pretoria",234036,477234,587160,604,1
+42,78,66,1941,11,Female,"488 Victoria Road, Johannesburg",228096,153468,67014,684,3
+1170,40,63,1980,2,Female,"687 Pretoria Street, Cape Town",360738,735606,908082,694,2
+1531,34,62,1985,10,Male,"795 Victoria Road, Johannesburg",261252,532692,859788,792,1
+1275,35,65,1984,3,Female,"428 Jan Smuts Avenue, Pietermaritzburg",205110,418284,569898,611,2
+26,49,68,1970,12,Female,"990 Victoria Road, East London",362556,739278,2234502,685,1
+1937,65,62,1955,2,Female,"566 Market Street, Durban",456300,307008,524016,667,5
+1177,36,66,1983,3,Female,"147 Victoria Road, Cape Town",570942,1164096,1016730,695,4
+1032,62,60,1957,6,Female,"10 Main Road, Johannesburg",311418,485550,309816,673,2
+397,30,65,1989,4,Female,"587 Voortrekker Road, Pietermaritzburg",180288,367632,265374,770,3
+566,60,67,1959,10,Female,"183 Church Street, Gqeberha",408240,832392,1952082,814,5
+1581,38,65,1981,11,Female,"939 Cape Road, Bloemfontein",391392,798012,993114,684,5
+1332,63,68,1956,6,Male,"296 Durban Road, Gqeberha",634842,1294362,795420,712,3
+1648,66,69,1953,5,Female,"84 Van der Merwe Avenue, Johannesburg",1641240,3346362,8313372,621,5
+17,76,65,1943,7,Male,"720 Cape Road, Pietermaritzburg",321300,393606,379854,759,2
+349,40,61,1979,12,Female,"528 Main Road, Gqeberha",381618,778122,1742958,685,2
+1200,64,64,1956,2,Male,"825 Durban Road, Cape Town",277218,439560,260280,685,1
+228,54,66,1966,1,Female,"532 Queen Street, Pietermaritzburg",279432,569790,835290,623,1
+484,84,64,1936,1,Female,"156 Voortrekker Road, Bloemfontein",749970,1201410,12276,718,3
+1099,22,65,1997,4,Male,"852 Church Street, East London",363852,741852,2349684,763,1
+1480,49,64,1970,6,Male,"330 Victoria Road, Pretoria",439254,895608,1273392,705,1
+1449,66,63,1953,6,Male,"267 Pretoria Street, East London",276012,505872,216972,751,3
+1417,54,68,1965,3,Female,"497 Church Street, Pretoria",465084,948240,1567476,835,5
+267,61,66,1958,3,Female,"857 Queen Street, East London",244836,499194,392130,765,3
+373,61,63,1959,2,Male,"261 King George Street, Pretoria",188874,385146,985878,812,4
+1772,47,70,1972,10,Male,"36 Pretoria Street, Pretoria",442854,902934,1749384,761,4
+1418,25,69,1994,5,Female,"825 King George Street, Bloemfontein",237780,484902,1252566,752,1
+1774,52,69,1967,10,Male,"676 Jan Smuts Avenue, Pietermaritzburg",371916,758322,1831356,758,4
+964,48,66,1971,12,Female,"932 King George Street, Durban",401004,817596,1510920,689,4
+72,37,66,1982,12,Male,"674 Church Street, Pietermaritzburg",365490,745218,1281240,580,1
+6,19,63,2000,6,Female,"962 Market Street, Gqeberha",493092,1005372,1998756,782,1
+1527,66,67,1953,11,Female,"711 Market Street, Cape Town",446022,909414,1777734,578,1
+1433,73,67,1946,3,Male,"49 Pretoria Street, East London",456858,865080,313920,581,3
+1785,40,64,1979,10,Male,"657 Market Street, Pretoria",228312,465498,756900,607,3
+1476,29,66,1990,3,Female,"190 Queen Street, Durban",394488,804384,1585656,716,3
+455,41,69,1979,1,Female,"551 Durban Road, Pretoria",439416,895968,312336,684,3
+1553,21,62,1998,10,Male,"961 Main Road, Gqeberha",759618,1548756,2978046,701,2
+532,27,65,1993,1,Male,"911 Swart Street, East London",428004,872712,1144098,775,4
+1092,54,62,1965,5,Male,"617 Queen Street, Durban",422100,860652,1656360,720,2
+1819,20,69,1999,8,Female,"809 Voortrekker Road, Pretoria",313920,640062,1064952,672,2
+528,38,65,1981,7,Male,"757 Swart Street, Pietermaritzburg",357354,728604,1375056,718,3
+328,45,67,1974,3,Male,"490 Nelson Mandela Drive, Bloemfontein",320706,653814,1179450,700,3
+1282,34,66,1985,3,Female,"204 Church Street, Johannesburg",364158,742482,760824,695,2
+783,62,61,1957,9,Male,"91 Van der Merwe Avenue, Bloemfontein",287388,535842,261756,693,3
+1325,23,66,1996,3,Female,"489 Van der Merwe Avenue, Gqeberha",2710494,5526324,9292734,745,2
+687,20,66,1999,11,Male,"12 Durban Road, Bloemfontein",320094,652752,1792476,725,1
+1693,36,69,1983,4,Female,"126 King George Street, Cape Town",653400,1332288,1533672,702,2
+1542,46,69,1973,12,Female,"955 Swart Street, Durban",490500,1000170,612702,731,2
+36,31,63,1988,6,Male,"65 Nelson Mandela Drive, Bloemfontein",443520,904356,1520226,722,2
+360,43,67,1976,4,Male,"327 Main Road, East London",408546,833004,922374,791,4
+555,31,63,1988,5,Male,"988 Durban Road, Johannesburg",385992,787032,969354,514,1
+136,18,66,2001,4,Female,"885 Jan Smuts Avenue, Gqeberha",569448,1161072,1242738,695,3
+603,42,67,1978,2,Female,"8 Cape Road, Gqeberha",393912,803232,1851876,611,1
+1794,49,58,1970,12,Male,"528 King George Street, Bloemfontein",663336,1352466,3154734,631,1
+329,70,65,1949,3,Male,"662 Swart Street, East London",381438,661032,295866,701,4
+1181,61,66,1958,4,Male,"600 Durban Road, East London",455382,928458,632412,810,5
+598,47,63,1972,11,Male,"996 Swart Street, Bloemfontein",380862,776592,974826,628,3
+990,91,67,1929,1,Female,"972 Van der Merwe Avenue, Bloemfontein",296532,488700,36126,737,1
+1777,47,67,1972,5,Male,"992 Swart Street, Cape Town",551196,1123776,1724382,741,5
+998,18,67,2001,11,Male,"269 Cape Road, Bloemfontein",247302,504108,351324,703,2
+1872,62,65,1957,10,Male,"213 Main Road, Durban",595674,1214460,1688310,804,6
+1743,18,75,2002,1,Female,"213 Main Road, Cape Town",461844,941670,1971234,774,4
+1000,20,73,1999,8,Female,"666 Main Road, Pietermaritzburg",480474,979632,1659582,687,1
+1708,22,66,1997,7,Male,"790 Queen Street, East London",399510,814572,1363644,850,2
+799,34,68,1985,7,Female,"456 Van der Merwe Avenue, Pretoria",278298,567450,1040724,686,2
+144,44,67,1975,3,Female,"716 Voortrekker Road, Pietermaritzburg",285426,581940,1749420,835,4
+781,30,74,1989,9,Male,"729 Jan Smuts Avenue, Cape Town",300060,611874,812682,602,4
+1572,40,70,1979,7,Female,"745 Johannesburg Road, Pretoria",167112,340830,790704,658,3
+793,73,60,1946,8,Female,"266 Church Street, Pretoria",379512,766674,289494,703,2
+1681,21,72,1998,6,Male,"809 Nelson Mandela Drive, Cape Town",574362,1171044,2838744,746,1
+1179,50,71,1969,7,Female,"62 King George Street, Bloemfontein",437616,892260,785610,752,5
+114,47,65,1972,12,Female,"446 Nelson Mandela Drive, Johannesburg",304056,619938,16326,725,4
+271,30,65,1989,7,Female,"143 Main Road, Durban",371682,757818,1268280,685,1
+1107,71,69,1949,1,Female,"43 Nelson Mandela Drive, Pretoria",329814,729288,124344,698,5
+517,33,71,1986,11,Male,"570 Johannesburg Road, East London",211914,432162,343530,811,4
+624,33,66,1987,2,Male,"191 King George Street, Pietermaritzburg",331758,676422,1065618,710,2
+1215,53,68,1967,2,Female,"347 Jan Smuts Avenue, Pretoria",372114,758736,1000368,751,1
+1992,63,72,1956,7,Female,"182 Van der Merwe Avenue, Gqeberha",209448,427050,857646,710,5
+968,21,69,1998,9,Female,"943 Queen Street, Bloemfontein",260208,530550,877338,722,1
+19,82,68,1937,5,Female,"510 Swart Street, Pretoria",415278,628254,24048,630,1
+1605,39,67,1980,5,Male,"261 Swart Street, Pietermaritzburg",347274,708048,787446,690,3
+463,32,74,1987,5,Female,"787 Pretoria Street, Cape Town",355392,724608,0,719,2
+1365,18,65,2002,2,Male,"862 Durban Road, Gqeberha",481536,981846,1672218,751,1
+809,54,66,1965,5,Female,"152 Voortrekker Road, Pretoria",755622,1540728,2863818,618,1
+590,37,66,1982,6,Male,"10 Queen Street, East London",309564,631080,703872,724,2
+1904,69,70,1951,2,Male,"144 Durban Road, Pietermaritzburg",273510,557694,180342,757,5
+545,55,67,1964,10,Male,"668 Swart Street, Johannesburg",403488,822726,2037492,715,3
+789,43,60,1976,11,Female,"490 King George Street, Durban",439506,896184,1510776,690,3
+742,69,67,1950,12,Female,"346 Nelson Mandela Drive, Gqeberha",432288,913554,364068,698,4
+612,88,67,1931,9,Female,"817 Cape Road, Johannesburg",341262,293328,12006,838,7
+536,21,62,1998,8,Male,"189 Johannesburg Road, East London",274356,559386,1613862,789,5
+523,27,65,1992,6,Female,"540 Church Street, Pretoria",339786,692766,504576,773,4
+928,59,66,1960,12,Female,"200 Johannesburg Road, Bloemfontein",285516,582246,1488006,784,7
+1642,37,66,1982,4,Female,"579 Church Street, Johannesburg",357264,728460,754884,731,5
+495,49,63,1970,8,Male,"17 Pretoria Street, Cape Town",335682,684504,1423818,831,4
+166,83,64,1936,4,Female,"312 Durban Road, East London",317412,460206,18018,665,3
+1277,33,65,1987,1,Male,"685 Nelson Mandela Drive, Pretoria",457722,933264,1565118,692,1
+718,48,63,1971,8,Male,"294 Swart Street, Pietermaritzburg",256734,523458,1013418,655,3
+1962,34,68,1985,9,Male,"137 Market Street, East London",815526,1662750,2825082,712,5
+133,31,65,1988,10,Female,"413 Cape Road, Cape Town",553446,1128456,905220,698,2
+682,58,62,1961,10,Male,"861 Johannesburg Road, Johannesburg",310968,634122,1097010,724,2
+795,40,58,1979,3,Female,"316 King George Street, Pretoria",670212,1366524,1702422,759,2
+1849,39,66,1980,11,Female,"10 Market Street, Bloemfontein",366210,746694,1153764,721,2
+1732,50,60,1969,7,Female,"892 Market Street, Johannesburg",475038,968580,1421748,637,1
+167,26,72,1994,1,Female,"691 Durban Road, East London",335826,684648,0,743,3
+1496,20,65,1999,9,Male,"294 Durban Road, Cape Town",430362,877446,3082482,713,3
+853,29,67,1990,8,Female,"286 Church Street, Pretoria",662706,1351260,2907450,723,1
+237,42,72,1977,8,Male,"84 Durban Road, Gqeberha",517194,1054512,1786230,563,2
+769,53,66,1966,10,Female,"633 King George Street, Pietermaritzburg",352872,719532,1403406,644,2
+2,48,64,1971,8,Male,"410 Swart Street, East London",242298,494046,1455300,673,5
+313,32,68,1987,6,Female,"685 Market Street, Johannesburg",296154,603864,561294,693,2
+1624,23,74,1996,7,Male,"1 Nelson Mandela Drive, East London",372546,759600,514026,769,2
+958,18,65,2001,9,Female,"804 King George Street, Bloemfontein",295434,602262,679554,705,3
+989,78,66,1941,9,Male,"235 Victoria Road, Durban",831150,2043252,297432,727,8
+1562,38,65,1982,2,Female,"527 King George Street, Bloemfontein",225306,459432,1249218,759,3
+1983,50,67,1969,3,Male,"41 Market Street, East London",1246248,2540898,0,773,3
+1091,32,66,1987,5,Female,"987 Victoria Road, Gqeberha",475758,970020,4537908,656,4
+759,60,65,1959,12,Male,"716 Durban Road, Johannesburg",658134,1341900,673686,687,4
+779,81,69,1938,3,Female,"522 Main Road, Pretoria",375732,588042,25794,755,5
+105,54,68,1965,8,Male,"440 Jan Smuts Avenue, Pietermaritzburg",331776,676422,0,742,5
+1618,53,66,1966,12,Male,"648 Van der Merwe Avenue, Cape Town",623628,1271412,2801718,682,4
+1168,51,68,1968,10,Male,"215 Nelson Mandela Drive, Gqeberha",968220,1974114,4362822,505,1
+1237,46,66,1973,9,Female,"26 Swart Street, East London",283860,578700,849222,717,6
+699,42,68,1978,2,Male,"194 Pretoria Street, Pretoria",401544,818550,1230444,698,3
+646,38,65,1981,12,Female,"635 Jan Smuts Avenue, East London",385236,785412,1314666,786,3
+499,23,66,1996,9,Male,"171 Queen Street, Bloemfontein",333450,679842,25416,742,2
+1403,74,61,1945,11,Male,"349 Church Street, Pretoria",466866,441810,404784,753,2
+631,83,65,1936,5,Female,"72 Nelson Mandela Drive, Johannesburg",307260,608598,39708,682,7
+1070,61,65,1958,11,Male,"948 Cape Road, Bloemfontein",454950,927504,1053162,745,6
+291,64,66,1956,1,Female,"775 Main Road, Cape Town",356724,727326,1128510,793,3
+738,57,67,1962,10,Female,"725 Main Road, Johannesburg",564786,1151532,2371158,707,4
+142,59,68,1960,11,Female,"233 Queen Street, Pretoria",457182,932184,1397556,675,2
+1375,23,70,1996,4,Female,"975 Pretoria Street, Gqeberha",632052,1288620,1091430,717,2
+459,65,70,1954,5,Male,"182 Jan Smuts Avenue, Pretoria",222966,454626,1511910,734,6
+281,24,65,1996,2,Male,"590 Jan Smuts Avenue, Gqeberha",340326,693882,642438,684,2
+498,20,61,1999,6,Male,"760 Van der Merwe Avenue, East London",411192,838440,1639458,660,2
+55,61,68,1958,3,Female,"523 Queen Street, Gqeberha",393642,802494,1539558,717,5
+1370,62,66,1958,1,Female,"872 Swart Street, East London",467082,952344,1966122,709,4
+897,30,64,1989,8,Female,"475 King George Street, Gqeberha",238284,485928,599976,501,2
+262,18,60,2002,2,Male,"120 Pretoria Street, Pietermaritzburg",288090,587430,862740,734,3
+1781,29,53,1990,3,Male,"252 Johannesburg Road, Bloemfontein",318258,648900,820062,708,3
+457,34,65,1985,10,Female,"172 Queen Street, Pietermaritzburg",320706,653832,1020402,705,4
+160,44,68,1975,10,Male,"707 Main Road, Cape Town",335196,683370,1253052,796,3
+1655,57,63,1962,12,Male,"751 Pretoria Street, East London",307692,627408,2291634,830,3
+984,63,66,1956,3,Female,"372 Queen Street, Gqeberha",290700,592704,1454292,850,5
+1329,24,68,1995,3,Female,"764 Jan Smuts Avenue, Gqeberha",247302,504198,363528,720,4
+1535,59,64,1960,8,Male,"860 Church Street, Pretoria",294048,599598,1184796,590,2
+1220,22,62,1997,4,Female,"700 King George Street, Pretoria",307674,627336,968940,641,1
+833,21,65,1998,11,Female,"719 Jan Smuts Avenue, Pretoria",392886,801018,670518,683,2
+295,53,69,1966,11,Male,"661 Van der Merwe Avenue, Bloemfontein",265302,540972,1082304,681,1
+1434,62,67,1957,10,Male,"502 Main Road, Johannesburg",360990,736038,1102410,717,4
+208,37,66,1982,7,Female,"407 Church Street, Cape Town",598068,1219446,1379700,804,3
+1909,56,66,1963,5,Male,"770 Jan Smuts Avenue, Cape Town",234036,477180,954414,696,4
+1356,84,70,1936,1,Male,"173 Nelson Mandela Drive, Johannesburg",345528,480168,24660,733,5
+265,44,70,1975,10,Female,"958 King George Street, Cape Town",401652,818946,1827882,713,3
+1947,87,66,1932,4,Male,"845 Johannesburg Road, Durban",253080,503478,22770,765,4
+1089,31,75,1988,9,Female,"703 Swart Street, Cape Town",454644,927018,2528658,729,3
+1790,21,69,1998,3,Male,"427 Cape Road, Durban",1004652,2048346,3054312,660,1
+1999,19,69,2000,12,Male,"653 Victoria Road, Durban",301392,614412,0,683,2
+614,84,66,1935,9,Female,"994 Nelson Mandela Drive, Gqeberha",370260,295740,51714,779,7
+814,72,65,1948,1,Male,"775 Johannesburg Road, Johannesburg",275724,293436,259344,748,4
+175,33,63,1986,6,Female,"498 Main Road, Bloemfontein",477504,973638,2987280,675,1
+305,51,65,1968,10,Male,"982 Cape Road, Durban",259470,528984,381978,755,3
+1225,54,70,1965,11,Male,"640 Johannesburg Road, Cape Town",554742,1131066,1551078,850,3
+1405,45,71,1974,4,Male,"773 Queen Street, Durban",430380,877590,671670,777,8
+1478,39,66,1980,10,Female,"580 Queen Street, Pretoria",392922,801108,1043892,849,3
+1920,64,66,1955,7,Male,"700 Queen Street, Pretoria",275850,562392,934632,713,4
+241,58,67,1961,4,Female,"147 Market Street, Pietermaritzburg",270162,550890,297882,737,5
+331,34,68,1985,6,Male,"695 Church Street, Johannesburg",264042,538326,301752,732,2
+8,21,69,1998,8,Male,"419 Durban Road, Durban",339858,692946,601434,699,2
+1354,34,59,1985,4,Male,"642 Johannesburg Road, Gqeberha",294282,600048,867834,692,3
+1258,79,65,1940,5,Female,"51 Pretoria Street, Johannesburg",357318,278460,276282,789,7
+919,54,62,1965,3,Female,"232 Victoria Road, East London",599310,1222020,2026152,698,2
+1447,33,60,1987,2,Male,"138 Church Street, East London",606852,1237338,3657096,610,1
+902,31,64,1988,4,Male,"627 Nelson Mandela Drive, Pretoria",397458,810450,1128942,635,1
+1318,18,65,2002,2,Female,"615 Main Road, Gqeberha",403146,821952,0,778,4
+1545,20,63,1999,12,Male,"29 Queen Street, Gqeberha",272592,555876,1088712,807,3
+1001,20,62,1999,10,Male,"593 Queen Street, Bloemfontein",320310,653094,1097802,716,1
+1315,57,70,1962,8,Female,"422 Cape Road, Durban",287568,586368,0,753,4
+323,54,66,1965,7,Male,"643 Voortrekker Road, Pretoria",235674,480528,0,683,5
+625,19,66,2000,12,Female,"211 Jan Smuts Avenue, Cape Town",418032,852300,846468,680,1
+979,59,62,1961,2,Male,"245 Market Street, Cape Town",288450,588204,799812,693,3
+537,19,71,2000,10,Female,"9 Main Road, Cape Town",568800,1159704,2213424,703,2
+1096,59,67,1960,10,Male,"977 Queen Street, Durban",365292,744822,1727784,681,2
+1347,64,64,1955,5,Female,"630 Durban Road, Johannesburg",427608,997524,377100,590,3
+1395,58,65,1961,9,Male,"554 Van der Merwe Avenue, Pretoria",1356804,2766438,3552786,604,2
+1614,40,70,1979,9,Female,"867 Main Road, Durban",319140,650736,1464210,716,1
+1212,33,58,1987,2,Male,"211 Pretoria Street, Gqeberha",352890,719550,946350,810,1
+1588,42,69,1977,8,Male,"231 Cape Road, Durban",513954,1048014,2318112,689,2
+121,34,66,1985,11,Female,"893 King George Street, Gqeberha",400986,817542,2238660,721,3
+1773,22,70,1997,9,Male,"835 Cape Road, Bloemfontein",475560,969714,1385280,742,1
+1859,68,66,1952,1,Male,"66 Market Street, Pretoria",407178,696402,160956,836,5
+1339,25,70,1994,8,Male,"715 Market Street, Pietermaritzburg",568800,1159722,2450934,773,2
+1894,21,70,1999,1,Female,"735 Market Street, Durban",420246,856836,1607742,790,2
+77,99,67,1920,10,Female,"895 Main Road, Johannesburg",456048,919980,68058,709,8
+1222,42,66,1977,12,Female,"308 Swart Street, Cape Town",253692,517284,878148,600,1
+363,52,66,1967,9,Female,"381 Voortrekker Road, Johannesburg",429804,876348,2036466,701,3
+634,49,74,1970,8,Female,"923 Voortrekker Road, Gqeberha",433278,883422,116892,683,4
+628,57,66,1963,1,Male,"768 Church Street, Pretoria",945306,1927350,1367982,815,3
+756,66,65,1953,10,Female,"543 Pretoria Street, East London",512388,1066518,527400,679,1
+971,20,66,1999,10,Female,"167 Van der Merwe Avenue, Gqeberha",358182,730296,0,732,5
+111,25,65,1994,10,Female,"177 Market Street, Durban",264906,540072,1215468,738,3
+312,18,68,2002,2,Female,"418 Johannesburg Road, Pretoria",420894,858096,2076678,767,4
+1627,29,65,1990,6,Male,"799 Swart Street, Cape Town",331632,676224,959814,825,1
+1359,35,70,1984,7,Female,"857 Cape Road, Durban",397512,810450,897804,691,2
+174,23,69,1996,4,Female,"811 Main Road, Pretoria",394182,803592,1495944,716,3
+420,22,62,1998,2,Male,"640 Durban Road, Bloemfontein",292536,596520,923490,744,1
+488,34,69,1985,6,Male,"851 Van der Merwe Avenue, Pretoria",283644,578268,978318,745,2
+7,74,61,1945,5,Male,"674 Voortrekker Road, Gqeberha",376542,588276,384822,650,3
+863,60,68,1959,12,Female,"65 Voortrekker Road, Johannesburg",303786,619308,29448,774,3
+1854,48,69,1972,1,Male,"396 Market Street, Bloemfontein",426708,870066,1270854,625,2
+1041,48,62,1971,9,Female,"598 Main Road, Bloemfontein",287100,585396,902790,639,1
+1616,48,70,1971,8,Male,"867 Jan Smuts Avenue, East London",832176,1696680,707868,815,4
+1805,38,68,1981,5,Male,"177 Swart Street, Gqeberha",234954,479034,306144,718,2
+1284,50,64,1969,9,Female,"552 Johannesburg Road, Cape Town",352638,719046,1032228,765,2
+1735,56,66,1963,5,Male,"859 Pretoria Street, Durban",322956,658494,1013580,614,6
+1528,78,73,1942,1,Female,"296 King George Street, East London",311598,503856,19044,695,6
+1278,19,70,2000,9,Male,"965 Pretoria Street, Durban",250884,511506,467262,684,3
+591,50,60,1969,11,Male,"244 Jan Smuts Avenue, Durban",339498,692244,1185048,696,3
+97,69,60,1950,3,Female,"788 Nelson Mandela Drive, Bloemfontein",352728,593136,91386,765,1
+31,51,65,1968,6,Female,"852 Van der Merwe Avenue, Gqeberha",402264,820260,0,712,3
+1380,37,66,1982,9,Male,"313 Swart Street, Durban",374670,763992,1395180,736,2
+1240,56,67,1963,5,Female,"809 Voortrekker Road, Pietermaritzburg",280854,572652,776520,693,3
+932,67,69,1953,2,Male,"164 Nelson Mandela Drive, Pretoria",301680,615096,1284588,811,6
+378,18,60,2001,5,Female,"554 Victoria Road, Pietermaritzburg",337554,688338,1472994,596,1
+647,31,72,1988,7,Female,"776 Johannesburg Road, Cape Town",237492,484200,1333494,758,2
+391,85,66,1934,7,Female,"157 Queen Street, Durban",342450,634860,31842,731,6
+588,21,66,1998,6,Male,"263 Cape Road, Bloemfontein",415908,847962,1368630,844,3
+986,32,70,1987,7,Male,"83 Cape Road, Johannesburg",423900,864180,1581066,703,3
+1944,62,65,1957,11,Female,"372 Durban Road, Durban",435924,888804,1880640,740,4
+185,47,67,1973,1,Female,"303 Queen Street, Bloemfontein",273150,556956,1279188,779,3
+1007,66,60,1954,2,Male,"81 Van der Merwe Avenue, East London",456048,983772,490338,618,1
+1110,21,60,1998,11,Female,"219 Nelson Mandela Drive, Bloemfontein",581850,1186362,3262698,673,2
